@@ -30,3 +30,5 @@ body:has(dialog[open]){overflow:hidden}dialog{border:0;padding:0;max-height:94sv
 .signature-caption button{pointer-events:auto}
 
 .reduced-motion .hero-tools{top:calc(100svh - 140px)}
+
+.atlas-entry{align-self:center;font-size:11px;background:var(--paper);color:var(--ink);padding:12px 16px;border:1px solid #182b3433;border-radius:30px}@media(max-width:700px){.atlas-entry{font-size:10px;padding:10px}.header-right .highlights-link{display:none}}

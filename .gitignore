@@ -13,6 +13,14 @@
 !/agent-source.json
 !/photo-sources-v4.json
 !/photo-research-v4.json
+!/scripts/
+!/data/
+!/ATLAS-DESIGN.md
+!/ATLAS-SOURCES.md
+!/VALIDATION-ATLAS.json
+!/validate-atlas.cjs
+**/__pycache__/
+**/*.pyc
 **/.DS_Store
 **/Thumbs.db
 **/.env*

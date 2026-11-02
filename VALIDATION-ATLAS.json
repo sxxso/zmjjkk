@@ -1,0 +1,103 @@
+{
+  "date": "2026-11-02",
+  "roster": {
+    "teams": 12,
+    "players": 73,
+    "active": 62,
+    "substitutes": 7,
+    "inactive": 4,
+    "staffExcluded": true
+  },
+  "sources": {
+    "riotPortraits": 68,
+    "otherVlrPortraits": 2,
+    "missingPortraits": [
+      "77even",
+      "kodeth",
+      "Toosy"
+    ],
+    "missingAgentStats": [
+      "nothing"
+    ],
+    "newFlickrPhotoDownloads": "HTTP 403; match-data posters used instead"
+  },
+  "staticValidation": "73 generated player pages; local links, image assets, source numeric cells and derived totals verified",
+  "browserSamples": [
+    "CHICHOO",
+    "whzy",
+    "Rarga",
+    "Life",
+    "Toosy",
+    "nothing"
+  ],
+  "desktop": {
+    "viewport": [
+      1440,
+      900
+    ],
+    "hoverHashes": [
+      19936269,
+      16074654,
+      15693825,
+      19936269
+    ],
+    "heroScale": 0.37,
+    "agentMaps": [
+      172,
+      125,
+      122,
+      68
+    ],
+    "menuFocusAndClose": true,
+    "expandMatch": true,
+    "teamFilters": {
+      "EDG": 7,
+      "AG": 5,
+      "BLG": 8,
+      "DRG": 6,
+      "FPX": 5,
+      "JDG": 5,
+      "NOVA": 7,
+      "TEC": 6,
+      "TE": 7,
+      "TYL": 6,
+      "WOL": 5,
+      "XLG": 6
+    },
+    "chineseSearch": "张钊 -> Smoggy",
+    "caseInsensitiveSearch": "WhZy -> whzy",
+    "activeOnly": 62,
+    "emptyAndReset": true,
+    "sortAndViewAndShareableFilter": true
+  },
+  "mobile": {
+    "viewport": [
+      390,
+      844
+    ],
+    "touchReveal": true,
+    "reducedMotionTriggers": 0,
+    "reducedToggleWorks": true,
+    "canvas": [
+      390,
+      844
+    ],
+    "toggleBottom": 787,
+    "resume": true,
+    "overflow": 0
+  },
+  "offline": {
+    "profile": "Life",
+    "directoryFilter": "EDG -> 7 players",
+    "fonts": "loaded",
+    "externalRequests": 0,
+    "consoleErrors": 0,
+    "consoleWarnings": 0
+  },
+  "limitations": [
+    "Source snapshot is not a live transfer feed",
+    "Flickr photo CDN denied new downloads",
+    "Three missing portraits and one missing agent/match dataset are labelled",
+    "No low-end device FPS measurement"
+  ]
+}

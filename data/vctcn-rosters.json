@@ -1,0 +1,1138 @@
+{
+  "date": "2026-11-02",
+  "season": 2026,
+  "rosterScope": "2026 VCT CN参赛战队的VLR公开阵容快照；替补单独标注",
+  "teams": [
+    {
+      "code": "EDG",
+      "name": "EDward Gaming",
+      "slug": "edg",
+      "color": "#e94250",
+      "paper": "#f2f3ef",
+      "vlr": "https://www.vlr.gg/team/1120",
+      "official": "https://valorantesports.com/en-US/teams/edward-gaming",
+      "rosterSource": "https://www.vlr.gg/team/1120",
+      "logoSource": "https://owcdn.net/img/62c82049253b2.png",
+      "players": [
+        {
+          "handle": "nobody",
+          "realName": "Wang Senxu (王森旭)",
+          "vlr": "https://www.vlr.gg/player/3017/nobody",
+          "id": "3017",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/677fe4210de6e.png"
+        },
+        {
+          "handle": "ZmjjKK",
+          "realName": "Zheng Yongkang (郑永康)",
+          "vlr": "https://www.vlr.gg/player/3520/zmjjkk",
+          "id": "3520",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/677fe40edf9da.png"
+        },
+        {
+          "handle": "CHICHOO",
+          "realName": "Wan Shunzhi (万顺治)",
+          "vlr": "https://www.vlr.gg/player/15559/chichoo",
+          "id": "15559",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/677fe4289bb34.png"
+        },
+        {
+          "handle": "Smoggy",
+          "realName": "Zhang Zhao (张钊)",
+          "vlr": "https://www.vlr.gg/player/4742/smoggy",
+          "id": "4742",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/677fe435edc57.png"
+        },
+        {
+          "handle": "Jieni7",
+          "realName": "Zhang Juntai (张君泰)",
+          "vlr": "https://www.vlr.gg/player/51244/jieni7",
+          "id": "51244",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/67e2e8846d5a5.png"
+        },
+        {
+          "handle": "stew",
+          "realName": "Park Young-chan (박영찬)",
+          "vlr": "https://www.vlr.gg/player/16924/stew",
+          "id": "16924",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/6780d408e3835.png"
+        },
+        {
+          "handle": "zjc",
+          "realName": "Zhang Juncheng (张峻程)",
+          "vlr": "https://www.vlr.gg/player/7135/zjc",
+          "id": "7135",
+          "rosterStatus": "替补",
+          "portraitSource": "https://owcdn.net/img/6892da154edc5.png"
+        }
+      ],
+      "officialRoster": [
+        {
+          "handle": "CHICHOO",
+          "portrait": "https://static.lolesports.com/players/1768680020933_chichoo.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1768680020933_chichoo.png"
+        },
+        {
+          "handle": "nobody",
+          "portrait": "https://static.lolesports.com/players/1768681823755_nobody.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1768681823755_nobody.png"
+        },
+        {
+          "handle": "Smoggy",
+          "portrait": "https://static.lolesports.com/players/1768682410328_smoggy.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1768682410328_smoggy.png"
+        },
+        {
+          "handle": "ZmjjKK",
+          "portrait": "https://static.lolesports.com/players/1768683430899_zmjjkk-Photoroom.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1768683430899_zmjjkk-Photoroom.png"
+        },
+        {
+          "handle": "Jieni7",
+          "portrait": "https://static.lolesports.com/players/1768681253391_jieni.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1768681253391_jieni.png"
+        },
+        {
+          "handle": "stew",
+          "portrait": "https://static.lolesports.com/players/1788249179254_stew.PNG",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1788249179254_stew.PNG"
+        }
+      ],
+      "officialError": null
+    },
+    {
+      "code": "AG",
+      "name": "All Gamers",
+      "slug": "ag",
+      "color": "#df344c",
+      "paper": "#f4f3ec",
+      "vlr": "https://www.vlr.gg/team/1119",
+      "official": "https://valorantesports.com/en-US/teams/all-gamers",
+      "rosterSource": "https://www.vlr.gg/team/1119",
+      "logoSource": "https://owcdn.net/img/6549c2b905061.png",
+      "players": [
+        {
+          "handle": "Shr1mp",
+          "realName": "Yang Yong (杨勇)",
+          "vlr": "https://www.vlr.gg/player/25494/shr1mp",
+          "id": "25494",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/67e2eb755cab7.png"
+        },
+        {
+          "handle": "K1ra",
+          "realName": "Huang Zhihao (黄志豪)",
+          "vlr": "https://www.vlr.gg/player/46748/k1ra",
+          "id": "46748",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/677fbe754983a.png"
+        },
+        {
+          "handle": "Bai",
+          "realName": "Zhang Zeyang (张泽洋)",
+          "vlr": "https://www.vlr.gg/player/52101/bai",
+          "id": "52101",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/67d41e9ad9fef.png"
+        },
+        {
+          "handle": "f4ngeer",
+          "realName": "Roman Smirnov",
+          "vlr": "https://www.vlr.gg/player/21216/f4ngeer",
+          "id": "21216",
+          "rosterStatus": "阵容选手",
+          "portraitSource": null
+        },
+        {
+          "handle": "iamgrq",
+          "realName": "Gao Ruiqi (高锐琦)",
+          "vlr": "https://www.vlr.gg/player/58959/iamgrq",
+          "id": "58959",
+          "rosterStatus": "阵容选手",
+          "portraitSource": null
+        }
+      ],
+      "officialRoster": [
+        {
+          "handle": "Bai",
+          "portrait": "https://static.lolesports.com/players/1777611459734_Bai3.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1777611459734_Bai3.png"
+        },
+        {
+          "handle": "f4ngeer",
+          "portrait": "https://static.lolesports.com/players/1768680494967_f4ngeer.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1768680494967_f4ngeer.png"
+        },
+        {
+          "handle": "iamgrq",
+          "portrait": "https://static.lolesports.com/players/1768681134201_iamgrq-Photoroom.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1768681134201_iamgrq-Photoroom.png"
+        },
+        {
+          "handle": "K1ra",
+          "portrait": "https://static.lolesports.com/players/1768681351411_k1ra.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1768681351411_k1ra.png"
+        },
+        {
+          "handle": "Shr1mp",
+          "portrait": "https://static.lolesports.com/players/1768682332135_shr1mp.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1768682332135_shr1mp.png"
+        }
+      ],
+      "officialError": null
+    },
+    {
+      "code": "BLG",
+      "name": "Bilibili Gaming",
+      "slug": "blg",
+      "color": "#79cfe6",
+      "paper": "#eef6f7",
+      "vlr": "https://www.vlr.gg/team/12010",
+      "official": "https://valorantesports.com/en-US/teams/bilibili-gaming",
+      "rosterSource": "https://www.vlr.gg/team/12010",
+      "logoSource": "https://owcdn.net/img/63f25d72216c1.png",
+      "players": [
+        {
+          "handle": "whzy",
+          "realName": "Wang Haozhe (王昊哲)",
+          "vlr": "https://www.vlr.gg/player/4885/whzy",
+          "id": "4885",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/677fdfcb36dac.png"
+        },
+        {
+          "handle": "rushia",
+          "realName": "Wang Xiaojie (王晓杰)",
+          "vlr": "https://www.vlr.gg/player/48878/rushia",
+          "id": "48878",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/677fdfeb6f40b.png"
+        },
+        {
+          "handle": "nephh",
+          "realName": "Marcus Tan",
+          "vlr": "https://www.vlr.gg/player/10698/nephh",
+          "id": "10698",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/677fdff5be5db.png"
+        },
+        {
+          "handle": "yilai",
+          "realName": "Gu Yiming (顾依铭)",
+          "vlr": "https://www.vlr.gg/player/62947/yilai",
+          "id": "62947",
+          "rosterStatus": "阵容选手",
+          "portraitSource": null
+        },
+        {
+          "handle": "Knight",
+          "realName": "Liu Yuxiang (刘宇翔)",
+          "vlr": "https://www.vlr.gg/player/4774/knight",
+          "id": "4774",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/677fdffe244c5.png"
+        },
+        {
+          "handle": "bud",
+          "realName": "Yang Renyu (杨韧余)",
+          "vlr": "https://www.vlr.gg/player/56260/bud",
+          "id": "56260",
+          "rosterStatus": "阵容选手",
+          "portraitSource": null
+        },
+        {
+          "handle": "FT",
+          "realName": "Yan Shuaibo (闫帅博)",
+          "vlr": "https://www.vlr.gg/player/64029/ft",
+          "id": "64029",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/6a01732c154d2.png"
+        },
+        {
+          "handle": "Levius",
+          "realName": "Lu Yinzhong (卢胤中)",
+          "vlr": "https://www.vlr.gg/player/40845/levius",
+          "id": "40845",
+          "rosterStatus": "非活跃",
+          "portraitSource": "https://owcdn.net/img/677fdfe36d135.png"
+        }
+      ],
+      "officialRoster": [
+        {
+          "handle": "bud",
+          "portrait": "https://static.lolesports.com/players/1768679941637_bud.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1768679941637_bud.png"
+        },
+        {
+          "handle": "FT",
+          "portrait": "https://static.lolesports.com/players/1786697586123_BLG.FT.PNG",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1786697586123_BLG.FT.PNG"
+        },
+        {
+          "handle": "Knightt",
+          "portrait": "https://static.lolesports.com/players/1768681440591_knight.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1768681440591_knight.png"
+        },
+        {
+          "handle": "nephh",
+          "portrait": "https://static.lolesports.com/players/1768681776532_nephh.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1768681776532_nephh.png"
+        },
+        {
+          "handle": "rushia",
+          "portrait": "https://static.lolesports.com/players/1768682237349_rushia.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1768682237349_rushia.png"
+        },
+        {
+          "handle": "whzy",
+          "portrait": "https://static.lolesports.com/players/1768683058937_whzy.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1768683058937_whzy.png"
+        },
+        {
+          "handle": "yilai",
+          "portrait": "https://static.lolesports.com/players/1774787657020_image6-2026-03-29T143327.852.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1774787657020_image6-2026-03-29T143327.852.png"
+        }
+      ],
+      "officialError": null
+    },
+    {
+      "code": "DRG",
+      "name": "Dragon Ranger Gaming",
+      "slug": "drg",
+      "color": "#d8e949",
+      "paper": "#f1f3ec",
+      "vlr": "https://www.vlr.gg/team/11981",
+      "official": "https://valorantesports.com/en-US/teams/dragon-ranger-gaming",
+      "rosterSource": "https://www.vlr.gg/team/11981",
+      "logoSource": "https://owcdn.net/img/642233fc01f26.png",
+      "players": [
+        {
+          "handle": "Nicc",
+          "realName": "Shao Yi-qun (邵逸群)",
+          "vlr": "https://www.vlr.gg/player/11524/nicc",
+          "id": "11524",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/6782611e6a470.png"
+        },
+        {
+          "handle": "Flex1n",
+          "realName": "Lo Rui (罗瑞)",
+          "vlr": "https://www.vlr.gg/player/4705/flex1n",
+          "id": "4705",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/678260fd260da.png"
+        },
+        {
+          "handle": "Life",
+          "realName": "Qu Donghao (瞿东豪)",
+          "vlr": "https://www.vlr.gg/player/3028/life",
+          "id": "3028",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/6780cc893eb8f.png"
+        },
+        {
+          "handle": "Verse",
+          "realName": "Zhou Zijun (周子钧)",
+          "vlr": "https://www.vlr.gg/player/55817/verse",
+          "id": "55817",
+          "rosterStatus": "阵容选手",
+          "portraitSource": null
+        },
+        {
+          "handle": "SpiritZ1",
+          "realName": "Lin Dingyu (林定宇)",
+          "vlr": "https://www.vlr.gg/player/31753/spiritz1",
+          "id": "31753",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/67826152e8ca0.png"
+        },
+        {
+          "handle": "vo0kashu",
+          "realName": "Ilya Ushakov",
+          "vlr": "https://www.vlr.gg/player/3741/vo0kashu",
+          "id": "3741",
+          "rosterStatus": "非活跃",
+          "portraitSource": "https://owcdn.net/img/67826114df9ea.png"
+        }
+      ],
+      "officialRoster": [
+        {
+          "handle": "Flex1n",
+          "portrait": "https://static.lolesports.com/players/1768680596266_flex1n.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1768680596266_flex1n.png"
+        },
+        {
+          "handle": "Life",
+          "portrait": "https://static.lolesports.com/players/1774787742818_image6-2026-03-29T143511.068.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1774787742818_image6-2026-03-29T143511.068.png"
+        },
+        {
+          "handle": "Nicc",
+          "portrait": "https://static.lolesports.com/players/1768681796250_nicc.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1768681796250_nicc.png"
+        },
+        {
+          "handle": "SpiritZ1",
+          "portrait": "https://static.lolesports.com/players/1768682500319_spiritz.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1768682500319_spiritz.png"
+        },
+        {
+          "handle": "Verse",
+          "portrait": "https://static.lolesports.com/players/1782917709511_VERSE1.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1782917709511_VERSE1.png"
+        },
+        {
+          "handle": "vo0kashu",
+          "portrait": "https://static.lolesports.com/players/1768683040022_vo0kashu.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1768683040022_vo0kashu.png"
+        }
+      ],
+      "officialError": null
+    },
+    {
+      "code": "FPX",
+      "name": "FunPlus Phoenix",
+      "slug": "fpx",
+      "color": "#f56045",
+      "paper": "#f4eee6",
+      "vlr": "https://www.vlr.gg/team/11328",
+      "official": "https://valorantesports.com/en-US/teams/funplus-phoenix",
+      "rosterSource": "https://www.vlr.gg/team/11328",
+      "logoSource": "https://owcdn.net/img/65a17b313b131.png",
+      "players": [
+        {
+          "handle": "AAAAY",
+          "realName": "Zhang Yang (张杨)",
+          "vlr": "https://www.vlr.gg/player/19530/aaaay",
+          "id": "19530",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/6780cc68aef3a.png"
+        },
+        {
+          "handle": "coconut",
+          "realName": "Colin Patrick Chung (钟弘祖)",
+          "vlr": "https://www.vlr.gg/player/12365/coconut",
+          "id": "12365",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/6782529707e67.png"
+        },
+        {
+          "handle": "Xlele",
+          "realName": "Zhao Yanbo (赵炎博)",
+          "vlr": "https://www.vlr.gg/player/54487/xlele",
+          "id": "54487",
+          "rosterStatus": "阵容选手",
+          "portraitSource": null
+        },
+        {
+          "handle": "77even",
+          "realName": "Richard Venskevychius",
+          "vlr": "https://www.vlr.gg/player/58290/77even",
+          "id": "58290",
+          "rosterStatus": "阵容选手",
+          "portraitSource": null
+        },
+        {
+          "handle": "Setrod",
+          "realName": "Ou Taigeng (欧泰赓)",
+          "vlr": "https://www.vlr.gg/player/50025/setrod",
+          "id": "50025",
+          "rosterStatus": "阵容选手",
+          "portraitSource": null
+        }
+      ],
+      "officialRoster": [
+        {
+          "handle": "AAAAY",
+          "portrait": "https://static.lolesports.com/players/1768679473033_aaaay.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1768679473033_aaaay.png"
+        },
+        {
+          "handle": "coconut",
+          "portrait": "https://static.lolesports.com/players/1782917683401_coconut1.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1782917683401_coconut1.png"
+        },
+        {
+          "handle": "KovaQ",
+          "portrait": "https://static.lolesports.com/players/1774788007768_image6-2026-03-29T143958.224.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1774788007768_image6-2026-03-29T143958.224.png"
+        },
+        {
+          "handle": "Setrod",
+          "portrait": "https://static.lolesports.com/players/1768682797815_sterod.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1768682797815_sterod.png"
+        },
+        {
+          "handle": "Xlele",
+          "portrait": "https://static.lolesports.com/players/1782917735570_Xlele1.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1782917735570_Xlele1.png"
+        }
+      ],
+      "officialError": null
+    },
+    {
+      "code": "JDG",
+      "name": "JD Gaming",
+      "slug": "jdg",
+      "color": "#e94f6b",
+      "paper": "#f5edf0",
+      "vlr": "https://www.vlr.gg/team/13576",
+      "official": "https://valorantesports.com/en-US/teams/jdg-esports",
+      "rosterSource": "https://www.vlr.gg/team/13576",
+      "logoSource": "https://owcdn.net/img/64f9825408326.png",
+      "players": [
+        {
+          "handle": "BerLIN",
+          "realName": "Zhang Bolin (張柏霖)",
+          "vlr": "https://www.vlr.gg/player/7857/berlin",
+          "id": "7857",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/6780cc73ecfb7.png"
+        },
+        {
+          "handle": "jkuro",
+          "realName": "Yong Haochong (杨浩聪)",
+          "vlr": "https://www.vlr.gg/player/3519/jkuro",
+          "id": "3519",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/6780d3d43a117.png"
+        },
+        {
+          "handle": "zhe",
+          "realName": "Niu Zhe (牛哲)",
+          "vlr": "https://www.vlr.gg/player/49476/zhe",
+          "id": "49476",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/6739e1d4086dd.png"
+        },
+        {
+          "handle": "Yuicaw",
+          "realName": "Huang Yung-chieh (黃湧傑)",
+          "vlr": "https://www.vlr.gg/player/11218/yuicaw",
+          "id": "11218",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/677d1d79e76fc.png"
+        },
+        {
+          "handle": "crownfisher",
+          "realName": "Li Ao (李翱)",
+          "vlr": "https://www.vlr.gg/player/64969/crownfisher",
+          "id": "64969",
+          "rosterStatus": "阵容选手",
+          "portraitSource": null
+        }
+      ],
+      "officialRoster": [
+        {
+          "handle": "BerLIN",
+          "portrait": "https://static.lolesports.com/players/1782917718426_belin21.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1782917718426_belin21.png"
+        },
+        {
+          "handle": "crownfisher",
+          "portrait": "https://static.lolesports.com/players/1782917728845_fish1.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1782917728845_fish1.png"
+        },
+        {
+          "handle": "jkuro",
+          "portrait": "https://static.lolesports.com/players/1774788693229_image6-2026-03-29T145052.785.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1774788693229_image6-2026-03-29T145052.785.png"
+        },
+        {
+          "handle": "Yuicaw",
+          "portrait": "https://static.lolesports.com/players/1774788873890_image6-2026-03-29T145411.010.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1774788873890_image6-2026-03-29T145411.010.png"
+        },
+        {
+          "handle": "zhe",
+          "portrait": "https://static.lolesports.com/players/1774788176263_image6-2026-03-29T144114.753.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1774788176263_image6-2026-03-29T144114.753.png"
+        }
+      ],
+      "officialError": null
+    },
+    {
+      "code": "NOVA",
+      "name": "Nova Esports",
+      "slug": "nova",
+      "color": "#b99ae8",
+      "paper": "#f1eef6",
+      "vlr": "https://www.vlr.gg/team/12064",
+      "official": "https://valorantesports.com/en-US/teams/nova-esports",
+      "rosterSource": "https://www.vlr.gg/team/12064",
+      "logoSource": "https://owcdn.net/img/6404c0174250b.png",
+      "players": [
+        {
+          "handle": "qiutiaN",
+          "realName": "Bijan Moeinzadeh (慕英毕强)",
+          "vlr": "https://www.vlr.gg/player/43007/qiutian",
+          "id": "43007",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/6a230284a8142.png"
+        },
+        {
+          "handle": "cb",
+          "realName": "Wang Qingchuan (王庆川)",
+          "vlr": "https://www.vlr.gg/player/39697/cb",
+          "id": "39697",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/6780f19239654.png"
+        },
+        {
+          "handle": "Ezeir",
+          "realName": "Zhao Zejun (赵泽骏)",
+          "vlr": "https://www.vlr.gg/player/46460/ezeir",
+          "id": "46460",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/6780f19ae199e.png"
+        },
+        {
+          "handle": "GuanG",
+          "realName": "Guang Honglin (光洪霖)",
+          "vlr": "https://www.vlr.gg/player/41054/guang",
+          "id": "41054",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/6780f1a2e0d06.png"
+        },
+        {
+          "handle": "swagzor",
+          "realName": "Mikhail Vaniushin",
+          "vlr": "https://www.vlr.gg/player/45492/swagzor",
+          "id": "45492",
+          "rosterStatus": "阵容选手",
+          "portraitSource": null
+        },
+        {
+          "handle": "kodeth",
+          "realName": "Bo Li",
+          "vlr": "https://www.vlr.gg/player/39060/kodeth",
+          "id": "39060",
+          "rosterStatus": "替补",
+          "portraitSource": null
+        },
+        {
+          "handle": "GREEN",
+          "realName": "Qiu Jianzhi (邱建智)",
+          "vlr": "https://www.vlr.gg/player/34181/green",
+          "id": "34181",
+          "rosterStatus": "替补",
+          "portraitSource": "https://owcdn.net/img/658658c275a25.png"
+        }
+      ],
+      "officialRoster": [
+        {
+          "handle": "cb",
+          "portrait": "https://static.lolesports.com/players/1782917652004_cb-11.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1782917652004_cb-11.png"
+        },
+        {
+          "handle": "Ezeir",
+          "portrait": "https://static.lolesports.com/players/1774789277074_image6-2026-03-29T150046.518.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1774789277074_image6-2026-03-29T150046.518.png"
+        },
+        {
+          "handle": "Green",
+          "portrait": "https://static.lolesports.com/players/1774789361421_image6-2026-03-29T150221.539.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1774789361421_image6-2026-03-29T150221.539.png"
+        },
+        {
+          "handle": "GuanG",
+          "portrait": "https://static.lolesports.com/players/1774789181355_image6-2026-03-29T145909.845.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1774789181355_image6-2026-03-29T145909.845.png"
+        },
+        {
+          "handle": "heybay",
+          "portrait": "https://static.lolesports.com/players/1768680921389_heybay.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1768680921389_heybay.png"
+        },
+        {
+          "handle": "qiutiaN",
+          "portrait": "https://static.lolesports.com/players/1774789514234_image6-2026-03-29T150450.454.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1774789514234_image6-2026-03-29T150450.454.png"
+        },
+        {
+          "handle": "swagzor",
+          "portrait": "https://static.lolesports.com/players/1774789655754_image6-2026-03-29T150708.093.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1774789655754_image6-2026-03-29T150708.093.png"
+        }
+      ],
+      "officialError": null
+    },
+    {
+      "code": "TEC",
+      "name": "Titan Esports Club",
+      "slug": "tec",
+      "color": "#b8dd3a",
+      "paper": "#f0f3e9",
+      "vlr": "https://www.vlr.gg/team/14137",
+      "official": "https://valorantesports.com/en-US/teams/titan-esports-club",
+      "rosterSource": "https://www.vlr.gg/team/14137",
+      "logoSource": "https://owcdn.net/img/65487414b8562.png",
+      "players": [
+        {
+          "handle": "Haodong",
+          "realName": "Guo Haodong (郭浩东)",
+          "vlr": "https://www.vlr.gg/player/4720/haodong",
+          "id": "4720",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/678247ccb12a1.png"
+        },
+        {
+          "handle": "lucas",
+          "realName": "Yunkun Lu (路昀昆)",
+          "vlr": "https://www.vlr.gg/player/19677/lucas",
+          "id": "19677",
+          "rosterStatus": "阵容选手",
+          "portraitSource": null
+        },
+        {
+          "handle": "Dynamite",
+          "realName": "Zhao Zihao (赵梓浩)",
+          "vlr": "https://www.vlr.gg/player/42235/dynamite",
+          "id": "42235",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/678247deda472.png"
+        },
+        {
+          "handle": "ra1ny",
+          "realName": "Chen Baohuan (陈葆桓)",
+          "vlr": "https://www.vlr.gg/player/63107/ra1ny",
+          "id": "63107",
+          "rosterStatus": "阵容选手",
+          "portraitSource": null
+        },
+        {
+          "handle": "Coco",
+          "realName": "Ding Dajian (丁达建)",
+          "vlr": "https://www.vlr.gg/player/47629/coco",
+          "id": "47629",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/67f0eca557498.png"
+        },
+        {
+          "handle": "Spitfires",
+          "realName": "Xin Mingyan (辛明阳)",
+          "vlr": "https://www.vlr.gg/player/4881/spitfires",
+          "id": "4881",
+          "rosterStatus": "替补",
+          "portraitSource": "https://owcdn.net/img/661971c10b083.png"
+        }
+      ],
+      "officialRoster": [
+        {
+          "handle": "Coco",
+          "portrait": "https://static.lolesports.com/players/1768680060158_coco.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1768680060158_coco.png"
+        },
+        {
+          "handle": "Haodong",
+          "portrait": "https://static.lolesports.com/players/1768680995467_hsodong.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1768680995467_hsodong.png"
+        },
+        {
+          "handle": "lucas",
+          "portrait": "https://static.lolesports.com/players/1768681634056_lucas.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1768681634056_lucas.png"
+        },
+        {
+          "handle": "ra1ny",
+          "portrait": "https://static.lolesports.com/players/1782917619492_REANIY1.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1782917619492_REANIY1.png"
+        },
+        {
+          "handle": "Spitfires",
+          "portrait": "https://static.lolesports.com/players/1774790369122_image6-2026-03-29T151903.115.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1774790369122_image6-2026-03-29T151903.115.png"
+        },
+        {
+          "handle": "Dynamite",
+          "portrait": "https://static.lolesports.com/players/1768680367521_dynamite.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1768680367521_dynamite.png"
+        }
+      ],
+      "officialError": null
+    },
+    {
+      "code": "TE",
+      "name": "Trace Esports",
+      "slug": "te",
+      "color": "#76aefa",
+      "paper": "#ecf1f6",
+      "vlr": "https://www.vlr.gg/team/12685",
+      "official": "https://valorantesports.com/en-US/teams/trace-esports",
+      "rosterSource": "https://www.vlr.gg/team/12685",
+      "logoSource": "https://owcdn.net/img/6433a2cc3ae72.png",
+      "players": [
+        {
+          "handle": "LuoK1ng",
+          "realName": "Zhang Zhanpeng (张展鹏)",
+          "vlr": "https://www.vlr.gg/player/3045/luok1ng",
+          "id": "3045",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/67f0f3ba506f5.png"
+        },
+        {
+          "handle": "Kai",
+          "realName": "Lu Zhinan (卢智楠)",
+          "vlr": "https://www.vlr.gg/player/37494/kai",
+          "id": "37494",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/67f0f409bdfc4.png"
+        },
+        {
+          "handle": "FengF",
+          "realName": "Song Xuefeng (宋学锋)",
+          "vlr": "https://www.vlr.gg/player/4770/fengf",
+          "id": "4770",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/67f0f41260680.png"
+        },
+        {
+          "handle": "FKEY",
+          "realName": "Ke Chen",
+          "vlr": "https://www.vlr.gg/player/51249/fkey",
+          "id": "51249",
+          "rosterStatus": "阵容选手",
+          "portraitSource": null
+        },
+        {
+          "handle": "deLb",
+          "realName": "Delbert Tanoto",
+          "vlr": "https://www.vlr.gg/player/10821/delb",
+          "id": "10821",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/677fbe994eb91.png"
+        },
+        {
+          "handle": "Abo",
+          "realName": "Han Bohao (韩博皓)",
+          "vlr": "https://www.vlr.gg/player/5011/abo",
+          "id": "5011",
+          "rosterStatus": "替补",
+          "portraitSource": "https://owcdn.net/img/678247f0bb722.png"
+        },
+        {
+          "handle": "Toosy",
+          "realName": "Wu Yufeng (吴雨峰)",
+          "vlr": "https://www.vlr.gg/player/66427/toosy",
+          "id": "66427",
+          "rosterStatus": "替补",
+          "portraitSource": null
+        }
+      ],
+      "officialRoster": [
+        {
+          "handle": "Abo",
+          "portrait": "https://static.lolesports.com/players/1774790276361_image6-2026-03-29T151708.824.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1774790276361_image6-2026-03-29T151708.824.png"
+        },
+        {
+          "handle": "DeLb",
+          "portrait": "https://static.lolesports.com/players/1774789848133_image6-2026-03-29T151023.442.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1774789848133_image6-2026-03-29T151023.442.png"
+        },
+        {
+          "handle": "FengF",
+          "portrait": "https://static.lolesports.com/players/1782917583245_FENGF1.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1782917583245_FENGF1.png"
+        },
+        {
+          "handle": "FKEY",
+          "portrait": "https://static.lolesports.com/players/1782917610160_FKEY1.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1782917610160_FKEY1.png"
+        },
+        {
+          "handle": "Kai",
+          "portrait": "https://static.lolesports.com/players/1774789930279_image6-2026-03-29T151146.167.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1774789930279_image6-2026-03-29T151146.167.png"
+        },
+        {
+          "handle": "LuoK1ng",
+          "portrait": "https://static.lolesports.com/players/1774790103532_image6-2026-03-29T151441.358.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1774790103532_image6-2026-03-29T151441.358.png"
+        }
+      ],
+      "officialError": null
+    },
+    {
+      "code": "TYL",
+      "name": "TYLOO",
+      "slug": "tyl",
+      "color": "#e75145",
+      "paper": "#f3eee8",
+      "vlr": "https://www.vlr.gg/team/731",
+      "official": "https://valorantesports.com/en-US/teams/tyloo-gaming",
+      "rosterSource": "https://www.vlr.gg/team/731",
+      "logoSource": "https://owcdn.net/img/63eb60fb08390.png",
+      "players": [
+        {
+          "handle": "SiuFatBB",
+          "realName": "Pong Gaa Hei (庞加曦)",
+          "vlr": "https://www.vlr.gg/player/7849/siufatbb",
+          "id": "7849",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/677d1d70cab8d.png"
+        },
+        {
+          "handle": "splash",
+          "realName": "Moses Christophe Jonathan",
+          "vlr": "https://www.vlr.gg/player/36685/splash",
+          "id": "36685",
+          "rosterStatus": "阵容选手",
+          "portraitSource": null
+        },
+        {
+          "handle": "Scales",
+          "realName": "Zhang Zhen (张震)",
+          "vlr": "https://www.vlr.gg/player/39485/scales",
+          "id": "39485",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/6848f4745a824.png"
+        },
+        {
+          "handle": "Erv",
+          "realName": "Shen Zhiwei",
+          "vlr": "https://www.vlr.gg/player/55085/erv",
+          "id": "55085",
+          "rosterStatus": "阵容选手",
+          "portraitSource": null
+        },
+        {
+          "handle": "slowly",
+          "realName": "Kelun Sun (孙科伦)",
+          "vlr": "https://www.vlr.gg/player/41739/slowly",
+          "id": "41739",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/6848f4fd4ff85.png"
+        },
+        {
+          "handle": "xihe",
+          "realName": "Peng Wenbo (彭文博)",
+          "vlr": "https://www.vlr.gg/player/64854/xihe",
+          "id": "64854",
+          "rosterStatus": "阵容选手",
+          "portraitSource": null
+        }
+      ],
+      "officialRoster": [
+        {
+          "handle": "Erv",
+          "portrait": "https://static.lolesports.com/players/1774790581066_image6-2026-03-29T152228.675.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1774790581066_image6-2026-03-29T152228.675.png"
+        },
+        {
+          "handle": "Scales",
+          "portrait": "https://static.lolesports.com/players/1774790857726_image6-2026-03-29T152716.463.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1774790857726_image6-2026-03-29T152716.463.png"
+        },
+        {
+          "handle": "SiuFatBB",
+          "portrait": "https://static.lolesports.com/players/1782917628594_TYL.SiuFatBB1.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1782917628594_TYL.SiuFatBB1.png"
+        },
+        {
+          "handle": "slowly",
+          "portrait": "https://static.lolesports.com/players/1774790741326_image6-2026-03-29T152450.250.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1774790741326_image6-2026-03-29T152450.250.png"
+        },
+        {
+          "handle": "Splash",
+          "portrait": "https://static.lolesports.com/players/1774790652198_image6-2026-03-29T152339.021.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1774790652198_image6-2026-03-29T152339.021.png"
+        },
+        {
+          "handle": "xihe",
+          "portrait": "https://static.lolesports.com/players/1782917644579_TYL.xihe1.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1782917644579_TYL.xihe1.png"
+        }
+      ],
+      "officialError": null
+    },
+    {
+      "code": "WOL",
+      "name": "Wolves Esports",
+      "slug": "wol",
+      "color": "#f1c54a",
+      "paper": "#f4f1e7",
+      "vlr": "https://www.vlr.gg/team/13790",
+      "official": "https://valorantesports.com/en-US/teams/wolves-esports",
+      "rosterSource": "https://www.vlr.gg/team/13790",
+      "logoSource": "https://owcdn.net/img/651d33f8e6a1f.png",
+      "players": [
+        {
+          "handle": "glacier",
+          "realName": "Liang Zhekai (梁哲恺)",
+          "vlr": "https://www.vlr.gg/player/49973/glacier",
+          "id": "49973",
+          "rosterStatus": "阵容选手",
+          "portraitSource": null
+        },
+        {
+          "handle": "yosemite",
+          "realName": "Wang Lei (王磊)",
+          "vlr": "https://www.vlr.gg/player/6022/yosemite",
+          "id": "6022",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/6780cc7ef001a.png"
+        },
+        {
+          "handle": "Spring",
+          "realName": "Liu Jiunting (刘俊霆)",
+          "vlr": "https://www.vlr.gg/player/14125/spring",
+          "id": "14125",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/677d1dbded193.png"
+        },
+        {
+          "handle": "aluba",
+          "realName": "Zhong Haojun (钟皓钧)",
+          "vlr": "https://www.vlr.gg/player/14441/aluba",
+          "id": "14441",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/65dd9eae52a03.png"
+        },
+        {
+          "handle": "nothing",
+          "realName": "Xie Junzheng (谢君正)",
+          "vlr": "https://www.vlr.gg/player/66083/nothing",
+          "id": "66083",
+          "rosterStatus": "替补",
+          "portraitSource": null
+        }
+      ],
+      "officialRoster": [
+        {
+          "handle": "aluba",
+          "portrait": "https://static.lolesports.com/players/1782917676680_aluba1.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1782917676680_aluba1.png"
+        },
+        {
+          "handle": "Deryeon",
+          "portrait": "https://static.lolesports.com/players/default-headshot.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2Fdefault-headshot.png"
+        },
+        {
+          "handle": "glacier",
+          "portrait": "https://static.lolesports.com/players/1775206742860_WOL.glacier9082.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1775206742860_WOL.glacier9082.png"
+        },
+        {
+          "handle": "nothing",
+          "portrait": "https://static.lolesports.com/players/1782917671038_nothing1.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1782917671038_nothing1.png"
+        },
+        {
+          "handle": "Spring",
+          "portrait": "https://static.lolesports.com/players/1768682586113_spring.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1768682586113_spring.png"
+        },
+        {
+          "handle": "yosemite",
+          "portrait": "https://static.lolesports.com/players/1768683325605_yosemite.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1768683325605_yosemite.png"
+        }
+      ],
+      "officialError": null
+    },
+    {
+      "code": "XLG",
+      "name": "Xi Lai Gaming",
+      "slug": "xlg",
+      "color": "#cbef50",
+      "paper": "#f1f4e8",
+      "vlr": "https://www.vlr.gg/team/13581",
+      "official": "https://valorantesports.com/en-US/teams/xilai-gaming",
+      "rosterSource": "https://www.vlr.gg/team/13581",
+      "logoSource": "https://owcdn.net/img/671742f863b9b.png",
+      "players": [
+        {
+          "handle": "WsLeo",
+          "realName": "Huang Pinwei (黄品维)",
+          "vlr": "https://www.vlr.gg/player/24308/wsleo",
+          "id": "24308",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/6585b7ad2cb28.png"
+        },
+        {
+          "handle": "Sharks",
+          "realName": "Qiu Ge (邱戈)",
+          "vlr": "https://www.vlr.gg/player/64849/sharks",
+          "id": "64849",
+          "rosterStatus": "阵容选手",
+          "portraitSource": null
+        },
+        {
+          "handle": "Lysoar",
+          "realName": "Liang Youhao (梁优好)",
+          "vlr": "https://www.vlr.gg/player/37489/lysoar",
+          "id": "37489",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/677d1df2d375a.png"
+        },
+        {
+          "handle": "happywei",
+          "realName": "Deng Minwei (邓闵维)",
+          "vlr": "https://www.vlr.gg/player/37927/happywei",
+          "id": "37927",
+          "rosterStatus": "阵容选手",
+          "portraitSource": "https://owcdn.net/img/6782528e85d4c.png"
+        },
+        {
+          "handle": "Rarga",
+          "realName": "Arthur Churyumov",
+          "vlr": "https://www.vlr.gg/player/22047/rarga",
+          "id": "22047",
+          "rosterStatus": "非活跃",
+          "portraitSource": "https://owcdn.net/img/6782528608fd1.png"
+        },
+        {
+          "handle": "NoMan",
+          "realName": "James Man",
+          "vlr": "https://www.vlr.gg/player/11527/noman",
+          "id": "11527",
+          "rosterStatus": "非活跃",
+          "portraitSource": null
+        }
+      ],
+      "officialRoster": [
+        {
+          "handle": "happywei",
+          "portrait": "https://static.lolesports.com/players/1768680897839_happywei.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1768680897839_happywei.png"
+        },
+        {
+          "handle": "Lysoar",
+          "portrait": "https://static.lolesports.com/players/1768681700110_lysoar.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1768681700110_lysoar.png"
+        },
+        {
+          "handle": "NoMan",
+          "portrait": "https://static.lolesports.com/players/1768678678177_noman.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1768678678177_noman.png"
+        },
+        {
+          "handle": "Rarga",
+          "portrait": "https://static.lolesports.com/players/1768678700457_rarga.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1768678700457_rarga.png"
+        },
+        {
+          "handle": "WsLeo",
+          "portrait": "https://static.lolesports.com/players/1768683179971_wsleo.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1768683179971_wsleo.png"
+        },
+        {
+          "handle": "Sharks",
+          "portrait": "https://static.lolesports.com/players/1789744797251_Sharks500x500.png",
+          "imageProxy": "https://am-a.akamaihd.net/image?resize=1080:&f=http%3A%2F%2Fstatic.lolesports.com%2Fplayers%2F1789744797251_Sharks500x500.png"
+        }
+      ],
+      "officialError": null
+    }
+  ]
+}

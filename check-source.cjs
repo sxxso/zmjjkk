@@ -23,7 +23,7 @@ const html = fs.readFileSync(path.join(root, 'dist/index.html'), 'utf8');
 for (const match of html.matchAll(/(?:src|href|data-photo)="([^"#]+)"/g)) {
   const url = match[1];
   if (/^https?:/.test(url)) continue;
-  assert.ok(fs.existsSync(path.join(root, 'dist', url.split('?')[0])), `Missing ${url}`);
+  assert.ok(fs.existsSync(path.join(root, 'dist', url.split(/[?#]/)[0])), `Missing ${url}`);
 }
 const photos = JSON.parse(fs.readFileSync(path.join(root, 'photo-sources-v4.json'), 'utf8'));
 const photoResearch = JSON.parse(fs.readFileSync(path.join(root, 'photo-research-v4.json'), 'utf8'));
@@ -64,7 +64,7 @@ while (pending.length) {
   for (const m of content.matchAll(/url\(['"]?([^)'"#]+)['"]?\)/g)) refs.push(m[1]);
   for (const ref of refs) {
     if (/^(https?:|data:|#)/.test(ref)) continue;
-    pending.push(path.resolve(path.dirname(file), ref.split('?')[0]));
+    pending.push(path.resolve(path.dirname(file), ref.split(/[?#]/)[0]));
   }
 }
 console.log(`PASS: agent values, 10 gallery sources/year labels, and ${seen.size} reachable local files.`);
