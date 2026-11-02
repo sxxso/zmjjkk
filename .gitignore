@@ -18,6 +18,7 @@
 !/ATLAS-DESIGN.md
 !/ATLAS-SOURCES.md
 !/VALIDATION-ATLAS.json
+!/cname
 !/validate-atlas.cjs
 **/__pycache__/
 **/*.pyc

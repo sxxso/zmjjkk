@@ -8,8 +8,8 @@ VCT CN 选手个人站合集
 每张选手卡均可进入独立个人站；站内有显影、滚动缩放、英雄池与比赛记录。
 系统启用减少动态时，个人站可用“开启动效”恢复，或通过页脚切换。
 
-在线合集：https://sxxso.github.io/zmjjkk-player-site/cn/
-原版康康：https://sxxso.github.io/zmjjkk-player-site/
+在线合集：https://zmjjkk.jxznai.cc.cd/cn/
+原版康康：https://zmjjkk.jxznai.cc.cd/
 
 资料为 2026-11-02 快照，包含替补和非活跃选手；可用复选框隐藏。
 暂无肖像/统计均在页面注明。新站的赛场长卷为人物与真实比赛数据组成的海报。

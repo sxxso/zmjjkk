@@ -2,8 +2,8 @@
 
 VCT CN 选手个人站合集，沿用 ZmjjKK × Jett 的人物显影、滚动缩放和影像长卷语言。首批覆盖 **12 支战队、73 位选手**：62 位公开阵容选手、7 位替补、4 位非活跃选手。
 
-- [打开选手合集](https://sxxso.github.io/zmjjkk-player-site/cn/)
-- [原版 ZmjjKK × Jett](https://sxxso.github.io/zmjjkk-player-site/)
+- [打开选手合集](https://zmjjkk.jxznai.cc.cd/cn/)
+- [原版 ZmjjKK × Jett](https://zmjjkk.jxznai.cc.cd/)
 
 ## 浏览
 
