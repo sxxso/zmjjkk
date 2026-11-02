@@ -1,0 +1,79 @@
+{
+  "version": "V4-local",
+  "date": "2026-11-02",
+  "offline": {
+    "protocol": "file:",
+    "viewport": [
+      1440,
+      900
+    ],
+    "scaleAtSecondScreen": "matrix(0.34, 0, 0, 0.34, 0, 0)",
+    "signatureVisible": "visible",
+    "signatureDialog": true,
+    "originalSignatureLoaded": true,
+    "homeReset": {
+      "y": 0,
+      "scale": "matrix(1, 0, 0, 1, 0, 0)"
+    },
+    "fullJett": "jett",
+    "player": "player",
+    "faceoffImages": [
+      {
+        "src": "assets/jett-profile-v4.webp",
+        "loaded": true
+      },
+      {
+        "src": "assets/kk-profile-v4.webp",
+        "loaded": true
+      }
+    ],
+    "photos": 10,
+    "noExternalLoads": true,
+    "horizontalOverflow": 0
+  },
+  "offlineConsole": {
+    "errors": 0,
+    "warnings": 0
+  },
+  "earlierSessionChecks": {
+    "desktop": [
+      1440,
+      900
+    ],
+    "mobile": [
+      390,
+      844
+    ],
+    "hoverPixelHashes": [
+      59560865,
+      66328920,
+      66465984,
+      59560865
+    ],
+    "yearNavigation": [
+      "2026",
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "reducedMotionTriggers": 0,
+    "mobileCanvas": [
+      390,
+      844
+    ],
+    "agentMaps": [
+      119,
+      108,
+      86,
+      290
+    ],
+    "resizeRegression": "heroStart 0; gallery pinStart 3655"
+  },
+  "sourceCheck": "PASS: agent values, 10 gallery sources/year labels, and local asset references.",
+  "limitations": [
+    "No low-end device FPS measurement",
+    "2D implementation; not an exact copy of the reference WebGL distortion",
+    "Faceoff portraits are AI-assisted concept reconstructions"
+  ],
+  "delivery": "local only; V4 not published"
+}

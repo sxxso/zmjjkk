@@ -1,0 +1,20 @@
+# Publish only the finished site and its supporting source records.
+/*
+!/.gitignore
+!/.github/
+!/dist/
+!/START.cmd
+!/使用说明.txt
+!/README.md
+!/ASSETS-V4.md
+!/V4-DESIGN.md
+!/VALIDATION-V4.json
+!/check-source.cjs
+!/agent-source.json
+!/photo-sources-v4.json
+!/photo-research-v4.json
+**/.DS_Store
+**/Thumbs.db
+**/.env*
+**/*.log
+**/node_modules/

@@ -1,0 +1,13 @@
+ZmjjKK × Jett V4 本地版
+
+解压后双击 START.cmd，或打开 dist 文件夹中的 index.html。
+请保留 dist 内的 assets、app.js、agent-data.js、style.css。
+页面可离线浏览；外部视频及来源链接需联网。
+
+首页：移动鼠标或手指体验连续显影；下滚进入缩放与签名；再下滚进入面对面镜头。
+图库：用 2026/2025/2024/2023 按钮跳转年份，点击照片放大。
+签名：点击签名或“签名原迹”查看原始照片和文章。
+系统启用减少动态时，可通过首页“开启动效”按钮恢复滚动动画。
+
+GitHub Pages：https://sxxso.github.io/zmjjkk-player-site/
+本地离线版与 GitHub 部署使用相同的 dist 文件。
