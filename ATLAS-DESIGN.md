@@ -16,6 +16,14 @@ The static generator is the source of all pages. Shared CSS, animation JS and ch
 
 The first batch was visually weaker than the original. The shared profile now ports the actual original ZmjjKK CSS and animation sequence rather than approximating it: contour backdrop, large face-aligned organic reveal, pointer displacement, 0.34 desktop / 0.70 mobile hero reduction, oversized fitted ID, paired portraits, a full-screen typographic section, independently moving photo layers, agent display and an expanding feature photograph. `atlas_profile.py`, `atlas_styles.py`, `profile-layout.css` and `profile-structure.css` own the shared output. The original site remains the reference source of its visual rules; layout adapters handle the generated content.
 
-Portrait framing coordinates are saved in `data/vctcn-framing.json`; agent face positions are calibrated against the official artwork. The paired scene uses actual frontal player portraits and official hero artwork. It does not claim to reproduce a photographic side-profile scene for every player. Only the original Kangkang page includes the verified handwriting and its labelled AI concept profiles.
+Portrait framing coordinates are saved in `data/vctcn-framing.json`. The paired scene uses actual frontal player portraits and clearly credited frontal agent concepts. It does not claim to reproduce a photographic side-profile scene for every player. Only the original Kangkang page includes the verified handwriting and its labelled AI concept profiles.
 
 42 players now have 320 real official photographs. The remaining 31 profiles have varied, truthfully labelled editorial chapters. They keep the same motion sequence without repeating a player cutout four times. The directory's Kangkang card and featured link open the original root page.
+
+## Portrait clarity and reveal registration: 2026-11-03
+
+Restore all 70 real player portraits from their native sources and encode them losslessly, without regenerating faces or inventing extra photographic detail. Render the hero, offscreen composites and paired canvases at the device pixel ratio, capped at 3x / 8.3 million pixels per canvas. Eye spacing controls the face size so low-resolution originals are no longer aggressively enlarged by a bounding-box crop.
+
+Save measured iris centers for all 70 real portraits. The 13 most-used agent identities have 1024 x 1536 transparent frontal concepts made with imagegen from their official artwork. Their pupil or visor anchors are reviewed manually in `data/vctcn-agent-portraits.json`. Uniform scaling, translation and rotation put both subjects on the same eye line and eye spacing. No face warp or generated player face is used.
+
+The reveal uses one connected, softly feathered contour that follows the pointer. Only its boundary moves slightly. Complementary premultiplied layers prevent a translucent seam; portrait bodies and faces receive no blur. The fully revealed agent remains available through the explicit toggle, including reduced-motion and touch use. Waist-edge fading follows the portrait's rotation. Official full-body art remains in agent statistics and editorial sections.

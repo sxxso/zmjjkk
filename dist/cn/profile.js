@@ -5,29 +5,79 @@ const mq=matchMedia('(prefers-reduced-motion: reduce)');let saved=null;try{saved
 let reduced=saved===null?mq.matches:saved==='reduce';const animated=!!window.gsap&&!!window.ScrollTrigger;if(animated)gsap.registerPlugin(ScrollTrigger);
 const contours=`<svg viewBox="0 0 1440 1000" preserveAspectRatio="xMidYMid slice"><path d="M-160 180C90-160 350 380 550 80S1050-60 1110 180 1530 130 1630-70M-180 280C100-50 380 480 620 170S1100 20 1170 290 1510 220 1660 80M-100 440C130 250 320 590 550 370S920 200 1060 440 1290 350 1540 310M-200 680C150 400 310 850 590 610S870 350 990 680 1360 510 1630 520M-190 910C110 580 340 1090 610 830S930 600 1080 910 1360 820 1550 700M160-100C-90 160 230 250 130 490S410 850 230 1140M780-120C520 130 870 290 730 490S960 760 760 1140M1310-100C1130 160 1350 310 1240 580S1480 840 1280 1120"/></svg>`;$$('.p-contours').forEach(e=>e.innerHTML=contours);
 const canvas=$('.p-canvas'),ctx=canvas.getContext('2d'),frameBox=$('.p-frame'),hero=$('.p-hero');
-const original=new Image(),alternate=new Image(),base=document.createElement('canvas'),alt=document.createElement('canvas'),mask=document.createElement('canvas'),mix=document.createElement('canvas'),field=document.createElement('canvas');
-const bc=base.getContext('2d'),ac=alt.getContext('2d'),mc=mask.getContext('2d'),xc=mix.getContext('2d'),fc=field.getContext('2d');
-let w=0,h=0,dpr=1,fw=0,fh=0,pixels=null,ready=false,visible=true,raf=0,lastTime=0,lastRaster=0,full=false,hover=0,cover=0,inside=false,px=0,py=0,tx=0,ty=0,tilt=0;
-const noise=new Float32Array(256*256);for(let y=0;y<256;y++)for(let x=0;x<256;x++){const a=x/256*Math.PI*2,b=y/256*Math.PI*2;noise[y*256+x]=.5+.20*Math.sin(a+Math.sin(b*2)*.9)+.15*Math.cos(b*2+Math.sin(a)*1.2)+.11*Math.sin(a*3-b*2)}
+const original=new Image(),alternate=new Image();
+const base=document.createElement('canvas'),alt=document.createElement('canvas'),mask=document.createElement('canvas'),mix=document.createElement('canvas');
+const bc=base.getContext('2d'),ac=alt.getContext('2d'),mc=mask.getContext('2d'),xc=mix.getContext('2d');
+let w=0,h=0,dpr=1,ready=false,visible=true,raf=0,lastTime=0,lastRaster=0,full=false,hover=0,cover=0,inside=false,px=0,py=0,tx=0,ty=0;
+// Align the eye line and eye spacing, rather than the edges of two unrelated crops.
+function landmarks(isAgent){
+ const measured=isAgent?p.agentEyes:p.playerEyes;if(measured?.length===4)return measured;
+ const f=isAgent?p.agentFace:p.face;return [f[0]+f[2]*.3,f[1]+f[3]*.4,f[0]+f[2]*.7,f[1]+f[3]*.4];
+}
+function pixelRatio(cw,ch){return Math.min(devicePixelRatio||1,3,Math.sqrt(8300000/Math.max(1,cw*ch)))}
 function drawSubject(c,im,isAgent,cw=w,ch=h,dual=false){
- c.clearRect(0,0,cw,ch);const f=isAgent?p.agentFace:p.face;
- const faceHeight=ch*(dual?.46:cw<700?.40:.44),scale=Math.max(faceHeight/(im.height*f[3]),dual?0:(ch-ch*.48)/(im.height*(1-f[1]-f[3]/2)));
- const centerX=cw*(dual?(isAgent?.66:.34):.5),centerY=ch*(dual?.46:.48);
- c.drawImage(im,centerX-im.width*(f[0]+f[2]/2)*scale,centerY-im.height*(f[1]+f[3]/2)*scale,im.width*scale,im.height*scale);
+ c.clearRect(0,0,cw,ch);c.imageSmoothingEnabled=true;c.imageSmoothingQuality='high';
+ if(p.portraitMissing&&!isAgent){const scale=Math.min(cw*.65/im.width,ch*.78/im.height);c.drawImage(im,(cw-im.width*scale)/2,ch-im.height*scale,im.width*scale,im.height*scale);return}
+ const eyes=landmarks(isAgent),x1=eyes[0]*im.width,y1=eyes[1]*im.height,x2=eyes[2]*im.width,y2=eyes[3]*im.height;
+ const gap=Math.hypot(x2-x1,y2-y1),targetGap=Math.min(ch*(dual?.13:.142),cw*(dual?.23:.22));
+ const scale=targetGap/Math.max(1,gap),angle=-Math.atan2(y2-y1,x2-x1);
+ const centerX=cw*(dual?(isAgent?.66:.34):.5),centerY=ch*(dual?.40:.415);
+ const midX=(x1+x2)/2,midY=(y1+y2)/2;
+ c.save();c.translate(centerX,centerY);c.rotate(angle);c.scale(scale,scale);c.drawImage(im,-midX,-midY);
+ // Native portraits sometimes end at the waist: fade only that edge, never blur the face.
+ const bottom=centerY+(im.height-(y1+y2)/2)*scale;
+ if(bottom<ch+50){const edge=im.height-midY,fade=c.createLinearGradient(0,edge-55/scale,0,edge);fade.addColorStop(0,'#fff');fade.addColorStop(1,'#fff0');c.globalCompositeOperation='destination-in';c.fillStyle=fade;c.fillRect(-midX,-midY,im.width,im.height)}
+ c.restore();
+ if(!dual){const key=isAgent?'agent':'player';canvas.dataset[key+'Scale']=scale.toFixed(3);canvas.dataset[key+'Eyes']=[centerX-targetGap/2,centerY,centerX+targetGap/2,centerY].map(n=>n.toFixed(2)).join(',')}
 }
 function fitWordmark(){const e=$('.p-wordmark h1');e.style.fontSize='';const width=e.getBoundingClientRect().width;if(width>innerWidth*.86)e.style.fontSize=(parseFloat(getComputedStyle(e).fontSize)*innerWidth*.86/width)+'px'}
-function drawDual(){fitWordmark();for(const [selector,im,isAgent] of [['.p-dual-player canvas',original,false],['.p-dual-agent canvas',alternate,true]]){const el=$(selector);if(!el||!im.naturalWidth)continue;const cw=el.parentElement.clientWidth,ch=el.parentElement.clientHeight,ratio=Math.min(devicePixelRatio||1,1.35);el.width=Math.round(cw*ratio);el.height=Math.round(ch*ratio);const c=el.getContext('2d');c.setTransform(ratio,0,0,ratio,0,0);drawSubject(c,im,isAgent,cw,ch,true)}}
-function prepare(){if(!w||!original.naturalWidth||!alternate.naturalWidth)return;drawSubject(bc,original,false);drawSubject(ac,alternate,!!p.agentImage);ready=true;frameBox.classList.add('canvas-ready');hero.classList.add('canvas-ready');hero.dataset.revealMethod='original-organic-field';drawDual();requestPaint()}
-function resize(){w=frameBox.clientWidth;h=frameBox.clientHeight;dpr=Math.min(devicePixelRatio||1,1.25);for(const c of [canvas,base,alt,mask,mix]){c.width=Math.round(w*dpr);c.height=Math.round(h*dpr)}for(const c of [ctx,bc,ac,mc,xc])c.setTransform(dpr,0,0,dpr,0,0);fw=w<700?120:220;fh=Math.round(fw*h/w);field.width=fw;field.height=fh;pixels=fc.createImageData(fw,fh);px=tx=w/2;py=ty=h*.45;prepare()}
+function drawDual(){fitWordmark();for(const [selector,im,isAgent] of [['.p-dual-player canvas',original,false],['.p-dual-agent canvas',alternate,true]]){const el=$(selector);if(!el||!im.naturalWidth)continue;const cw=el.parentElement.clientWidth,ch=el.parentElement.clientHeight,ratio=pixelRatio(cw,ch);el.width=Math.round(cw*ratio);el.height=Math.round(ch*ratio);const c=el.getContext('2d');c.setTransform(ratio,0,0,ratio,0,0);drawSubject(c,im,isAgent,cw,ch,true)}}
+function prepare(){if(!w||!original.naturalWidth||!alternate.naturalWidth)return;drawSubject(bc,original,false);drawSubject(ac,alternate,!!p.agentImage);ready=true;frameBox.classList.add('canvas-ready');hero.classList.add('canvas-ready');hero.dataset.revealMethod='eye-aligned-continuous';drawDual();requestPaint()}
+function resize(){
+ w=frameBox.clientWidth;h=frameBox.clientHeight;if(!w||!h)return;dpr=pixelRatio(w,h);
+ for(const c of [canvas,base,alt,mask,mix]){c.width=Math.round(w*dpr);c.height=Math.round(h*dpr)}
+ for(const c of [ctx,bc,ac,mc,xc]){c.setTransform(dpr,0,0,dpr,0,0);c.imageSmoothingEnabled=true;c.imageSmoothingQuality='high'}
+ canvas.dataset.pixelRatio=dpr.toFixed(3);px=tx=w/2;py=ty=h*.415;prepare();
+}
 function requestPaint(){if(!raf&&ready&&visible&&!document.hidden)raf=requestAnimationFrame(paint)}
-function organic(time){const d=pixels.data,phase=time*.00035,ox=px/w*53+Math.sin(phase)*13,oy=py/h*47+phase*7;for(let y=0;y<fh;y++){const v=y/fh,sy=v*252+oy,iy=Math.floor(sy),fy=sy-iy,dy=(v-py/h)*.88;for(let x=0;x<fw;x++){const u=x/fw,sx=u*216+ox,ix=Math.floor(sx),fx=sx-ix,dx=(u-px/w)*1.15;const n0=noise[(iy&255)*256+(ix&255)]*(1-fx)+noise[(iy&255)*256+((ix+1)&255)]*fx;const n1=noise[((iy+1)&255)*256+(ix&255)]*(1-fx)+noise[((iy+1)&255)*256+((ix+1)&255)]*fx;const threshold=1.10-hover*.70+(dx*dx+dy*dy)*1.15;const t=Math.max(0,Math.min(1,(n0*(1-fy)+n1*fy-threshold+.012)/.024)),i=(y*fw+x)*4;d[i]=d[i+1]=d[i+2]=255;d[i+3]=Math.round(t*t*(3-2*t)*255)}}fc.putImageData(pixels,0,0);mc.drawImage(field,0,0,w,h)}
-function paint(time){raf=0;if(!visible||!ready||document.hidden)return;if(!reduced&&inside&&time-lastRaster<25){requestPaint();return}lastRaster=time;const dt=Math.min(50,time-(lastTime||time-16));lastTime=time;const ease=1-Math.pow(.8,dt/16.67),wanted=full?1:0,wantedHover=inside&&!reduced&&!full?1:0;cover=reduced?wanted:cover+(wanted-cover)*ease*.6;hover+=(wantedHover-hover)*ease;px+=(tx-px)*ease;py+=(ty-py)*ease;tilt+=((inside?(tx/w-.5)*14:0)-tilt)*ease;if(Math.abs(cover-wanted)<.001)cover=wanted;if(Math.abs(hover-wantedHover)<.001)hover=wantedHover;
- mc.clearRect(0,0,w,h);if(hover>.001&&cover<.99)organic(time);if(cover>.001){mc.fillStyle='#fff';mc.beginPath();mc.ellipse(w*.5,h*.45,Math.hypot(w,h)*cover,Math.hypot(w,h)*cover,0,0,Math.PI*2);mc.fill()}if(cover<.002){mc.globalCompositeOperation='destination-in';mc.save();mc.translate(reduced?0:tilt,0);mc.drawImage(alt,0,0,w,h);mc.restore();mc.globalCompositeOperation='source-over'}ctx.clearRect(0,0,w,h);ctx.save();ctx.translate(reduced?0:tilt,0);ctx.drawImage(base,0,0,w,h);ctx.restore();ctx.globalCompositeOperation='destination-out';ctx.drawImage(mask,0,0,w,h);ctx.globalCompositeOperation='source-over';xc.clearRect(0,0,w,h);xc.save();xc.translate(reduced?0:tilt,0);xc.drawImage(alt,0,0,w,h);xc.restore();xc.globalCompositeOperation='destination-in';xc.drawImage(mask,0,0,w,h);xc.globalCompositeOperation='source-over';ctx.drawImage(mix,0,0,w,h);hero.dataset.reveal=full?'agent':hover>.02?'hover':'player';if((inside&&!reduced&&!full)||Math.abs(cover-wanted)>.0001||Math.abs(hover-wantedHover)>.0001||Math.abs(px-tx)>.2||Math.abs(py-ty)>.2||Math.abs(tilt-(inside?(tx/w-.5)*14:0))>.1)requestPaint()}
+// One connected contour with a feathered edge. Low-amplitude motion stays at its boundary.
+function organic(time){
+ const phase=time*.00035,rx=Math.min(w*.30,h*.235)*hover,ry=h*.35*hover;
+ mc.save();mc.filter='blur('+Math.max(6,Math.min(14,h*.014))+'px)';mc.fillStyle='#fff';mc.beginPath();
+ for(let i=0;i<=64;i++){const a=i/64*Math.PI*2,r=1+.045*Math.sin(a*3+phase)+.025*Math.sin(a*5-phase*.7);const x=px+Math.cos(a)*rx*r,y=py+Math.sin(a)*ry*r;i?mc.lineTo(x,y):mc.moveTo(x,y)}
+ mc.closePath();mc.fill();mc.restore();
+}
+function paint(time){
+ raf=0;if(!visible||!ready||document.hidden)return;
+ if(!reduced&&inside&&time-lastRaster<30){requestPaint();return}lastRaster=time;
+ const dt=Math.min(50,time-(lastTime||time-16));lastTime=time;
+ const ease=1-Math.pow(.73,dt/16.67),wanted=full?1:0,wantedHover=inside&&!reduced&&!full?1:0;
+ cover=reduced?wanted:cover+(wanted-cover)*ease*.6;hover+=(wantedHover-hover)*ease;px+=(tx-px)*ease;py+=(ty-py)*ease;
+ if(Math.abs(cover-wanted)<.001)cover=wanted;if(Math.abs(hover-wantedHover)<.001)hover=wantedHover;
+ mc.clearRect(0,0,w,h);if(hover>.001&&cover<.99)organic(time);
+ if(cover>.001){mc.fillStyle='#fff';mc.beginPath();mc.ellipse(w*.5,h*.415,Math.hypot(w,h)*cover,Math.hypot(w,h)*cover,0,0,Math.PI*2);mc.fill()}
+ ctx.clearRect(0,0,w,h);ctx.drawImage(base,0,0,w,h);
+ ctx.globalCompositeOperation='destination-out';ctx.drawImage(mask,0,0,w,h);ctx.globalCompositeOperation='source-over';
+ xc.clearRect(0,0,w,h);xc.drawImage(alt,0,0,w,h);xc.globalCompositeOperation='destination-in';xc.drawImage(mask,0,0,w,h);xc.globalCompositeOperation='source-over';
+ // Add the two complementary premultiplied layers, keeping feathered skin opaque.
+ ctx.globalCompositeOperation='lighter';ctx.drawImage(mix,0,0,w,h);ctx.globalCompositeOperation='source-over';
+ hero.dataset.reveal=full?'agent':hover>.02?'hover':'player';
+ if((inside&&!reduced&&!full)||Math.abs(cover-wanted)>.0001||Math.abs(hover-wantedHover)>.0001||Math.abs(px-tx)>.15||Math.abs(py-ty)>.15)requestPaint();
+}
 function point(e){if(Number(hero.dataset.zoom||0)>.04||!p.agentImage)return;const r=canvas.getBoundingClientRect();tx=(e.clientX-r.left)*w/r.width;ty=(e.clientY-r.top)*h/r.height;inside=true;requestPaint()}
 function leave(){inside=false;tx=w/2;requestPaint()}
-for(const type of ['pointerenter','pointermove','pointerdown'])canvas.addEventListener(type,point);for(const type of ['pointerleave','pointercancel'])canvas.addEventListener(type,leave);canvas.addEventListener('pointerup',e=>{if(e.pointerType!=='mouse')leave()});
+for(const type of ['pointerenter','pointermove','pointerdown'])canvas.addEventListener(type,point);
+for(const type of ['pointerleave','pointercancel'])canvas.addEventListener(type,leave);
+canvas.addEventListener('pointerup',e=>{if(e.pointerType!=='mouse')leave()});
 $('#p-hero-toggle').addEventListener('click',()=>{if(!p.agentImage)return;full=!full;$('#p-hero-toggle').setAttribute('aria-pressed',String(full));$('#p-hero-hint').textContent=full?p.agentName+' / '+p.handle:p.portraitMissing?'尚无公开选手肖像':'移动鼠标，发现另一个自己';requestPaint()});if(!p.agentImage)$('#p-hero-toggle').disabled=true;
-new ResizeObserver(resize).observe(frameBox);new IntersectionObserver(entries=>{visible=entries[0].isIntersecting;if(visible){lastTime=0;requestPaint()}else{cancelAnimationFrame(raf);raf=0;inside=false}},{threshold:0}).observe(frameBox);document.addEventListener('visibilitychange',()=>{if(document.hidden){cancelAnimationFrame(raf);raf=0}else requestPaint()});
+new ResizeObserver(resize).observe(frameBox);
+new IntersectionObserver(entries=>{visible=entries[0].isIntersecting;if(visible){lastTime=0;requestPaint()}else{cancelAnimationFrame(raf);raf=0;inside=false}},{threshold:0}).observe(frameBox);
+document.addEventListener('visibilitychange',()=>{if(document.hidden){cancelAnimationFrame(raf);raf=0}else requestPaint()});
+// Resolution can change without a CSS-size change (moving between screens / browser zoom).
+let resolutionQuery;
+function watchResolution(){resolutionQuery?.removeEventListener('change',resolutionChanged);resolutionQuery=matchMedia('(resolution: '+(devicePixelRatio||1)+'dppx)');resolutionQuery.addEventListener('change',resolutionChanged,{once:true})}
+function resolutionChanged(){resize();watchResolution()}watchResolution();
+addEventListener('resize',()=>{if(Math.abs(pixelRatio(frameBox.clientWidth,frameBox.clientHeight)-dpr)>.01)resize()});
 original.onload=prepare;alternate.onload=prepare;original.src=p.portrait;alternate.src=p.agentImage||p.portrait;
 original.onerror=alternate.onerror=()=>{frameBox.classList.remove('canvas-ready');$('#p-hero-hint').textContent='图片加载失败，可刷新后重试'};
 let context=null,media=null,photoTrigger=null;

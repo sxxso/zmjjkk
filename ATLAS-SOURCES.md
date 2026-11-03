@@ -10,7 +10,9 @@ The source snapshot contains **73 players**: 62 listed roster players, 7 substit
 - Team roster URLs, Riot team pages and portrait URLs: `data/vctcn-rosters.json`.
 - Each player's own VLR profile: identity, all-time agent rows and recent matches. Original numeric cells are retained beside normalized fields in `data/vctcn-players.json`; `validate-atlas.cjs` verifies map counts, ACS, K/D, kills and first kills against these cells.
 - Portraits: **68 matched Riot official portraits**, **2 other public VLR portraits**, and **3 VLR generic silhouettes** where a verified portrait was unavailable. Missing portraits are visibly labelled. Those players are 77even, kodeth and Toosy. `nothing` currently has no VLR agent or match rows; the page explicitly shows that state.
-- Character art: Riot Games, delivered via [Valorant-API](https://valorant-api.com/). The localized names, roles and original image URLs are retained in `data/vctcn-agents.json`.
+- Official full-body character art: Riot Games, delivered via [Valorant-API](https://valorant-api.com/). The localized names, roles and original image URLs are retained in `data/vctcn-agents.json`.
+- Hero and paired-scene agent portraits: 13 transparent 1024 x 1536 AI frontal concepts, created with OpenAI imagegen using the official art as identity references. Assets, dimensions, reviewed eye / visor anchors and reference paths are recorded in `data/vctcn-agent-portraits.json`. These are not official portraits or photographs. The in-page source dialog identifies them as AI concept art.
+- Player portrait clarity update: all 70 real portraits are re-downloaded from each saved `portraitSource` and encoded as native-size lossless WebP. Player faces have not been generated, sharpened with invented details or replaced by agent concepts. Native source resolution still limits extreme enlargement.
 - The original ZmjjKK website, verified signature photograph and existing dated gallery remain at the original root URL. Its detailed credits remain in `ASSETS-V4.md` and its in-page source dialog.
 
 ## Gallery media update: 2026-11-03
@@ -34,3 +36,5 @@ python scripts/collect-players.py
 ```
 
 The collection scripts cache original responses outside the repository at `../output/vctcn-cache/`; the reviewed snapshot JSON is what is committed. Review the snapshot date, seasonal scope, roster changes, portrait matches and any unavailable image source before accepting a refreshed dataset. Do not publish the raw HTML cache. Missing values remain missing; no fallback borrows another player's achievements or signature.
+
+Optional asset maintenance: `scripts/prepare-portraits.py` needs Pillow, NumPy, MediaPipe and the official Face Landmarker model outside the repository; it restores native images and saves iris coordinates. `scripts/prepare-agent-portraits.py` needs Pillow, OpenCV, YuNet and the reviewed source concept PNGs outside the repository. It encodes the concepts losslessly and saves reviewed iris / visor anchors. Neither model, Python package nor inference runs in the published site or CI build.

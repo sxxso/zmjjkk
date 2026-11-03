@@ -6,16 +6,22 @@ def img(src,alt='',cls='',loading='lazy'):return f'<img src="{E(src)}" alt="{E(a
 def num(n):return f'{n:,}'
 FACE={'jett': [0.48, 0.169, 0.08, 0.102], 'neon': [0.44, 0.185, 0.1, 0.125], 'raze': [0.423, 0.165, 0.09, 0.12], 'chamber': [0.416, 0.16, 0.09, 0.115], 'viper': [0.445, 0.15, 0.09, 0.14], 'killjoy': [0.425, 0.155, 0.09, 0.13], 'cypher': [0.425, 0.17, 0.09, 0.12], 'sova': [0.453, 0.125, 0.095, 0.115], 'omen': [0.43, 0.15, 0.14, 0.16], 'fade': [0.41, 0.2, 0.085, 0.12], 'gekko': [0.43, 0.135, 0.09, 0.12], 'breach': [0.392, 0.13, 0.1, 0.15], 'tejo': [0.434, 0.13, 0.09, 0.13], 'kayo': [0.419, 0.12, 0.11, 0.14], 'skye': [0.413, 0.15, 0.105, 0.13], 'harbor': [0.432, 0.12, 0.09, 0.12], 'vyse': [0.431, 0.13, 0.12, 0.14], 'phoenix': [0.402, 0.13, 0.09, 0.12], 'astra': [0.442, 0.16, 0.1, 0.12], 'brimstone': [0.441, 0.11, 0.11, 0.15], 'yoru': [0.43, 0.125, 0.105, 0.15], 'waylay': [0.4, 0.16, 0.1, 0.14], 'sage': [0.41, 0.15, 0.09, 0.13]}
 
-def render(p,players,agents,teams,head,versioned,framing):
+def render(p,players,agents,teams,head,versioned,framing,agent_portraits):
  A=lambda s:'../../'+s
  pool=[dict(a,**agents[a['id']]) for a in p['agents'][:4]]
  main=pool[0] if pool else None
- portrait=A(p['portrait']);art=A(main['image']) if main else ''
- face=framing[p['id']]['face'];aface=FACE.get(main['id'],[.47,.14,.11,.15]) if main else face
+ portrait=versioned(A(p['portrait']));art=A(main['image']) if main else ''
+ measured=framing[p['id']]
+ face=measured['face'];aface=FACE.get(main['id'],[.47,.14,.11,.15]) if main else face
+ frontal=agent_portraits.get(main['id']) if main else None
  photos=[dict(q,file=A(q['file'])) for q in p['photos']]
  config={k:p[k] for k in ['id','handle','name','team','maps','kills','portraitMissing']}
- config.update({'portrait':portrait,'agentImage':art,'agentName':main['name'] if main else '',
-  'face':face,'agentFace':aface,'agents':[dict(a,image=A(a['image'])) for a in pool],'photos':photos})
+ config.update({'portrait':portrait,'agentImage':versioned(A(frontal['image'])) if frontal else art,'agentName':main['name'] if main else '',
+  'face':face,'agentFace':frontal['face'] if frontal else aface,
+  'playerEyes':measured.get('eyes'),'agentEyes':frontal['eyes'] if frontal else None,
+  'portraitSize':p['portraitSize'],'agentPortraitSize':frontal['size'] if frontal else None,
+  'agentPortraitKind':'ai-frontal-concept' if frontal else 'official-art',
+  'agents':[dict(a,image=A(a['image'])) for a in pool],'photos':photos})
  teamlogo=A('assets/teams/'+p['team'].lower()+'.webp')
  # Wordmark is typographic. No player autograph is invented.
  name=p['handle'];split=max(2,len(name)//2)
@@ -67,9 +73,9 @@ def render(p,players,agents,teams,head,versioned,framing):
  page+='<p class="p-match-source">最近已收录系列赛；生涯总计由全英雄表求和，K/D 为总击杀除以总死亡。</p></section>'
  teammates=[q for q in players if q['team']==p['team']];nxt=teammates[(teammates.index(p)+1)%len(teammates)]
  nexturl='../../../index.html' if nxt['id']=='3520' else '../'+nxt['slug']+'/index.html'
- page+=f'''<section class="p-next"><div class="p-contours" aria-hidden="true"></div>{img(A(nxt['portrait']),'','p-next-portrait')}<a href="{nexturl}"><p>下一位 / {p['team']} 阵容</p><h2>KEEP<br><em>EXPLORING.</em></h2><span>{E(nxt['handle'])} <b>↗</b></span></a></section></main><footer class="p-footer"><a class="p-brand" href="#home">{brand}</a><a class="p-footer-word" href="../../index.html">ALL IN.<br><em>EVERY PLAYER.</em><span>↗</span></a><div><p>{E(name)} / 非官方粉丝作品<br>阵容与数据为 2026-11-02 快照。字标为排版设计。素材归各自权利人所有。</p><nav><a href="../../index.html">全部选手</a><button data-dialog="p-credits">资料与影像来源</button><button id="p-motion-toggle" aria-pressed="false">减少动态</button><a href="#home">回到顶部 ↑</a></nav></div></footer>
+ page+=f'''<section class="p-next"><div class="p-contours" aria-hidden="true"></div>{img(versioned(A(nxt['portrait'])),'','p-next-portrait')}<a href="{nexturl}"><p>下一位 / {p['team']} 阵容</p><h2>KEEP<br><em>EXPLORING.</em></h2><span>{E(nxt['handle'])} <b>↗</b></span></a></section></main><footer class="p-footer"><a class="p-brand" href="#home">{brand}</a><a class="p-footer-word" href="../../index.html">ALL IN.<br><em>EVERY PLAYER.</em><span>↗</span></a><div><p>{E(name)} / 非官方粉丝作品<br>阵容与数据为 2026-11-02 快照。字标为排版设计。素材归各自权利人所有。</p><nav><a href="../../index.html">全部选手</a><button data-dialog="p-credits">资料与影像来源</button><button id="p-motion-toggle" aria-pressed="false">减少动态</button><a href="#home">回到顶部 ↑</a></nav></div></footer>
 <dialog id="p-menu" class="p-dialog p-menu"><button class="p-dialog-close" aria-label="关闭导航">关闭 ×</button>{img(portrait,'','p-menu-portrait')}<div><p>{E(name)} / {p['team']}</p><nav><a href="#home">Home<small>首页</small></a><a href="#identity">Player × Agent<small>选手与英雄</small></a><a href="#moments">Moments<small>赛场时刻</small></a><a href="#agents">Agents<small>英雄池</small></a><a href="#results">Results<small>比赛记录</small></a><a href="../../index.html">Player Atlas<small>全部选手</small></a></nav></div></dialog>'''
  team=next(t for t in teams if t['code']==p['team'])
- page+=f'<dialog id="p-credits" class="p-dialog"><button class="p-dialog-close" aria-label="关闭来源">关闭 ×</button><h2>资料与影像</h2><ul><li><a href="{E(p["vlr"])}" target="_blank" rel="noopener">{E(name)} 的人物与英雄统计：VLR.gg</a></li><li><a href="{E(team["vlr"])}" target="_blank" rel="noopener">阵容状态：VLR 战队页，2026-11-02 快照</a></li><li><a href="{E(p["official"] or p["vlr"])}" target="_blank" rel="noopener">官方人物肖像：{E(p["portraitCredit"])}</a></li><li>英雄原画：Riot Games，经 Valorant-API 提供。人物与英雄的近景通过网页裁切对齐。</li><li>{"赛事照片来自 Riot 官方 Flickr；逐张放大可查看摄影说明与原始页面。" if photos else "本页暂无已核实的本人赛场照片，长卷展示官方肖像、英雄原画和比赛档案。"}</li><li>选手字标为排版设计，未制作或模仿本人签名。</li></ul></dialog>'
+ page+=f'<dialog id="p-credits" class="p-dialog"><button class="p-dialog-close" aria-label="关闭来源">关闭 ×</button><h2>资料与影像</h2><ul><li><a href="{E(p["vlr"])}" target="_blank" rel="noopener">{E(name)} 的人物与英雄统计：VLR.gg</a></li><li><a href="{E(team["vlr"])}" target="_blank" rel="noopener">阵容状态：VLR 战队页，2026-11-02 快照</a></li><li><a href="{E(p["official"] or p["vlr"])}" target="_blank" rel="noopener">官方人物肖像：{E(p["portraitCredit"])}</a></li><li>英雄池立绘：Riot Games，经 Valorant-API 提供。首屏与双人画面的正面特工头像为基于原画制作的 AI 概念立绘；选手使用真实肖像。</li><li>{"赛事照片来自 Riot 官方 Flickr；逐张放大可查看摄影说明与原始页面。" if photos else "本页暂无已核实的本人赛场照片，长卷展示官方肖像、英雄原画和比赛档案。"}</li><li>选手字标为排版设计，未制作或模仿本人签名。</li></ul></dialog>'
  if photos:page+='<dialog id="p-photo-dialog" class="p-dialog p-photo-dialog"><button class="p-dialog-close" aria-label="关闭照片">关闭 ×</button><img alt=""><p></p><div class="p-photo-nav"><a id="p-photo-source" href="#" target="_blank" rel="noopener">原始照片与摄影说明 ↗</a><div><button id="p-photo-prev" aria-label="上一张照片">←</button><button id="p-photo-next" aria-label="下一张照片">→</button></div></div></dialog>'
  return page+'</body></html>'

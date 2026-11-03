@@ -6,7 +6,14 @@
       0.3465,
       0.438
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.439958,
+      0.410812,
+      0.578479,
+      0.405594
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "16924": {
     "face": [
@@ -15,7 +22,14 @@
       0.344,
       0.344
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.407661,
+      0.398634,
+      0.574402,
+      0.3966
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "3017": {
     "face": [
@@ -24,7 +38,14 @@
       0.2854,
       0.3607
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.496037,
+      0.369837,
+      0.619762,
+      0.376562
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "3520": {
     "face": [
@@ -33,7 +54,14 @@
       0.3452,
       0.4364
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.433701,
+      0.375783,
+      0.559323,
+      0.371375
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "4742": {
     "face": [
@@ -42,7 +70,14 @@
       0.2994,
       0.3591
     ],
-    "measured": false
+    "measured": false,
+    "eyes": [
+      0.442905,
+      0.366935,
+      0.569043,
+      0.366889
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "51244": {
     "face": [
@@ -51,7 +86,14 @@
       0.3911,
       0.4944
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.423363,
+      0.344437,
+      0.560399,
+      0.339146
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "7135": {
     "face": [
@@ -60,7 +102,14 @@
       0.3,
       0.36
     ],
-    "measured": false
+    "measured": false,
+    "eyes": [
+      0.364722,
+      0.201359,
+      0.463031,
+      0.209042
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "21216": {
     "face": [
@@ -69,7 +118,14 @@
       0.3274,
       0.4138
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.436859,
+      0.386924,
+      0.566984,
+      0.376397
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "25494": {
     "face": [
@@ -78,7 +134,14 @@
       0.3834,
       0.4847
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.443579,
+      0.355531,
+      0.562671,
+      0.350461
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "46748": {
     "face": [
@@ -87,7 +150,14 @@
       0.4153,
       0.525
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.427076,
+      0.370729,
+      0.566654,
+      0.366658
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "52101": {
     "face": [
@@ -96,7 +166,14 @@
       0.3328,
       0.42
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.400142,
+      0.328997,
+      0.514082,
+      0.311696
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "58959": {
     "face": [
@@ -105,7 +182,14 @@
       0.3439,
       0.4348
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.43516,
+      0.370966,
+      0.551229,
+      0.368468
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "10698": {
     "face": [
@@ -114,7 +198,14 @@
       0.4076,
       0.5153
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.434264,
+      0.350625,
+      0.573211,
+      0.334632
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "40845": {
     "face": [
@@ -123,7 +214,14 @@
       0.67,
       0.67
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.428256,
+      0.208178,
+      0.528345,
+      0.213182
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "4774": {
     "face": [
@@ -132,7 +230,14 @@
       0.3541,
       0.4477
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.436254,
+      0.345148,
+      0.571257,
+      0.343491
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "4885": {
     "face": [
@@ -141,7 +246,14 @@
       0.3911,
       0.4944
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.441943,
+      0.390934,
+      0.568777,
+      0.391201
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "48878": {
     "face": [
@@ -150,7 +262,14 @@
       0.3516,
       0.4444
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.437036,
+      0.347573,
+      0.559915,
+      0.348944
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "56260": {
     "face": [
@@ -159,7 +278,14 @@
       0.3745,
       0.4734
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.484572,
+      0.341021,
+      0.605683,
+      0.345784
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "62947": {
     "face": [
@@ -168,7 +294,14 @@
       0.3355,
       0.4235
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.436553,
+      0.427247,
+      0.561085,
+      0.430053
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "64029": {
     "face": [
@@ -177,7 +310,14 @@
       0.47,
       0.47
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.394073,
+      0.410845,
+      0.58352,
+      0.401028
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "11524": {
     "face": [
@@ -186,7 +326,14 @@
       0.3682,
       0.4654
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.439231,
+      0.354288,
+      0.571863,
+      0.353058
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "3028": {
     "face": [
@@ -195,7 +342,14 @@
       0.3622,
       0.4573
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.415926,
+      0.474205,
+      0.549093,
+      0.482219
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "31753": {
     "face": [
@@ -204,7 +358,14 @@
       0.3516,
       0.4444
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.400597,
+      0.362869,
+      0.525519,
+      0.354812
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "3741": {
     "face": [
@@ -213,7 +374,14 @@
       0.4229,
       0.5346
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.411572,
+      0.349047,
+      0.576457,
+      0.334859
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "4705": {
     "face": [
@@ -222,7 +390,14 @@
       0.3796,
       0.4799
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.433397,
+      0.338865,
+      0.564839,
+      0.346756
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "55817": {
     "face": [
@@ -231,7 +406,14 @@
       0.3867,
       0.488
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.418266,
+      0.357851,
+      0.551864,
+      0.346161
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "12365": {
     "face": [
@@ -240,7 +422,14 @@
       0.3788,
       0.4783
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.4554,
+      0.334496,
+      0.574332,
+      0.324608
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "19530": {
     "face": [
@@ -249,7 +438,14 @@
       0.3248,
       0.4106
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.390204,
+      0.331236,
+      0.510589,
+      0.3311
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "50025": {
     "face": [
@@ -258,7 +454,14 @@
       0.3452,
       0.4364
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.438948,
+      0.369802,
+      0.564508,
+      0.367543
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "54487": {
     "face": [
@@ -267,7 +470,14 @@
       0.4324,
       0.5459
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.451686,
+      0.336033,
+      0.572813,
+      0.33499
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "58290": {
     "face": [
@@ -276,7 +486,14 @@
       0.3,
       0.36
     ],
-    "measured": false
+    "measured": false,
+    "eyes": [
+      0.44,
+      0.244,
+      0.56,
+      0.244
+    ],
+    "landmarkMethod": "face-box-estimate"
   },
   "11218": {
     "face": [
@@ -285,7 +502,14 @@
       0.3699,
       0.467
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.45615,
+      0.433478,
+      0.579815,
+      0.439331
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "3519": {
     "face": [
@@ -294,7 +518,14 @@
       0.3661,
       0.4622
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.443423,
+      0.401939,
+      0.571679,
+      0.403643
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "49476": {
     "face": [
@@ -303,7 +534,14 @@
       0.3406,
       0.43
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.43604,
+      0.411589,
+      0.565391,
+      0.411582
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "64969": {
     "face": [
@@ -312,7 +550,14 @@
       0.3724,
       0.47
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.425978,
+      0.348704,
+      0.553643,
+      0.350909
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "7857": {
     "face": [
@@ -321,7 +566,14 @@
       0.3312,
       0.418
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.439615,
+      0.340568,
+      0.57267,
+      0.366309
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "34181": {
     "face": [
@@ -330,7 +582,14 @@
       0.4222,
       0.533
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.415854,
+      0.409773,
+      0.552004,
+      0.406561
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "39060": {
     "face": [
@@ -339,7 +598,14 @@
       0.3,
       0.36
     ],
-    "measured": false
+    "measured": false,
+    "eyes": [
+      0.44,
+      0.244,
+      0.56,
+      0.244
+    ],
+    "landmarkMethod": "face-box-estimate"
   },
   "39697": {
     "face": [
@@ -348,7 +614,14 @@
       0.2806,
       0.3543
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.446314,
+      0.350969,
+      0.5498,
+      0.347002
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "41054": {
     "face": [
@@ -357,7 +630,14 @@
       0.3406,
       0.43
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.431609,
+      0.371017,
+      0.557527,
+      0.359905
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "43007": {
     "face": [
@@ -366,7 +646,14 @@
       0.4018,
       0.5072
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.439458,
+      0.35954,
+      0.576217,
+      0.384702
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "45492": {
     "face": [
@@ -375,7 +662,14 @@
       0.4349,
       0.5491
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.417542,
+      0.440242,
+      0.558946,
+      0.434569
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "46460": {
     "face": [
@@ -384,7 +678,14 @@
       0.324,
       0.409
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.444291,
+      0.394856,
+      0.560203,
+      0.391685
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "19677": {
     "face": [
@@ -393,7 +694,14 @@
       0.4025,
       0.5089
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.429365,
+      0.375113,
+      0.561206,
+      0.364732
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "42235": {
     "face": [
@@ -402,7 +710,14 @@
       0.3439,
       0.4348
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.506847,
+      0.355385,
+      0.632458,
+      0.350216
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "4720": {
     "face": [
@@ -411,7 +726,14 @@
       0.3656,
       0.4622
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.415268,
+      0.354388,
+      0.552811,
+      0.334104
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "47629": {
     "face": [
@@ -420,7 +742,14 @@
       0.3516,
       0.4444
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.458269,
+      0.442508,
+      0.593341,
+      0.432911
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "4881": {
     "face": [
@@ -429,7 +758,14 @@
       0.3469,
       0.438
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.447787,
+      0.400735,
+      0.581688,
+      0.383931
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "63107": {
     "face": [
@@ -438,7 +774,14 @@
       0.2995,
       0.36
     ],
-    "measured": false
+    "measured": false,
+    "eyes": [
+      0.407115,
+      0.372647,
+      0.522251,
+      0.376138
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "10821": {
     "face": [
@@ -447,7 +790,14 @@
       0.3508,
       0.4428
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.442455,
+      0.400578,
+      0.572752,
+      0.396172
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "3045": {
     "face": [
@@ -456,7 +806,14 @@
       0.3546,
       0.4477
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.42398,
+      0.375204,
+      0.554781,
+      0.376608
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "37494": {
     "face": [
@@ -465,7 +822,14 @@
       0.3648,
       0.4605
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.432375,
+      0.37952,
+      0.567201,
+      0.361313
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "4770": {
     "face": [
@@ -474,7 +838,14 @@
       0.3946,
       0.498
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.421345,
+      0.405299,
+      0.560287,
+      0.394509
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "5011": {
     "face": [
@@ -483,7 +854,14 @@
       0.3827,
       0.4831
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.425445,
+      0.388106,
+      0.56059,
+      0.390342
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "51249": {
     "face": [
@@ -492,7 +870,14 @@
       0.3407,
       0.43
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.466421,
+      0.359725,
+      0.601166,
+      0.362107
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "66427": {
     "face": [
@@ -501,7 +886,14 @@
       0.3,
       0.36
     ],
-    "measured": false
+    "measured": false,
+    "eyes": [
+      0.44,
+      0.244,
+      0.56,
+      0.244
+    ],
+    "landmarkMethod": "face-box-estimate"
   },
   "36685": {
     "face": [
@@ -510,7 +902,14 @@
       0.3406,
       0.43
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.458683,
+      0.393784,
+      0.596287,
+      0.427717
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "39485": {
     "face": [
@@ -519,7 +918,14 @@
       0.3763,
       0.475
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.430906,
+      0.367079,
+      0.55274,
+      0.35363
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "41739": {
     "face": [
@@ -528,7 +934,14 @@
       0.3929,
       0.496
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.444911,
+      0.449864,
+      0.587536,
+      0.435543
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "55085": {
     "face": [
@@ -537,7 +950,14 @@
       0.3941,
       0.4976
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.447786,
+      0.424652,
+      0.577983,
+      0.41912
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "64854": {
     "face": [
@@ -546,7 +966,14 @@
       0.2805,
       0.354
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.486413,
+      0.278394,
+      0.580384,
+      0.272516
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "7849": {
     "face": [
@@ -555,7 +982,14 @@
       0.233,
       0.294
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.491879,
+      0.282643,
+      0.581009,
+      0.283016
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "14125": {
     "face": [
@@ -564,7 +998,14 @@
       0.3108,
       0.3929
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.511426,
+      0.382772,
+      0.628045,
+      0.397973
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "14441": {
     "face": [
@@ -573,7 +1014,14 @@
       0.3788,
       0.478
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.435402,
+      0.423876,
+      0.571878,
+      0.421002
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "49973": {
     "face": [
@@ -582,7 +1030,14 @@
       0.4107,
       0.5185
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.423246,
+      0.426886,
+      0.557512,
+      0.39965
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "6022": {
     "face": [
@@ -591,7 +1046,14 @@
       0.3312,
       0.4187
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.439755,
+      0.381297,
+      0.565881,
+      0.38304
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "66083": {
     "face": [
@@ -600,7 +1062,14 @@
       0.3772,
       0.476
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.450597,
+      0.38714,
+      0.577645,
+      0.388725
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "11527": {
     "face": [
@@ -609,7 +1078,14 @@
       0.3554,
       0.4493
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.43287,
+      0.380671,
+      0.566712,
+      0.3718
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "22047": {
     "face": [
@@ -618,7 +1094,14 @@
       0.4293,
       0.5427
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.423089,
+      0.346314,
+      0.57191,
+      0.34828
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "24308": {
     "face": [
@@ -627,7 +1110,14 @@
       0.3478,
       0.4396
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.445608,
+      0.343479,
+      0.56945,
+      0.336258
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "37489": {
     "face": [
@@ -636,7 +1126,14 @@
       0.3248,
       0.4106
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.445463,
+      0.376835,
+      0.565043,
+      0.378954
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "37927": {
     "face": [
@@ -645,7 +1142,14 @@
       0.3478,
       0.4396
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.477154,
+      0.341046,
+      0.598376,
+      0.372458
+    ],
+    "landmarkMethod": "mediapipe-iris"
   },
   "64849": {
     "face": [
@@ -654,6 +1158,13 @@
       0.428,
       0.428
     ],
-    "measured": true
+    "measured": true,
+    "eyes": [
+      0.423374,
+      0.420143,
+      0.560899,
+      0.42025
+    ],
+    "landmarkMethod": "mediapipe-iris"
   }
 }

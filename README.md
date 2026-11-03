@@ -24,7 +24,7 @@ node check-source.cjs
 node validate-atlas.cjs
 ```
 
-构建脚本只使用 Python 标准库。数据采集脚本单独需要 BeautifulSoup 和 Pillow；可选的肖像测量脚本需要 OpenCV；发布的网站没有运行依赖、后端或 API Key。
+构建脚本只使用 Python 标准库。数据采集脚本单独需要 BeautifulSoup 和 Pillow；可选的肖像准备脚本需要 MediaPipe 或 OpenCV，详见 `ATLAS-SOURCES.md`；发布的网站没有运行依赖、后端或 API Key。
 
 - `data/`：经过整理的阵容、个人统计及素材来源。
 - `scripts/build-atlas.py`：统一生成合集与 73 个个人站。
@@ -35,6 +35,8 @@ node validate-atlas.cjs
 ## 资料和限制
 
 人物肖像来自 Riot 官方或 VLR 公开资料。3 位选手暂无公开肖像，1 位暂无英雄统计，均有明确说明。2026-11-03 视觉更新重新使用原版的动画编排和样式，校准人物与英雄近景，补入 42 位选手的 320 张 Riot 官方赛场照片。其余 31 位的长卷使用明确标注的肖像、英雄原画和比赛档案。合集中的康康直接进入原版。原康康站的真实签名和已有赛事图库继续保留。
+
+同日清晰度修正：70 张真实选手肖像恢复为原始尺寸的无损文件；首屏改用 13 位特工的 1024×1536 正面 AI 概念立绘，并在来源中标明。人物与特工按双眼位置、眼距和倾角对齐，显影使用连续柔边遮罩，画布适配高像素密度屏幕。选手本人脸部没有生成或换脸；原始照片分辨率仍是放大后的细节上限。
 
 详见 `ATLAS-SOURCES.md`；设计说明见 `ATLAS-DESIGN.md`。原康康站的素材说明和验证记录见 `ASSETS-V4.md`、`VALIDATION-V4.json`。
 

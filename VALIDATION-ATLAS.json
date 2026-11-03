@@ -1,124 +1,478 @@
 {
   "date": "2026-11-03",
-  "roster": {
-    "teams": 12,
-    "players": 73,
-    "active": 62,
-    "substitutes": 7,
-    "inactive": 4,
-    "staffExcluded": true
-  },
-  "sources": {
-    "riotPortraits": 68,
-    "otherVlrPortraits": 2,
-    "missingPortraits": [
-      "77even",
-      "kodeth",
-      "Toosy"
+  "visualRevision": 3,
+  "scope": "Native portrait clarity and eye-aligned continuous reveal",
+  "nativeAssets": {
+    "players": 70,
+    "playerFacesGenerated": false,
+    "playerVisiblePixelsLossless": true,
+    "agentConcepts": 13,
+    "conceptSize": [
+      1024,
+      1536
     ],
-    "missingAgentStats": [
-      "nothing"
-    ],
-    "newFlickrPhotoDownloads": {
-      "photos": 320,
-      "players": 42,
-      "delivery": "local WebP",
-      "captionMatching": "exact player handle followed by of",
-      "remainingProfiles": 31
-    }
+    "conceptVisiblePixelsLossless": true,
+    "agentConceptsCredited": true,
+    "playerIrisMeasurements": 70,
+    "manualAgentAnchorReviews": 13
   },
-  "staticValidation": "73 generated player pages; local links, image assets, source numeric cells and derived totals verified",
-  "browserSamples": [
-    "CHICHOO",
-    "whzy",
-    "Rarga",
-    "nothing",
-    "Toosy",
-    "original ZmjjKK"
-  ],
+  "staticValidation": {
+    "playerPages": 73,
+    "teamCount": 12,
+    "photos": 320,
+    "assetReferences": true,
+    "portraitContentHashes": true,
+    "sourceStatsUnchanged": true,
+    "deterministicGeneratedFiles": 76,
+    "originalRootFilesUnchanged": true
+  },
   "desktop": {
     "viewport": [
       1440,
       900
     ],
-    "hoverHashes": [
-      22976501,
-      22305549,
-      22407443,
-      22976501
+    "devicePixelRatio": 2,
+    "canvas": [
+      2880,
+      1800
     ],
-    "heroScale": 0.34,
-    "agentMaps": [
-      172,
-      125,
-      122,
-      68
+    "samples": [
+      {
+        "name": "CHICHOO",
+        "agent": "蝰蛇",
+        "ready": true,
+        "canvas": [
+          2880,
+          1800
+        ],
+        "ratio": "2.000",
+        "eyesEqual": true,
+        "reveal": "agent",
+        "hashes": [
+          3575059,
+          3824369,
+          4933218
+        ],
+        "opaqueFace": 252,
+        "overflow": 0
+      },
+      {
+        "name": "stew",
+        "agent": "雷兹",
+        "ready": true,
+        "canvas": [
+          2880,
+          1800
+        ],
+        "ratio": "2.000",
+        "eyesEqual": true,
+        "reveal": "agent",
+        "hashes": [
+          3473496,
+          4122825,
+          5543028
+        ],
+        "opaqueFace": 252,
+        "overflow": 0
+      },
+      {
+        "name": "nobody",
+        "agent": "猎枭",
+        "ready": true,
+        "canvas": [
+          2880,
+          1800
+        ],
+        "ratio": "2.000",
+        "eyesEqual": true,
+        "reveal": "agent",
+        "hashes": [
+          3876546,
+          5184556,
+          8210015
+        ],
+        "opaqueFace": 251,
+        "overflow": 0
+      },
+      {
+        "name": "whzy",
+        "agent": "捷风",
+        "ready": true,
+        "canvas": [
+          2880,
+          1800
+        ],
+        "ratio": "2.000",
+        "eyesEqual": true,
+        "reveal": "agent",
+        "hashes": [
+          4471929,
+          5544027,
+          8091375
+        ],
+        "opaqueFace": 252,
+        "overflow": 0
+      },
+      {
+        "name": "Jieni7",
+        "agent": "K/O",
+        "ready": true,
+        "canvas": [
+          2880,
+          1800
+        ],
+        "ratio": "2.000",
+        "eyesEqual": true,
+        "reveal": "agent",
+        "hashes": [
+          3680708,
+          3943790,
+          4832097
+        ],
+        "opaqueFace": 252,
+        "overflow": 0
+      },
+      {
+        "name": "Shr1mp",
+        "agent": "斯凯",
+        "ready": true,
+        "canvas": [
+          2880,
+          1800
+        ],
+        "ratio": "2.000",
+        "eyesEqual": true,
+        "reveal": "agent",
+        "hashes": [
+          6465613,
+          6997806,
+          6612498
+        ],
+        "opaqueFace": 252,
+        "overflow": 0
+      },
+      {
+        "name": "K1ra",
+        "agent": "幽影",
+        "ready": true,
+        "canvas": [
+          2880,
+          1800
+        ],
+        "ratio": "2.000",
+        "eyesEqual": true,
+        "reveal": "agent",
+        "hashes": [
+          4881519,
+          6165508,
+          8833809
+        ],
+        "opaqueFace": 252,
+        "overflow": 0
+      },
+      {
+        "name": "Bai",
+        "agent": "霓虹",
+        "ready": true,
+        "canvas": [
+          2880,
+          1800
+        ],
+        "ratio": "2.000",
+        "eyesEqual": true,
+        "reveal": "agent",
+        "hashes": [
+          8934756,
+          8816508,
+          7453499
+        ],
+        "opaqueFace": 252,
+        "overflow": 0
+      },
+      {
+        "name": "Levius",
+        "agent": "奇乐",
+        "ready": true,
+        "canvas": [
+          2880,
+          1800
+        ],
+        "ratio": "2.000",
+        "eyesEqual": true,
+        "reveal": "agent",
+        "hashes": [
+          6723178,
+          7269856,
+          5985309
+        ],
+        "opaqueFace": 252,
+        "overflow": 0
+      },
+      {
+        "name": "Knight",
+        "agent": "铁臂",
+        "ready": true,
+        "canvas": [
+          2880,
+          1800
+        ],
+        "ratio": "2.000",
+        "eyesEqual": true,
+        "reveal": "agent",
+        "hashes": [
+          3822347,
+          4636275,
+          6375173
+        ],
+        "opaqueFace": 252,
+        "overflow": 0
+      },
+      {
+        "name": "SpiritZ1",
+        "agent": "夜露",
+        "ready": true,
+        "canvas": [
+          2880,
+          1800
+        ],
+        "ratio": "2.000",
+        "eyesEqual": true,
+        "reveal": "agent",
+        "hashes": [
+          4306469,
+          4948768,
+          6163167
+        ],
+        "opaqueFace": 252,
+        "overflow": 0
+      },
+      {
+        "name": "vo0kashu",
+        "agent": "零",
+        "ready": true,
+        "canvas": [
+          2880,
+          1800
+        ],
+        "ratio": "2.000",
+        "eyesEqual": true,
+        "reveal": "agent",
+        "hashes": [
+          2946500,
+          3678576,
+          6226623
+        ],
+        "opaqueFace": 252,
+        "overflow": 0
+      },
+      {
+        "name": "BerLIN",
+        "agent": "黑梦",
+        "ready": true,
+        "canvas": [
+          2880,
+          1800
+        ],
+        "ratio": "2.000",
+        "eyesEqual": true,
+        "reveal": "agent",
+        "hashes": [
+          4876032,
+          5647620,
+          6299694
+        ],
+        "opaqueFace": 252,
+        "overflow": 0
+      }
     ],
-    "menuFocusAndClose": true,
-    "expandMatch": true,
-    "teamFilters": {
-      "EDG": 7,
-      "AG": 5,
-      "BLG": 8,
-      "DRG": 6,
-      "FPX": 5,
-      "JDG": 5,
-      "NOVA": 7,
-      "TEC": 6,
-      "TE": 7,
-      "TYL": 6,
-      "WOL": 5,
-      "XLG": 6
+    "contactSheetVisuallyReviewed": true,
+    "shrinkScale": 0.34,
+    "menuHomeReturnScale": 1,
+    "menuHomeReturnScroll": 0,
+    "sourcePhotoDecoded": true,
+    "sourcePhotoCredits": true,
+    "agentTabMaps": {
+      "selected": 125,
+      "expected": 125
     },
-    "chineseSearch": "张钊 -> Smoggy",
-    "caseInsensitiveSearch": "WhZy -> whzy",
-    "activeOnly": 62,
-    "emptyAndReset": true,
-    "sortAndViewAndShareableFilter": true,
-    "wordmarkFitsViewport": true,
-    "photoViewerSources": true,
-    "galleryLayerParallax": true,
-    "mobileDesktopResize": true
+    "consoleErrors": 0,
+    "consoleWarnings": 0
+  },
+  "resolutionChange": {
+    "sameCssSize": [
+      1440,
+      900
+    ],
+    "fromRatio": 2,
+    "toRatio": 1,
+    "backingCanvas": [
+      1440,
+      900
+    ]
   },
   "mobile": {
     "viewport": [
       390,
       844
     ],
-    "touchReveal": true,
-    "reducedMotionTriggers": 0,
-    "reducedToggleWorks": true,
+    "devicePixelRatio": 3,
     "canvas": [
-      390,
-      844
+      1170,
+      2532
     ],
-    "toggleBottom": 787,
-    "resume": true,
+    "touchReveal": true,
+    "touchReleaseRestoresPlayer": true,
+    "toggleBottom": 821,
     "overflow": 0,
-    "heroScale": 0.7,
-    "nativeGalleryScroll": true
+    "reducedMotionTriggers": 0,
+    "reducedToggleAgentWorks": true,
+    "resumeTriggers": 7
   },
-  "offline": {
-    "fileProtocol": true,
-    "network": "Offline",
-    "sample": "Toosy",
-    "canvasReady": true,
-    "reducedTriggers": 0,
-    "toggleWorks": true,
-    "horizontalOverflow": 0,
-    "imageErrors": []
+  "fallbacks": {
+    "nothing": {
+      "canvasReady": true,
+      "agentToggleDisabled": true,
+      "missingStatsLabel": true,
+      "overflow": 0
+    },
+    "Toosy": {
+      "protocol": "file:",
+      "network": "Offline",
+      "canvasReady": true,
+      "missingPortraitLabel": true,
+      "agentToggleWorks": true,
+      "reducedTriggers": 0,
+      "overflow": 0,
+      "consoleErrors": 0
+    }
   },
-  "limitations": [
-    "Source snapshot is not a live transfer feed",
-    "Three missing portraits and one missing agent/match dataset are labelled",
-    "No low-end device FPS measurement",
-    "31 players have no verified event photographs and use labelled editorial chapters"
+  "limits": [
+    "Original photographic resolution still limits extreme enlargement",
+    "No low-end hardware frame-rate measurement"
   ],
-  "previousValidationDate": "2026-11-02",
-  "visualRevision": 2,
-  "directoryOriginalKangkangLink": true,
-  "directKangkangAliasRedirectsToOriginal": true,
-  "deterministicBuild": true,
-  "consoleErrors": 0,
-  "consoleWarnings": 0
+  "baselineEvidenceNote": "The previous layout release evidence below predates this portrait update.",
+  "previousLayoutRelease": {
+    "date": "2026-11-03",
+    "roster": {
+      "teams": 12,
+      "players": 73,
+      "active": 62,
+      "substitutes": 7,
+      "inactive": 4,
+      "staffExcluded": true
+    },
+    "sources": {
+      "riotPortraits": 68,
+      "otherVlrPortraits": 2,
+      "missingPortraits": [
+        "77even",
+        "kodeth",
+        "Toosy"
+      ],
+      "missingAgentStats": [
+        "nothing"
+      ],
+      "newFlickrPhotoDownloads": {
+        "photos": 320,
+        "players": 42,
+        "delivery": "local WebP",
+        "captionMatching": "exact player handle followed by of",
+        "remainingProfiles": 31
+      }
+    },
+    "staticValidation": "73 generated player pages; local links, image assets, source numeric cells and derived totals verified",
+    "browserSamples": [
+      "CHICHOO",
+      "whzy",
+      "Rarga",
+      "nothing",
+      "Toosy",
+      "original ZmjjKK"
+    ],
+    "desktop": {
+      "viewport": [
+        1440,
+        900
+      ],
+      "hoverHashes": [
+        22976501,
+        22305549,
+        22407443,
+        22976501
+      ],
+      "heroScale": 0.34,
+      "agentMaps": [
+        172,
+        125,
+        122,
+        68
+      ],
+      "menuFocusAndClose": true,
+      "expandMatch": true,
+      "teamFilters": {
+        "EDG": 7,
+        "AG": 5,
+        "BLG": 8,
+        "DRG": 6,
+        "FPX": 5,
+        "JDG": 5,
+        "NOVA": 7,
+        "TEC": 6,
+        "TE": 7,
+        "TYL": 6,
+        "WOL": 5,
+        "XLG": 6
+      },
+      "chineseSearch": "张钊 -> Smoggy",
+      "caseInsensitiveSearch": "WhZy -> whzy",
+      "activeOnly": 62,
+      "emptyAndReset": true,
+      "sortAndViewAndShareableFilter": true,
+      "wordmarkFitsViewport": true,
+      "photoViewerSources": true,
+      "galleryLayerParallax": true,
+      "mobileDesktopResize": true
+    },
+    "mobile": {
+      "viewport": [
+        390,
+        844
+      ],
+      "touchReveal": true,
+      "reducedMotionTriggers": 0,
+      "reducedToggleWorks": true,
+      "canvas": [
+        390,
+        844
+      ],
+      "toggleBottom": 787,
+      "resume": true,
+      "overflow": 0,
+      "heroScale": 0.7,
+      "nativeGalleryScroll": true
+    },
+    "offline": {
+      "fileProtocol": true,
+      "network": "Offline",
+      "sample": "Toosy",
+      "canvasReady": true,
+      "reducedTriggers": 0,
+      "toggleWorks": true,
+      "horizontalOverflow": 0,
+      "imageErrors": []
+    },
+    "limitations": [
+      "Source snapshot is not a live transfer feed",
+      "Three missing portraits and one missing agent/match dataset are labelled",
+      "No low-end device FPS measurement",
+      "31 players have no verified event photographs and use labelled editorial chapters"
+    ],
+    "previousValidationDate": "2026-11-02",
+    "visualRevision": 2,
+    "directoryOriginalKangkangLink": true,
+    "directKangkangAliasRedirectsToOriginal": true,
+    "deterministicBuild": true,
+    "consoleErrors": 0,
+    "consoleWarnings": 0
+  }
 }

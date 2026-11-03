@@ -12,13 +12,17 @@ build_styles(ROOT,OUT)
 def js(o):return json.dumps(o,ensure_ascii=False,separators=(',',':')).replace('<','\\u003c')
 def img(src,alt='',cls='',loading='lazy'):return f'<img src="{E(src)}" alt="{E(alt)}" class="{cls}" loading="{loading}" decoding="async">'
 def num(n):return f'{n:,}'
-def versioned(s):return s+'?v='+hashlib.sha256((OUT/Path(s).name).read_bytes()).hexdigest()[:10]
+asset_versions={}
+def versioned(s):
+ local=re.sub(r'^(?:\.\./)+','',s)
+ if local not in asset_versions:asset_versions[local]=hashlib.sha256((OUT/local).read_bytes()).hexdigest()[:10]
+ return s+'?v='+asset_versions[local]
 def head(title,css,level=''):
  return f'<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#eef1ef"><meta name="description" content="VCT CN 选手个人站合集。真实人物肖像、英雄池、赛场影像和比赛记录。非官方粉丝作品。"><title>{E(title)}</title><link rel="icon" href="{level}../assets/icon.svg"><link rel="stylesheet" href="{versioned(css)}"><script defer src="{level}../assets/gsap.min.js"></script><script defer src="{level}../assets/ScrollTrigger.min.js"></script>'
 catalog=[]
 for p in players:
  a=agents.get(p['agents'][0]['id']) if p['agents'] else None
- catalog.append({k:p[k] for k in ['id','slug','handle','name','realName','team','teamName','color','paper','portrait','portraitMissing','rosterStatus','maps','kills']}|{'url':'../index.html' if p['id']=='3520' else 'players/'+p['slug']+'/index.html','agentName':a['name'] if a else '', 'role':a['role'] if a else '', 'agentImage':a['image'] if a else ''})
+ catalog.append({k:p[k] for k in ['id','slug','handle','name','realName','team','teamName','color','paper','portrait','portraitMissing','rosterStatus','maps','kills']}|{'portrait':versioned(p['portrait']),'url':'../index.html' if p['id']=='3520' else 'players/'+p['slug']+'/index.html','agentName':a['name'] if a else '', 'role':a['role'] if a else '', 'agentImage':a['image'] if a else ''})
 featured=['ZmjjKK','whzy','Life','Rarga','BerLIN','yosemite']
 featured=[p for handle in featured for p in catalog if p['handle']==handle][:6]
 if len(featured)<3:featured=catalog[:4]
@@ -40,7 +44,8 @@ hub=hub.replace('src="catalog.js"','src="'+versioned('catalog.js')+'"').replace(
 
 from atlas_profile import render
 framing=json.loads((DATA/'vctcn-framing.json').read_text(encoding='utf8'))
+agent_portraits=json.loads((DATA/'vctcn-agent-portraits.json').read_text(encoding='utf8'))['portraits']
 for p in players:
  dest=OUT/'players'/p['slug'];dest.mkdir(parents=True,exist_ok=True)
- (dest/'index.html').write_text(render(p,players,agents,teams,head,versioned,framing),encoding='utf8')
+ (dest/'index.html').write_text(render(p,players,agents,teams,head,versioned,framing,agent_portraits),encoding='utf8')
 print('GENERATED',count,'player pages and the directory')

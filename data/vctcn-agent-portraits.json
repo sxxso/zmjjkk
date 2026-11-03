@@ -1,0 +1,293 @@
+{
+  "created": "2026-11-03",
+  "generator": "OpenAI imagegen",
+  "description": "Transparent frontal concepts based on the official agent art. Used for aligned hero reveals and paired portraits. Player photographs are real, restored at native resolution, and are not generated.",
+  "portraits": {
+    "breach": {
+      "image": "assets/agent-portraits/breach.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "face": [
+        0.34504,
+        0.166258,
+        0.326988,
+        0.27952
+      ],
+      "eyes": [
+        0.423828,
+        0.26888,
+        0.582031,
+        0.26888
+      ],
+      "landmarkMethod": "reviewed-iris-anchors",
+      "reference": "assets/agents/breach.webp",
+      "kind": "ai-frontal-concept"
+    },
+    "cypher": {
+      "image": "assets/agent-portraits/cypher.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "face": [
+        0.327148,
+        0.250651,
+        0.341797,
+        0.247396
+      ],
+      "eyes": [
+        0.419922,
+        0.309245,
+        0.583984,
+        0.309245
+      ],
+      "landmarkMethod": "reviewed-visor-anchors",
+      "reference": "assets/agents/cypher.webp",
+      "kind": "ai-frontal-concept"
+    },
+    "fade": {
+      "image": "assets/agent-portraits/fade.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "face": [
+        0.309092,
+        0.261192,
+        0.317139,
+        0.292925
+      ],
+      "eyes": [
+        0.397461,
+        0.365234,
+        0.588867,
+        0.365885
+      ],
+      "landmarkMethod": "reviewed-iris-anchors",
+      "reference": "assets/agents/fade.webp",
+      "kind": "ai-frontal-concept"
+    },
+    "jett": {
+      "image": "assets/agent-portraits/jett.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "face": [
+        0.332711,
+        0.289509,
+        0.309748,
+        0.29051
+      ],
+      "eyes": [
+        0.421875,
+        0.403646,
+        0.575195,
+        0.402995
+      ],
+      "landmarkMethod": "reviewed-iris-anchors",
+      "reference": "assets/agents/jett.webp",
+      "kind": "ai-frontal-concept"
+    },
+    "kayo": {
+      "image": "assets/agent-portraits/kayo.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "face": [
+        0.332031,
+        0.136719,
+        0.34668,
+        0.332031
+      ],
+      "eyes": [
+        0.422852,
+        0.260417,
+        0.576172,
+        0.260417
+      ],
+      "landmarkMethod": "reviewed-visor-anchors",
+      "reference": "assets/agents/kayo.webp",
+      "kind": "ai-frontal-concept"
+    },
+    "killjoy": {
+      "image": "assets/agent-portraits/killjoy.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "face": [
+        0.314279,
+        0.259583,
+        0.360802,
+        0.290669
+      ],
+      "eyes": [
+        0.407227,
+        0.354818,
+        0.59668,
+        0.354818
+      ],
+      "landmarkMethod": "reviewed-iris-anchors",
+      "reference": "assets/agents/killjoy.webp",
+      "kind": "ai-frontal-concept"
+    },
+    "neon": {
+      "image": "assets/agent-portraits/neon.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "face": [
+        0.335707,
+        0.310829,
+        0.331901,
+        0.290718
+      ],
+      "eyes": [
+        0.412109,
+        0.413411,
+        0.59082,
+        0.41276
+      ],
+      "landmarkMethod": "reviewed-iris-anchors",
+      "reference": "assets/agents/neon.webp",
+      "kind": "ai-frontal-concept"
+    },
+    "omen": {
+      "image": "assets/agent-portraits/omen.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "face": [
+        0.322266,
+        0.292969,
+        0.356445,
+        0.266927
+      ],
+      "eyes": [
+        0.429688,
+        0.403646,
+        0.570312,
+        0.403646
+      ],
+      "landmarkMethod": "reviewed-visor-anchors",
+      "reference": "assets/agents/omen.webp",
+      "kind": "ai-frontal-concept"
+    },
+    "raze": {
+      "image": "assets/agent-portraits/raze.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "face": [
+        0.321731,
+        0.20108,
+        0.352811,
+        0.305236
+      ],
+      "eyes": [
+        0.411133,
+        0.308594,
+        0.59668,
+        0.306641
+      ],
+      "landmarkMethod": "reviewed-iris-anchors",
+      "reference": "assets/agents/raze.webp",
+      "kind": "ai-frontal-concept"
+    },
+    "skye": {
+      "image": "assets/agent-portraits/skye.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "face": [
+        0.32198,
+        0.218749,
+        0.356622,
+        0.309787
+      ],
+      "eyes": [
+        0.416016,
+        0.327474,
+        0.589844,
+        0.327474
+      ],
+      "landmarkMethod": "reviewed-iris-anchors",
+      "reference": "assets/agents/skye.webp",
+      "kind": "ai-frontal-concept"
+    },
+    "sova": {
+      "image": "assets/agent-portraits/sova.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "face": [
+        0.372619,
+        0.221701,
+        0.318029,
+        0.295199
+      ],
+      "eyes": [
+        0.419922,
+        0.330078,
+        0.592773,
+        0.329427
+      ],
+      "landmarkMethod": "reviewed-iris-anchors",
+      "reference": "assets/agents/sova.webp",
+      "kind": "ai-frontal-concept"
+    },
+    "viper": {
+      "image": "assets/agent-portraits/viper.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "face": [
+        0.308695,
+        0.196891,
+        0.424056,
+        0.332518
+      ],
+      "eyes": [
+        0.418945,
+        0.341146,
+        0.600586,
+        0.339844
+      ],
+      "landmarkMethod": "reviewed-iris-anchors",
+      "reference": "assets/agents/viper.webp",
+      "kind": "ai-frontal-concept"
+    },
+    "yoru": {
+      "image": "assets/agent-portraits/yoru.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "face": [
+        0.346408,
+        0.230282,
+        0.318254,
+        0.281918
+      ],
+      "eyes": [
+        0.422852,
+        0.343099,
+        0.583008,
+        0.341797
+      ],
+      "landmarkMethod": "reviewed-iris-anchors",
+      "reference": "assets/agents/yoru.webp",
+      "kind": "ai-frontal-concept"
+    }
+  }
+}
