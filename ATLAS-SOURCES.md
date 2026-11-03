@@ -13,9 +13,11 @@ The source snapshot contains **73 players**: 62 listed roster players, 7 substit
 - Character art: Riot Games, delivered via [Valorant-API](https://valorant-api.com/). The localized names, roles and original image URLs are retained in `data/vctcn-agents.json`.
 - The original ZmjjKK website, verified signature photograph and existing dated gallery remain at the original root URL. Its detailed credits remain in `ASSETS-V4.md` and its in-page source dialog.
 
-## Gallery limitation
+## Gallery media update: 2026-11-03
 
-Public searches on Riot's Flickr account returned photo descriptions and CDN URLs, but downloads of newly requested photos returned HTTP 403. Retrying outside the sandbox, alternate sizes, the original photo page and alternate Flickr domains did not resolve that response. Broken photo files are not included in the new pages. Each populated player page instead has a horizontal **portrait and match-data poster reel**, linking directly to the source match and clearly labelled as a data poster. This is not presented as an original event photograph. The collection contains no newly generated player photos or invented autographs.
+The browser could successfully fetch the original Flickr JPEGs even though command-line downloads returned HTTP 403. The published snapshot now includes **320 unique Riot official event photos for 42 players**. Each photograph is matched by the exact player's handle followed by "of" in the original official-account caption. The source URL, original description, year and credit are stored with each player. Files are local WebP delivery copies; original source links remain available in the viewer.
+
+The other 31 profiles use labelled portrait, official agent artwork and match-record chapters, without claiming these to be original event photographs. There are no generated event photos or invented autographs. The original ZmjjKK site's verified signature and dated gallery remain intact, and its directory card links directly to that original site.
 
 ## Maintenance
 

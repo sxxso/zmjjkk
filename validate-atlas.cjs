@@ -12,9 +12,10 @@ for(const file of files){if(!/\.(html|css)$/.test(file))continue;const text=fs.r
 }
 let maps=0,photos=0;for(const p of players){const file=path.join(cn,'players',p.slug,'index.html');assert.ok(fs.existsSync(file));const html=fs.readFileSync(file,'utf8');assert.ok(html.includes(p.handle));const data=html.match(/window\.VCT_PROFILE=([\s\S]+?);<\/script>/);assert.ok(data,`Missing profile data: ${p.handle}`);const config=JSON.parse(data[1]);assert.equal(config.id,p.id);assert.equal(config.maps,p.maps);
  assert.ok(fs.existsSync(path.resolve(path.dirname(file),config.portrait)));if(config.agentImage)assert.ok(fs.existsSync(path.resolve(path.dirname(file),config.agentImage)));
+ for(const key of ['face','agentFace']){assert.equal(config[key].length,4);assert.ok(config[key].every(n=>Number.isFinite(n)&&n>=0&&n<=1),`Invalid framing: ${p.handle}`)}
  for(const a of p.agents){const c=a.cells;assert.equal(a.maps,Number(c[1].match(/\((\d+)\)/)[1]));assert.equal(a.acs,c[4]||null);assert.equal(a.kd,c[5]||null);assert.equal(a.kills,Number(c[11]||0));assert.equal(a.firstKills,Number(c[14]||0));maps+=a.maps}
  assert.equal(p.maps,p.agents.reduce((n,a)=>n+a.maps,0));assert.equal(p.kills,p.agents.reduce((n,a)=>n+a.kills,0));assert.equal(config.agents.length,Math.min(4,p.agents.length));
  for(const a of config.agents){assert.ok(agents[a.id]);assert.ok(fs.existsSync(path.resolve(path.dirname(file),a.image)))}
- for(const photo of config.photos){assert.ok(fs.existsSync(path.resolve(path.dirname(file),photo.file)));assert.ok(photo.source.startsWith('https://www.flickr.com/photos/valorantesports/'));photos++}
+ for(const photo of config.photos){assert.ok(fs.existsSync(path.resolve(path.dirname(file),photo.file)));assert.ok(photo.source.startsWith('https://www.flickr.com/photos/valorantesports/'));assert.ok(photo.description.toLowerCase().includes(p.handle.toLowerCase()+' of'),`Wrong player caption: ${p.handle}`);photos++}
 }
 console.log(`PASS: ${roster.teams.length} teams, ${players.length} unique player pages, source-derived agent rows, ${photos} photos, all static links and assets.`);

@@ -860,12 +860,76 @@
       "kills": 9473,
       "deaths": 8501,
       "portrait": "assets/players/15559.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/55550749932.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55550749932/",
+          "remote": "https://live.staticflickr.com/65535/55550749932_f3a3b82701_b.jpg",
+          "description": "CHICHOO of EDward Gaming during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Lee Aiksoon/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55550750212.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55550750212/",
+          "remote": "https://live.staticflickr.com/65535/55550750212_041c5e1e06_b.jpg",
+          "description": "CHICHOO of EDward Gaming during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Lee Aiksoon/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55336573117.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55336573117/",
+          "remote": "https://live.staticflickr.com/65535/55336573117_dc9bc5eb08_b.jpg",
+          "description": "CHICHOO of EDward Gaming speaks at post match conference after their victory at the VALORANT Masters London held at the Copper Box Arena on June 15, 2026 in London, England (Photo by Liu Yicun/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55336987604.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55336987604/",
+          "remote": "https://live.staticflickr.com/65535/55336987604_f55794c6a6_b.jpg",
+          "description": "CHICHOO of EDward Gaming reacts onstage at the VALORANT Masters London held at the Copper Box Arena on June 15, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55337452481.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55337452481/",
+          "remote": "https://live.staticflickr.com/65535/55337452481_87217b3ee2_b.jpg",
+          "description": "CHICHOO of EDward Gaming speaks at post match conference after their victory at the VALORANT Masters London held at the Copper Box Arena on June 15, 2026 in London, England (Photo by Liu Yicun/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55337651084.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55337651084/",
+          "remote": "https://live.staticflickr.com/65535/55337651084_07e898fdbd_b.jpg",
+          "description": "CHICHOO of EDward Gaming is seen onstage at the VALORANT Masters London held at the Copper Box Arena on June 15, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55337729054.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55337729054/",
+          "remote": "https://live.staticflickr.com/65535/55337729054_53b3471f17_b.jpg",
+          "description": "CHICHOO of EDward Gaming is seen onstage at the VALORANT Masters London held at the Copper Box Arena on June 15, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55343744847.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55343744847/",
+          "remote": "https://live.staticflickr.com/65535/55343744847_4cdb29c092_b.jpg",
+          "description": "CHICHOO of EDward Gaming is seen onstage at the VALORANT Masters London held at the Copper Box Arena on June 19, 2026 in London, England (Photo by Colin Young Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         785,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "stew",
@@ -1556,12 +1620,68 @@
       "kills": 5406,
       "deaths": 4435,
       "portrait": "assets/players/16924.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/55550750002.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55550750002/",
+          "remote": "https://live.staticflickr.com/65535/55550750002_403449bc4b_b.jpg",
+          "description": "stew of EDward Gaming during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Lee Aiksoon/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55551776526.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55551776526/",
+          "remote": "https://live.staticflickr.com/65535/55551776526_7c9aafd8b5_b.jpg",
+          "description": "stew of EDward Gaming during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Lee Aiksoon/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55552151115.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55552151115/",
+          "remote": "https://live.staticflickr.com/65535/55552151115_dd2b975039_b.jpg",
+          "description": "Esports caster Mikafabs interviews stew of EDward Gaming alongside Jennlee during VALORANT Champions Shanghai Group Stage Day 3 at Jing’an Sports Center on September 26, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55563259642.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55563259642/",
+          "remote": "https://live.staticflickr.com/65535/55563259642_53133dc6da_b.jpg",
+          "description": "stew of EDward Gaming arrives to compete during VALORANT Champions Shanghai Group Stage Day 8 at Jing’an Sports Center on October 02, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55551882833.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55551882833/",
+          "remote": "https://live.staticflickr.com/65535/55551882833_2c98f96d1f_b.jpg",
+          "description": "stew of EDward Gaming during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Lee Aiksoon/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55564529038.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55564529038/",
+          "remote": "https://live.staticflickr.com/65535/55564529038_f72994b307_b.jpg",
+          "description": "stew of EDward Gaming competes onstage during VALORANT Champions Shanghai Group Stage Day 8 at Jing’an Sports Center on October 02, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55565068835.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55565068835/",
+          "remote": "https://live.staticflickr.com/65535/55565068835_64b5f0e1a5_b.jpg",
+          "description": "stew of EDward Gaming speaks at post match interview after being eliminated during VALORANT Champions Shanghai Group Stage Day 8 at Jing’an Sports Center on October 02, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         500,
         500
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "nobody",
@@ -2455,12 +2575,76 @@
       "kills": 9635,
       "deaths": 9301,
       "portrait": "assets/players/3017.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/55551882823.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55551882823/",
+          "remote": "https://live.staticflickr.com/65535/55551882823_2f9a00ec9a_b.jpg",
+          "description": "nobody of EDward Gaming during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Lee Aiksoon/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55337504061.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55337504061/",
+          "remote": "https://live.staticflickr.com/65535/55337504061_61f60ecc11_b.jpg",
+          "description": "nobody of EDward Gaming speaks at post match conference after their victory at the VALORANT Masters London held at the Copper Box Arena on June 15, 2026 in London, England (Photo by Liu Yicun/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55337599073.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55337599073/",
+          "remote": "https://live.staticflickr.com/65535/55337599073_a1c8b5a19d_b.jpg",
+          "description": "nobody of EDward Gaming is seen onstage at the VALORANT Masters London held at the Copper Box Arena on June 15, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55337657814.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55337657814/",
+          "remote": "https://live.staticflickr.com/65535/55337657814_bdd7f75d48_b.jpg",
+          "description": "Jieni7 and nobody of EDward Gaming are seen onstage at the VALORANT Masters London held at the Copper Box Arena on June 15, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55337669048.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55337669048/",
+          "remote": "https://live.staticflickr.com/65535/55337669048_19e8455303_b.jpg",
+          "description": "nobody of EDward Gaming engages with fans at the VALORANT Masters London held at the Copper Box Arena on June 15, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55337873690.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55337873690/",
+          "remote": "https://live.staticflickr.com/65535/55337873690_b93e86b28c_b.jpg",
+          "description": "nobody of EDward Gaming speaks at post match conference after their victory at the VALORANT Masters London held at the Copper Box Arena on June 15, 2026 in London, England (Photo by Liu Yicun/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55337874980.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55337874980/",
+          "remote": "https://live.staticflickr.com/65535/55337874980_671c03968a_b.jpg",
+          "description": "Smoggy, Jieni7, and nobody of EDward Gaming are seen onstage at the VALORANT Masters London held at the Copper Box Arena on June 15, 2026 in London, England (Photo by Liu Yicun/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55337932005.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55337932005/",
+          "remote": "https://live.staticflickr.com/65535/55337932005_2e29efc0c2_b.jpg",
+          "description": "Esports host Frankie (L) interviews nobody of EDward Gaming onstage at the VALORANT Masters London held at the Copper Box Arena on June 15, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         785,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "ZmjjKK",
@@ -3288,12 +3472,76 @@
       "kills": 13091,
       "deaths": 10528,
       "portrait": "assets/players/3520.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/55552162330.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55552162330/",
+          "remote": "https://live.staticflickr.com/65535/55552162330_921e787d44_b.jpg",
+          "description": "CHICHOO, left, and ZmjjKK of EDward Gaming during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Lee Aiksoon/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55551882878.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55551882878/",
+          "remote": "https://live.staticflickr.com/65535/55551882878_1335f1153a_b.jpg",
+          "description": "ZmjjKK of EDward Gaming during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Lee Aiksoon/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55550738572.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55550738572/",
+          "remote": "https://live.staticflickr.com/65535/55550738572_4324358236_b.jpg",
+          "description": "Esports caster Mikafabs interviews ZmjjKK of EDward Gaming alongside translator during VALORANT Champions Shanghai Group Stage Day 3 at Jing’an Sports Center on September 26, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55550887702.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55550887702/",
+          "remote": "https://live.staticflickr.com/65535/55550887702_6d09a3457f_b.jpg",
+          "description": "PROFEK of Team Vitality and ZmjjKK of EDward Gaming during VALORANT Champions Shanghai Group Stage Day 3 at Jing’an Sports Center on September 26, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55551936861.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55551936861/",
+          "remote": "https://live.staticflickr.com/65535/55551936861_82d7286a90_b.jpg",
+          "description": "ZmjjKK of EDward Gaming is seen on stage during VALORANT Champions Shanghai Group Stage Day 3 at Jing’an Sports Center on September 26, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55552042473.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55552042473/",
+          "remote": "https://live.staticflickr.com/65535/55552042473_af200091c9_b.jpg",
+          "description": "ZmjjKK of EDward Gaming is seen on stage during VALORANT Champions Shanghai Group Stage Day 3 at Jing’an Sports Center on September 26, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55552126783.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55552126783/",
+          "remote": "https://live.staticflickr.com/65535/55552126783_6812291d7d_b.jpg",
+          "description": "ZmjjKK of EDward Gaming is seen onstage after being defeated during VALORANT Champions Shanghai Group Stage Day 3 at Jing’an Sports Center on September 26, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55552322445.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55552322445/",
+          "remote": "https://live.staticflickr.com/65535/55552322445_031f12b273_b.jpg",
+          "description": "ZmjjKK of EDward Gaming is seen on stage during VALORANT Champions Shanghai Group Stage Day 3 at Jing’an Sports Center on September 26, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         785,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "Smoggy",
@@ -4253,12 +4501,76 @@
       "kills": 9855,
       "deaths": 8673,
       "portrait": "assets/players/4742.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/55551776461.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55551776461/",
+          "remote": "https://live.staticflickr.com/65535/55551776461_bc4cb5826f_b.jpg",
+          "description": "CHICHOO, left, and Smoggy of EDward Gaming during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Lee Aiksoon/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55551882678.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55551882678/",
+          "remote": "https://live.staticflickr.com/65535/55551882678_6c951022ee_b.jpg",
+          "description": "Smoggy of EDward Gaming during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Lee Aiksoon/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55345084444.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55345084444/",
+          "remote": "https://live.staticflickr.com/65535/55345084444_0fa5e91a8f_b.jpg",
+          "description": "nobody (L) and Smoggy of EDward Gaming react onstage at the VALORANT Masters London held at the Copper Box Arena on June 19, 2026 in London, England (Photo by Colin Young Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55337444251.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55337444251/",
+          "remote": "https://live.staticflickr.com/65535/55337444251_61a2070d56_b.jpg",
+          "description": "Smoggy of EDward Gaming signs autographs for fans at the VALORANT Masters London held at the Copper Box Arena on June 15, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55337514846.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55337514846/",
+          "remote": "https://live.staticflickr.com/65535/55337514846_e00aedf703_b.jpg",
+          "description": "Smoggy of EDward Gaming signs autographs for fans at the VALORANT Masters London held at the Copper Box Arena on June 15, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55345090015.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55345090015/",
+          "remote": "https://live.staticflickr.com/65535/55345090015_bf3554b49e_b.jpg",
+          "description": "Smoggy of EDward Gaming is seen onstage at the VALORANT Masters London held at the Copper Box Arena on June 19, 2026 in London, England (Photo by Colin Young Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55345214688.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55345214688/",
+          "remote": "https://live.staticflickr.com/65535/55345214688_aec33b769f_b.jpg",
+          "description": "Smoggy of EDward Gaming engages with the audience at the VALORANT Masters London held at the Copper Box Arena on June 19, 2026 in London, England (Photo by Liu Yicun/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55345277064.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55345277064/",
+          "remote": "https://live.staticflickr.com/65535/55345277064_937f13a216_b.jpg",
+          "description": "Smoggy of EDward Gaming speaks during post conference at the VALORANT Masters London held at the Copper Box Arena on June 19, 2026 in London, England (Photo by Liu Yicun/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         785,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "Jieni7",
@@ -4993,12 +5305,76 @@
       "kills": 1838,
       "deaths": 1995,
       "portrait": "assets/players/51244.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/55552162545.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55552162545/",
+          "remote": "https://live.staticflickr.com/65535/55552162545_53f0fa6345_b.jpg",
+          "description": "ZmjjKK, left, and Jieni7 of EDward Gaming during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Lee Aiksoon/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55551776651.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55551776651/",
+          "remote": "https://live.staticflickr.com/65535/55551776651_7695080047_b.jpg",
+          "description": "Jieni7 of EDward Gaming during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Lee Aiksoon/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55336576782.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55336576782/",
+          "remote": "https://live.staticflickr.com/65535/55336576782_10cf169ccd_b.jpg",
+          "description": "Jieni7 of EDward Gaming speaks at post match conference after their victory at the VALORANT Masters London held at the Copper Box Arena on June 15, 2026 in London, England (Photo by Liu Yicun/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55337610348.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55337610348/",
+          "remote": "https://live.staticflickr.com/65535/55337610348_f0acef6690_b.jpg",
+          "description": "Jieni7 of EDward Gaming speaks at post match conference after their victory at the VALORANT Masters London held at the Copper Box Arena on June 15, 2026 in London, England (Photo by Liu Yicun/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55337728394.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55337728394/",
+          "remote": "https://live.staticflickr.com/65535/55337728394_a5a273e3c9_b.jpg",
+          "description": "Jieni7 of EDward Gaming engages with fans onstage at the VALORANT Masters London held at the Copper Box Arena on June 15, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55344130512.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55344130512/",
+          "remote": "https://live.staticflickr.com/65535/55344130512_e2955909bf_b.jpg",
+          "description": "Jieni7 of EDward Gaming speaks during post conference at the VALORANT Masters London held at the Copper Box Arena on June 19, 2026 in London, England (Photo by Liu Yicun/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55344636196.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55344636196/",
+          "remote": "https://live.staticflickr.com/65535/55344636196_d551aee0d7_b.jpg",
+          "description": "Jieni7 of EDward Gaming arrives to compete at the VALORANT Masters London held at the Copper Box Arena on June 19, 2026 in London, England (Photo by Colin Young Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55344866976.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55344866976/",
+          "remote": "https://live.staticflickr.com/65535/55344866976_b554bc7443_b.jpg",
+          "description": "Jieni7 of EDward Gaming reacts on stage at the VALORANT Masters London held at the Copper Box Arena on June 19, 2026 in London, England (Photo by Colin Young Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         785,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "zjc",
@@ -6460,12 +6836,76 @@
       "kills": 5107,
       "deaths": 4207,
       "portrait": "assets/players/21216.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/55135698332.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55135698332/",
+          "remote": "https://live.staticflickr.com/65535/55135698332_129cf3f830_b.jpg",
+          "description": "f4ngeer of All Gamers is seen onstage at VALORANT Masters Santiago Playoffs Stage Day 3 held at Espacio Riesco on March 8, 2026 in Santiago, Chile (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55135893812.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55135893812/",
+          "remote": "https://live.staticflickr.com/65535/55135893812_8827e6b141_b.jpg",
+          "description": "K1ra (L) and f4ngeer of All Gamers walk off stage at VALORANT Masters Santiago Playoffs Stage Day 3 held at Espacio Riesco on March 8, 2026 in Santiago, Chile (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55135960552.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55135960552/",
+          "remote": "https://live.staticflickr.com/65535/55135960552_729f91aa99_b.jpg",
+          "description": "f4ngeer of All Gamers reacts onstage at VALORANT Masters Santiago Playoffs Stage Day 3 held at Espacio Riesco on March 8, 2026 in Santiago, Chile (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55135960612.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55135960612/",
+          "remote": "https://live.staticflickr.com/65535/55135960612_ccfb32aeb5_b.jpg",
+          "description": "K1ra (L) and f4ngeer of GAll Gamers react onstage at VALORANT Masters Santiago Playoffs Stage Day 3 held at Espacio Riesco on March 8, 2026 in Santiago, Chile (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55135960662.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55135960662/",
+          "remote": "https://live.staticflickr.com/65535/55135960662_984323dcc1_b.jpg",
+          "description": "f4ngeer of All Gamers reacts onstage at VALORANT Masters Santiago Playoffs Stage Day 3 held at Espacio Riesco on March 8, 2026 in Santiago, Chile (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55136771488.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55136771488/",
+          "remote": "https://live.staticflickr.com/65535/55136771488_56d85f7bdb_b.jpg",
+          "description": "f4ngeer of All Gamers is seen onstage at VALORANT Masters Santiago Playoffs Stage Day 3 held at Espacio Riesco on March 8, 2026 in Santiago, Chile (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55136810081.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55136810081/",
+          "remote": "https://live.staticflickr.com/65535/55136810081_331b2472e9_b.jpg",
+          "description": "f4ngeer of All Gamers reacts onstage at VALORANT Masters Santiago Playoffs Stage Day 3 held at Espacio Riesco on March 8, 2026 in Santiago, Chile (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55137014424.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55137014424/",
+          "remote": "https://live.staticflickr.com/65535/55137014424_ecc6d3774e_b.jpg",
+          "description": "f4ngeer of All Gamers reacts onstage at VALORANT Masters Santiago Playoffs Stage Day 3 held at Espacio Riesco on March 8, 2026 in Santiago, Chile (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         785,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "Shr1mp",
@@ -7068,12 +7508,76 @@
       "kills": 3035,
       "deaths": 2857,
       "portrait": "assets/players/25494.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/55137088149.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55137088149/",
+          "remote": "https://live.staticflickr.com/65535/55137088149_1985706b97_b.jpg",
+          "description": "f4ngeer (L) and Shr1mp of All Gamers speak during press conference after their victory at VALORANT Masters Santiago Playoffs Stage Day 3 held at Espacio Riesco on March 8, 2026 in Santiago, Chile (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55133749567.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55133749567/",
+          "remote": "https://live.staticflickr.com/65535/55133749567_49c34347a0_b.jpg",
+          "description": "Shr1mp of All Gamers reacts onstage at VALORANT Masters Santiago Playoffs Stage Day 2 held at Espacio Riesco on March 7, 2026 in Santiago, Chile (Photo by Liu YiCun/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55133131257.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55133131257/",
+          "remote": "https://live.staticflickr.com/65535/55133131257_dec9699f30_b.jpg",
+          "description": "Shr1mp of All Gamers at VALORANT Masters Santiago on set during Features and B-roll in Santiago, Chile (Photo by Colin Young-Wolff/Riot Games)",
+          "year": null,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55134656156.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55134656156/",
+          "remote": "https://live.staticflickr.com/65535/55134656156_62a7b77996_b.jpg",
+          "description": "Shr1mp of All Gamers speak at press conference at VALORANT Masters Santiago Playoffs Stage Day 2 held at Espacio Riesco on March 7, 2026 in Santiago, Chile (Photo by Liu YiCun/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55134873569.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55134873569/",
+          "remote": "https://live.staticflickr.com/65535/55134873569_d8a20b35b1_b.jpg",
+          "description": "Shr1mp of All Gamers walks onstage at VALORANT Masters Santiago Playoffs Stage Day 2 held at Espacio Riesco on March 7, 2026 in Santiago, Chile (Photo by Liu YiCun/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55135003725.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55135003725/",
+          "remote": "https://live.staticflickr.com/65535/55135003725_65d8fe55b0_b.jpg",
+          "description": "Shr1mp of All Gamers reacts onstage at VALORANT Masters Santiago Playoffs Stage Day 2 held at Espacio Riesco on March 7, 2026 in Santiago, Chile (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55135893767.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55135893767/",
+          "remote": "https://live.staticflickr.com/65535/55135893767_fb4fb46caf_b.jpg",
+          "description": "Shr1mp of All Gamers reacts stage at VALORANT Masters Santiago Playoffs Stage Day 3 held at Espacio Riesco on March 8, 2026 in Santiago, Chile (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55136843991.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55136843991/",
+          "remote": "https://live.staticflickr.com/65535/55136843991_c887e9107a_b.jpg",
+          "description": "Au1 (L) and Shr1mp of All Gamers react onstage at VALORANT Masters Santiago Playoffs Stage Day 3 held at Espacio Riesco on March 8, 2026 in Santiago, Chile (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         785,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "K1ra",
@@ -7742,12 +8246,76 @@
       "kills": 2443,
       "deaths": 2417,
       "portrait": "assets/players/46748.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/55137045939.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55137045939/",
+          "remote": "https://live.staticflickr.com/65535/55137045939_2cafeba9fb_b.jpg",
+          "description": "f4ngeer (L) and K1ra of All Gamers react onstage at VALORANT Masters Santiago Playoffs Stage Day 3 held at Espacio Riesco on March 8, 2026 in Santiago, Chile (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55141037418.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55141037418/",
+          "remote": "https://live.staticflickr.com/65535/55141037418_3a12cd09aa_b.jpg",
+          "description": "K1ra of All Gamers at VALORANT Masters Santiago Playoffs Stage Day 5 held at Espacio Riesco on March 10, 2026 in Santiago, Chile (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55133131307.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55133131307/",
+          "remote": "https://live.staticflickr.com/65535/55133131307_5fd76d33de_b.jpg",
+          "description": "K1ra of  All Gamers at VALORANT Masters Santiago on set during Features and B-roll in Santiago, Chile (Photo by Colin Young-Wolff/Riot Games)",
+          "year": null,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55134414170.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55134414170/",
+          "remote": "https://live.staticflickr.com/65535/55134414170_5124ed2243_b.jpg",
+          "description": "K1ra of  All Gamers at VALORANT Masters Santiago on set during Features and B-roll in Santiago, Chile (Photo by Colin Young-Wolff/Riot Games)",
+          "year": null,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55137247655.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55137247655/",
+          "remote": "https://live.staticflickr.com/65535/55137247655_a6bcb54850_b.jpg",
+          "description": "(L-R) Shr1mp, Au1 and K1ra of All Gamers speak during press conference after their victory at VALORANT Masters Santiago Playoffs Stage Day 3 held at Espacio Riesco on March 8, 2026 in Santiago, Chile (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55133749457.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55133749457/",
+          "remote": "https://live.staticflickr.com/65535/55133749457_facd36bd07_b.jpg",
+          "description": "K1ra of All Gamers is seen onstage at VALORANT Masters Santiago Playoffs Stage Day 2 held at Espacio Riesco on March 7, 2026 in Santiago, Chile (Photo by Liu YiCun/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55134889569.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55134889569/",
+          "remote": "https://live.staticflickr.com/65535/55134889569_595e57105c_b.jpg",
+          "description": "K1ra of All Gamers speaks at press conference at VALORANT Masters Santiago Playoffs Stage Day 2 held at Espacio Riesco on March 7, 2026 in Santiago, Chile (Photo by Liu YiCun/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55135967597.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55135967597/",
+          "remote": "https://live.staticflickr.com/65535/55135967597_f959d3d7ca_b.jpg",
+          "description": "K1ra of All Gamers speaks during press conference after their victory at VALORANT Masters Santiago Playoffs Stage Day 3 held at Espacio Riesco on March 8, 2026 in Santiago, Chile (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         785,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "Bai",
@@ -8726,12 +9294,76 @@
       "kills": 1559,
       "deaths": 1581,
       "portrait": "assets/players/58959.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/55139975077.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55139975077/",
+          "remote": "https://live.staticflickr.com/65535/55139975077_9d39b87e7e_b.jpg",
+          "description": "f4ngeer and iamgrq of All Gamers at VALORANT Masters Santiago Playoffs Stage Day 5 held at Espacio Riesco on March 10, 2026 in Santiago, Chile (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55134640506.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55134640506/",
+          "remote": "https://live.staticflickr.com/65535/55134640506_59fdb2a793_b.jpg",
+          "description": "iamgrq of All Gamers reacts onstage at VALORANT Masters Santiago Playoffs Stage Day 2 held at Espacio Riesco on March 7, 2026 in Santiago, Chile (Photo by Liu YiCun/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55134257694.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55134257694/",
+          "remote": "https://live.staticflickr.com/65535/55134257694_ef74c0b59f_b.jpg",
+          "description": "iamgrq of All Gamers at VALORANT Masters Santiago on set during Features and B-roll in Santiago, Chile (Photo by Colin Young-Wolff/Riot Games)",
+          "year": null,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55134656026.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55134656026/",
+          "remote": "https://live.staticflickr.com/65535/55134656026_c15d7ae4a6_b.jpg",
+          "description": "iamgrq of All Gamers speaks at press conference at VALORANT Masters Santiago Playoffs Stage Day 2 held at Espacio Riesco on March 7, 2026 in Santiago, Chile (Photo by Liu YiCun/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55135031490.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55135031490/",
+          "remote": "https://live.staticflickr.com/65535/55135031490_3e23d54bcd_b.jpg",
+          "description": "iamgrq of All Gamers reacts onstage at VALORANT Masters Santiago Playoffs Stage Day 2 held at Espacio Riesco on March 7, 2026 in Santiago, Chile (Photo by Liu YiCun/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55135893692.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55135893692/",
+          "remote": "https://live.staticflickr.com/65535/55135893692_e677475967_b.jpg",
+          "description": "iamgrq of All Gamers reacts onstage at VALORANT Masters Santiago Playoffs Stage Day 3 held at Espacio Riesco on March 8, 2026 in Santiago, Chile (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55136810056.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55136810056/",
+          "remote": "https://live.staticflickr.com/65535/55136810056_5476cdafc2_b.jpg",
+          "description": "iamgrq of All Gamers signs autographs for fans at VALORANT Masters Santiago Playoffs Stage Day 3 held at Espacio Riesco on March 8, 2026 in Santiago, Chile (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55137173420.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55137173420/",
+          "remote": "https://live.staticflickr.com/65535/55137173420_953ccf9ccf_b.jpg",
+          "description": "iamgrq of All Gamers reacts onstage at VALORANT Masters Santiago Playoffs Stage Day 3 held at Espacio Riesco on March 8, 2026 in Santiago, Chile (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         785,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "nephh",
@@ -9664,12 +10296,76 @@
       "kills": 6028,
       "deaths": 5844,
       "portrait": "assets/players/10698.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/54789053493.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54789053493/",
+          "remote": "https://live.staticflickr.com/65535/54789053493_4e05dd9775_b.jpg",
+          "description": "PARIS, FRANCE - September 9, 2025: nephh of Bilibili Gaming at the VALORANT Champions Paris Features Day on September 9, 2025 in Paris, France. (Photo by Adela Sznajder/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54789053803.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54789053803/",
+          "remote": "https://live.staticflickr.com/65535/54789053803_6ae30ce8e8_b.jpg",
+          "description": "PARIS, FRANCE - September 9, 2025: nephh of Bilibili Gaming at the VALORANT Champions Paris Features Day on September 9, 2025 in Paris, France. (Photo by Adela Sznajder/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54789052044.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54789052044/",
+          "remote": "https://live.staticflickr.com/65535/54789052044_39820a731a_b.jpg",
+          "description": "PARIS, FRANCE - nephh of Bilibili Gaming at VALORANT Champions Paris Tech Check at Les Arènes de Grand Paris Sud on September 11, 2025 in Paris, France (Photo by Colin Young Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54789126963.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54789126963/",
+          "remote": "https://live.staticflickr.com/65535/54789126963_b9cf2e517b_b.jpg",
+          "description": "PARIS, FRANCE - nephh of Bilibili Gaming is seen walking on stage during VALORANT Champions Paris Group Stage Day 4 at Les Arènes de Grand Paris Sud on September 15, 2025 in Paris, France (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54789129310.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54789129310/",
+          "remote": "https://live.staticflickr.com/65535/54789129310_ed4b15de17_b.jpg",
+          "description": "PARIS, FRANCE - September 9, 2025: nephh of Bilibili Gaming at the VALORANT Champions Paris Features Day on September 9, 2025 in Paris, France. (Photo by Adela Sznajder/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54789169358.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54789169358/",
+          "remote": "https://live.staticflickr.com/65535/54789169358_364c8ac4d3_b.jpg",
+          "description": "PARIS, FRANCE - nephh of Bilibili Gaming is seen on stage during VALORANT Champions Paris Group Stage Day 4 at Les Arènes de Grand Paris Sud on September 15, 2025 in Paris, France (Photo by Adela Sznajder/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54789487009.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54789487009/",
+          "remote": "https://live.staticflickr.com/65535/54789487009_dbd539c928_b.jpg",
+          "description": "PARIS, FRANCE - nephh of Bilibili Gaming is seen on stage during VALORANT Champions Paris Group Stage Day 4 at Les Arènes de Grand Paris Sud on September 15, 2025 in Paris, France (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54798937382.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54798937382/",
+          "remote": "https://live.staticflickr.com/65535/54798937382_e011d0c842_b.jpg",
+          "description": "PARIS, FRANCE - nephh of Bilibili Gaming competes onstage at VALORANT Champions Paris Group Stage Day 8 at Les Arènes de Grand Paris Sud on September 20, 2025 in Paris, France (Photo by Adela Sznajder/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         785,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "Levius",
@@ -10164,12 +10860,76 @@
       "kills": 1923,
       "deaths": 2151,
       "portrait": "assets/players/40845.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/54787952792.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54787952792/",
+          "remote": "https://live.staticflickr.com/65535/54787952792_3245408017_b.jpg",
+          "description": "PARIS, FRANCE - September 9, 2025: Levius of Bilibili Gaming at the VALORANT Champions Paris Features Day on September 9, 2025 in Paris, France. (Photo by Adela Sznajder/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54789030844.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54789030844/",
+          "remote": "https://live.staticflickr.com/65535/54789030844_797f84e781_b.jpg",
+          "description": "PARIS, FRANCE - September 9, 2025: Levius of Bilibili Gaming at the VALORANT Champions Paris Features Day on September 9, 2025 in Paris, France. (Photo by Adela Sznajder/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54789242900.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54789242900/",
+          "remote": "https://live.staticflickr.com/65535/54789242900_95881d7523_b.jpg",
+          "description": "PARIS, FRANCE - (L-R) Knight, nephh, whzy, and Levius of Bilibili Gaming walk on stage during VALORANT Champions Paris Group Stage Day 4 at Les Arènes de Grand Paris Sud on September 15, 2025 in Paris, France (Photo by Adela Sznajder/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54573990344.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54573990344/",
+          "remote": "https://live.staticflickr.com/65535/54573990344_a247293c5d_b.jpg",
+          "description": "TORONTO, CANADA - JUNE 07: Levius of Bilibili Gaming takes selfies with fan at VALORANT Masters Toronto Swiss Stage on June 07, 2025 at the Enercare Centre in Toronto Canada. (Photo by Stefan Wisnoski/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54578168180.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54578168180/",
+          "remote": "https://live.staticflickr.com/65535/54578168180_74b9b47ef1_b.jpg",
+          "description": "TORONTO, CANADA - JUNE 09: Levius of Bilibili Gaming is seen onstage at VALORANT Masters Toronto Swiss Stage on June 09, 2025 at the Enercare Centre in Toronto Canada. (Photo by Stefan Wisnoski/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54578536905.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54578536905/",
+          "remote": "https://live.staticflickr.com/65535/54578536905_ff3c81f8d9_b.jpg",
+          "description": "TORONTO, CANADA - JUNE 09: Levius of Bilibili Gaming competes onstage at VALORANT Masters Toronto Swiss Stage on June 09, 2025 at the Enercare Centre in Toronto Canada. (Photo by Stefan Wisnoski/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54581901652.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54581901652/",
+          "remote": "https://live.staticflickr.com/65535/54581901652_ebd74542ce_b.jpg",
+          "description": "TORONTO, CANADA - JUNE 11: Levius of Bilibili Gaming competes onstage at VALORANT Masters Toronto Swiss Stage on June 11, 2025 at the Enercare Centre in Toronto Canada. (Photo by Stefan Wisnoski/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54788030102.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54788030102/",
+          "remote": "https://live.staticflickr.com/65535/54788030102_09285007b5_b.jpg",
+          "description": "PARIS, FRANCE - Knight (L) and Levius of Bilibili Gaming are seen walking on stage during VALORANT Champions Paris Group Stage Day 4 at Les Arènes de Grand Paris Sud on September 15, 2025 in Paris, France (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         200,
         200
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "Knight",
@@ -10937,12 +11697,76 @@
       "kills": 7918,
       "deaths": 7730,
       "portrait": "assets/players/4774.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/54789041078.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54789041078/",
+          "remote": "https://live.staticflickr.com/65535/54789041078_72cfc8223d_b.jpg",
+          "description": "PARIS, FRANCE - September 9, 2025: (L-R) nephh, Levius, whzy, rushia, and Knight of Bilibili Gaming at the VALORANT Champions Paris Features Day on September 9, 2025 in Paris, France. (Photo by Adela Sznajder/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54789041138.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54789041138/",
+          "remote": "https://live.staticflickr.com/65535/54789041138_9227e1f66f_b.jpg",
+          "description": "PARIS, FRANCE - September 9, 2025: (L-R) nephh, Levius, whzy, rushia, and Knight of Bilibili Gaming at the VALORANT Champions Paris Features Day on September 9, 2025 in Paris, France. (Photo by Adela Sznajder/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54799998733.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54799998733/",
+          "remote": "https://live.staticflickr.com/65535/54799998733_381d484dc8_b.jpg",
+          "description": "PARIS, FRANCE - (L-R) Coach bail, assistant coach JeXeN and Knight of Bilibili Gaming arrive to compete at VALORANT Champions Paris Group Stage Day 8 at Les Arènes de Grand Paris Sud on September 20, 2025 in Paris, France (Photo by Adela Sznajder/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54800403383.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54800403383/",
+          "remote": "https://live.staticflickr.com/65535/54800403383_5e8dc61413_b.jpg",
+          "description": "PARIS, FRANCE - Coach bail (L) and Knight of Bilibili Gaming speak during post match conference at VALORANT Champions Paris Group Stage Day 8 at Les Arènes de Grand Paris Sud on September 20, 2025 in Paris, France (Photo by Adela Sznajder/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54789031369.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54789031369/",
+          "remote": "https://live.staticflickr.com/65535/54789031369_f34e563692_b.jpg",
+          "description": "PARIS, FRANCE - September 9, 2025: Levius of Bilibili Gaming at the VALORANT Champions Paris Features Day on September 9, 2025 in Paris, France. (Photo by Adela Sznajder/Riot Games)PARIS, FRANCE - September 9, 2025: Knight of Bilibili Gaming at the VALORANT Champions Paris Features Day on September 9, 2025 in Paris, France. (Photo by Adela Sznajder/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54787973737.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54787973737/",
+          "remote": "https://live.staticflickr.com/65535/54787973737_e912f1c461_b.jpg",
+          "description": "PARIS, FRANCE - Knight of Bilibili Gaming at VALORANT Champions Paris Tech Check at Les Arènes de Grand Paris Sud on September 11, 2025 in Paris, France (Photo by Colin Young Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54788027877.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54788027877/",
+          "remote": "https://live.staticflickr.com/65535/54788027877_c30de77c5d_b.jpg",
+          "description": "PARIS, FRANCE - Knight of Bilibili Gaming is seen on stage during VALORANT Champions Paris Group Stage Day 4 at Les Arènes de Grand Paris Sud on September 15, 2025 in Paris, France (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54788869186.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54788869186/",
+          "remote": "https://live.staticflickr.com/65535/54788869186_a46ca4ae28_b.jpg",
+          "description": "PARIS, FRANCE - Knight of Bilibili Gaming is seen backstage during VALORANT Champions Paris Group Stage Day 4 at Les Arènes de Grand Paris Sud on September 15, 2025 in Paris, France (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         785,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "whzy",
@@ -11578,12 +12402,76 @@
       "kills": 10888,
       "deaths": 8998,
       "portrait": "assets/players/4885.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/55593432652.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55593432652/",
+          "remote": "https://live.staticflickr.com/65535/55593432652_2c0fd65772_b.jpg",
+          "description": "Gus (L) and whzy of Team ALPHA react onstage during VALORANT Champions Shanghai Showmatch at Mercedes-Benz Arena on October 17, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55594499403.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55594499403/",
+          "remote": "https://live.staticflickr.com/65535/55594499403_2fdc130b80_b.jpg",
+          "description": "whzy of Team ALPHA reacts onstage during VALORANT Champions Shanghai Showmatch at Mercedes-Benz Arena on October 17, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54788795351.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54788795351/",
+          "remote": "https://live.staticflickr.com/65535/54788795351_a55cf37899_b.jpg",
+          "description": "PARIS, FRANCE - September 9, 2025: nephh (L), Levius, and whzy of Bilibili Gaming at the VALORANT Champions Paris Features Day on September 9, 2025 in Paris, France. (Photo by Adela Sznajder/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54780695108.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54780695108/",
+          "remote": "https://live.staticflickr.com/65535/54780695108_fc185607f4_b.jpg",
+          "description": "PARIS, FRANCE - (L-R) whzy of Bilibili Gaming, aspas of MIBR, crazyguy of Rex Regum Qeon and Boaster of Fnatic speak at VALORANT Champions Media Day at Les Arènes de Grand Paris Sud on September 11, 2025 in Paris, France (Photo by Colin Young Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54789579850.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54789579850/",
+          "remote": "https://live.staticflickr.com/65535/54789579850_ffce1a8be8_b.jpg",
+          "description": "PARIS, FRANCE - Knight (L) and whzy of Bilibili Gaming are seen walking off stage during VALORANT Champions Paris Group Stage Day 4 at Les Arènes de Grand Paris Sud on September 15, 2025 in Paris, France (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54787996752.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54787996752/",
+          "remote": "https://live.staticflickr.com/65535/54787996752_3dabd66e9f_b.jpg",
+          "description": "PARIS, FRANCE - Mikafabs (L) and whzy of Bilibili Gaming speak during an interview at VALORANT Champions Paris Group Stage Day 4 at Les Arènes de Grand Paris Sud on September 15, 2025 in Paris, France (Photo by Adela Sznajder/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54788837756.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54788837756/",
+          "remote": "https://live.staticflickr.com/65535/54788837756_8bbaee2037_b.jpg",
+          "description": "PARIS, FRANCE - whzy of Bilibili Gaming is seen arriving at VALORANT Champions Paris Group Stage Day 4 at Les Arènes de Grand Paris Sud on September 15, 2025 in Paris, France (Photo by Adela Sznajder/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54788938771.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54788938771/",
+          "remote": "https://live.staticflickr.com/65535/54788938771_9982bf07dc_b.jpg",
+          "description": "PARIS, FRANCE - whzy of Bilibili Gaming is seen on stage during VALORANT Champions Paris Group Stage Day 4 at Les Arènes de Grand Paris Sud on September 15, 2025 in Paris, France (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         785,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "rushia",
@@ -12054,12 +12942,76 @@
       "kills": 3006,
       "deaths": 3110,
       "portrait": "assets/players/48878.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/54787951232.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54787951232/",
+          "remote": "https://live.staticflickr.com/65535/54787951232_5dfffeac51_b.jpg",
+          "description": "PARIS, FRANCE - September 9, 2025: rushia of Bilibili Gaming at the VALORANT Champions Paris Features Day on September 9, 2025 in Paris, France. (Photo by Adela Sznajder/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54788790711.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54788790711/",
+          "remote": "https://live.staticflickr.com/65535/54788790711_41b29bab41_b.jpg",
+          "description": "PARIS, FRANCE - September 9, 2025: rushia of Bilibili Gaming at the VALORANT Champions Paris Features Day on September 9, 2025 in Paris, France. (Photo by Adela Sznajder/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54578064043.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54578064043/",
+          "remote": "https://live.staticflickr.com/65535/54578064043_9f5ae52dc6_b.jpg",
+          "description": "TORONTO, CANADA - JUNE 09: rushia of Bilibili Gaming is seen onstage at VALORANT Masters Toronto Swiss Stage on June 09, 2025 at the Enercare Centre in Toronto Canada. (Photo by Stefan Wisnoski/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54578398805.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54578398805/",
+          "remote": "https://live.staticflickr.com/65535/54578398805_1fc83df583_b.jpg",
+          "description": "TORONTO, CANADA - JUNE 09: rushia of Bilibili Gaming walks onstage at VALORANT Masters Toronto Swiss Stage on June 09, 2025 at the Enercare Centre in Toronto Canada. (Photo by Stefan Wisnoski/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54581666977.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54581666977/",
+          "remote": "https://live.staticflickr.com/65535/54581666977_1717326fa9_b.jpg",
+          "description": "TORONTO, CANADA - JUNE 11: rushia of Bilibili Gaming gets interviewed by esports host Jennlee along with translator at VALORANT Masters Toronto Swiss Stage on June 11, 2025 at the Enercare Centre in Toronto Canada. (Photo by Stefan Wisnoski/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54582538321.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54582538321/",
+          "remote": "https://live.staticflickr.com/65535/54582538321_28bf6bded5_b.jpg",
+          "description": "TORONTO, CANADA - JUNE 11: rushia of Bilibili Gaming gets interviewed by esports host Jennlee along with translator at VALORANT Masters Toronto Swiss Stage on June 11, 2025 at the Enercare Centre in Toronto Canada. (Photo by Stefan Wisnoski/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54582538956.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54582538956/",
+          "remote": "https://live.staticflickr.com/65535/54582538956_9f1a48df2f_b.jpg",
+          "description": "TORONTO, CANADA - JUNE 11: rushia of Bilibili Gaming arrives to compete at VALORANT Masters Toronto Swiss Stage on June 11, 2025 at the Enercare Centre in Toronto Canada. (Photo by Stefan Wisnoski/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54582599776.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54582599776/",
+          "remote": "https://live.staticflickr.com/65535/54582599776_30a779111d_b.jpg",
+          "description": "TORONTO, CANADA - JUNE 11: rushia of Bilibili Gaming is seen onstage at VALORANT Masters Toronto Swiss Stage on June 11, 2025 at the Enercare Centre in Toronto Canada. (Photo by Stefan Wisnoski/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         785,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "bud",
@@ -14327,12 +15279,76 @@
       "kills": 5304,
       "deaths": 5554,
       "portrait": "assets/players/11524.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/55316971487.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55316971487/",
+          "remote": "https://live.staticflickr.com/65535/55316971487_3ac1a3c06f_b.jpg",
+          "description": "Nicc of Dragon Ranger Gaming at VALORANT Masters London on set during Features Day on June 05, 2026 in London, England (Photo by Jianhua Chen/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55318042068.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55318042068/",
+          "remote": "https://live.staticflickr.com/65535/55318042068_596809ce32_b.jpg",
+          "description": "(L-R) Life, SpiritZ1 and Nicc of Dragon Ranger Gaming at VALORANT Masters London on set during Features Day on June 05, 2026 in London, England (Photo by Jianhua Chen/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55317148517.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55317148517/",
+          "remote": "https://live.staticflickr.com/65535/55317148517_ae716d4763_b.jpg",
+          "description": "Nicc of Dragon Ranger Gaming is seen onstage at VALORANT Masters London held at the Copper Box Arena on June 06, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55317350272.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55317350272/",
+          "remote": "https://live.staticflickr.com/65535/55317350272_0bfc4c167d_b.jpg",
+          "description": "Nicc of Dragon Ranger Gaming is seen onstage at VALORANT Masters London held at the Copper Box Arena on June 06, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54800172449.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54800172449/",
+          "remote": "https://live.staticflickr.com/65535/54800172449_414dbb4eab_b.jpg",
+          "description": "PARIS, FRANCE - Nicc of Dragon Ranger Gaming is interviewed by Jennlee at VALORANT Champions Paris Group Stage Day 8 at Les Arènes de Grand Paris Sud on September 20, 2025 in Paris, France (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54800351439.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54800351439/",
+          "remote": "https://live.staticflickr.com/65535/54800351439_f386b92bc0_b.jpg",
+          "description": "PARIS, FRANCE - Nicc of Dragon Ranger Gaming is seen onstage at VALORANT Champions Paris Group Stage Day 8 at Les Arènes de Grand Paris Sud on September 20, 2025 in Paris, France (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54800528869.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54800528869/",
+          "remote": "https://live.staticflickr.com/65535/54800528869_56ddc1ba64_b.jpg",
+          "description": "PARIS, FRANCE - Nicc of Dragon Ranger Gaming competes onstage at VALORANT Champions Paris Group Stage Day 8 at Les Arènes de Grand Paris Sud on September 20, 2025 in Paris, France (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54800689400.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54800689400/",
+          "remote": "https://live.staticflickr.com/65535/54800689400_2925e5aa59_b.jpg",
+          "description": "PARIS, FRANCE - Nicc of Dragon Ranger Gaming is seen back stage at VALORANT Champions Paris Group Stage Day 8 at Les Arènes de Grand Paris Sud on September 20, 2025 in Paris, France (Photo by Adela Sznajder/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         785,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "Life",
@@ -14995,12 +16011,76 @@
       "kills": 9886,
       "deaths": 8767,
       "portrait": "assets/players/3028.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/55318105539.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55318105539/",
+          "remote": "https://live.staticflickr.com/65535/55318105539_32478fe248_b.jpg",
+          "description": "Life of Dragon Ranger Gaming at VALORANT Masters London on set during Features Day on June 05, 2026 in London, England (Photo by Jianhua Chen/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55318105579.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55318105579/",
+          "remote": "https://live.staticflickr.com/65535/55318105579_40abcb567f_b.jpg",
+          "description": "Life of Dragon Ranger Gaming at VALORANT Masters London on set during Features Day on June 05, 2026 in London, England (Photo by Jianhua Chen/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55324540958.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55324540958/",
+          "remote": "https://live.staticflickr.com/65535/55324540958_7e473d9dba_b.jpg",
+          "description": "(L-R) SpiritZ1, Nicc, vo0kashu, Flex1n, and Life of Dragon Ranger Gaming are seen arriving at VALORANT Masters London held at the Copper Box Arena on June 09, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55316975967.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55316975967/",
+          "remote": "https://live.staticflickr.com/65535/55316975967_8c10a8affa_b.jpg",
+          "description": "(L-R) vo0kashu, SpiritZ1 and Life of Dragon Ranger Gaming at VALORANT Masters London on set during Broll on June 05, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55317148522.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55317148522/",
+          "remote": "https://live.staticflickr.com/65535/55317148522_e7ee9b7025_b.jpg",
+          "description": "Life of Dragon Ranger Gaming is seen onstage at VALORANT Masters London held at the Copper Box Arena on June 06, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55317321567.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55317321567/",
+          "remote": "https://live.staticflickr.com/65535/55317321567_97fee91a25_b.jpg",
+          "description": "Esports caster Valora (L) interviews Life of Dragon Ranger Gaming is seen onstage at VALORANT Masters London held at the Copper Box Arena on June 06, 2026 in London, England (Photo by Liu Yicun/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55317322022.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55317322022/",
+          "remote": "https://live.staticflickr.com/65535/55317322022_cb96ee2c36_b.jpg",
+          "description": "Esports caster Valora (L) interviews Life of Dragon Ranger Gaming is seen onstage at VALORANT Masters London held at the Copper Box Arena on June 06, 2026 in London, England (Photo by Liu Yicun/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55318109414.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55318109414/",
+          "remote": "https://live.staticflickr.com/65535/55318109414_9f68737862_b.jpg",
+          "description": "Life of Dragon Ranger Gaming at VALORANT Masters London on set during Broll on June 05, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         784,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "SpiritZ1",
@@ -15729,12 +16809,76 @@
       "kills": 3837,
       "deaths": 3707,
       "portrait": "assets/players/31753.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/55318105254.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55318105254/",
+          "remote": "https://live.staticflickr.com/65535/55318105254_f492585fef_b.jpg",
+          "description": "Life (L) and SpiritZ1 of Dragon Ranger Gaming at VALORANT Masters London on set during Features Day on June 05, 2026 in London, England (Photo by Jianhua Chen/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55325051225.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55325051225/",
+          "remote": "https://live.staticflickr.com/65535/55325051225_85bedb2bc2_b.jpg",
+          "description": "Nicc (L) and SpiritZ1 of Dragon Ranger Gaming are seen on stage during VALORANT Masters London held at the Copper Box Arena on June 09, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55316975837.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55316975837/",
+          "remote": "https://live.staticflickr.com/65535/55316975837_4853179301_b.jpg",
+          "description": "Flex1n (L) and SpiritZ1 of Dragon Ranger Gaming at VALORANT Masters London on set during Broll on June 05, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55317885991.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55317885991/",
+          "remote": "https://live.staticflickr.com/65535/55317885991_d483318f0f_b.jpg",
+          "description": "SpiritZ1 of Dragon Ranger Gaming at VALORANT Masters London on set during Broll on June 05, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55318109604.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55318109604/",
+          "remote": "https://live.staticflickr.com/65535/55318109604_00b13dbda1_b.jpg",
+          "description": "Flex1n (L) and SpiritZ1 of Dragon Ranger Gaming at VALORANT Masters London on set during Broll on June 05, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55318220713.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55318220713/",
+          "remote": "https://live.staticflickr.com/65535/55318220713_e9e886a44e_b.jpg",
+          "description": "SpiritZ1 of Dragon Ranger Gaming is seen onstage at VALORANT Masters London held at the Copper Box Arena on June 06, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55318229206.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55318229206/",
+          "remote": "https://live.staticflickr.com/65535/55318229206_811b1f6d8a_b.jpg",
+          "description": "SpiritZ1 of Dragon Ranger Gaming is seen onstage at VALORANT Masters London held at the Copper Box Arena on June 06, 2026 in London, England (Photo by Liu Yicun/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55318281674.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55318281674/",
+          "remote": "https://live.staticflickr.com/65535/55318281674_368b8bc4b4_b.jpg",
+          "description": "SpiritZ1 of Dragon Ranger Gaming is seen onstage at VALORANT Masters London held at the Copper Box Arena on June 06, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         785,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "vo0kashu",
@@ -16535,12 +17679,76 @@
       "kills": 10189,
       "deaths": 8075,
       "portrait": "assets/players/3741.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/55324482511.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55324482511/",
+          "remote": "https://live.staticflickr.com/65535/55324482511_f16bdd45e8_b.jpg",
+          "description": "Life (L) and vo0kashu of Dragon Ranger Gaming are seen walking onto stage during VALORANT Masters London held at the Copper Box Arena on June 09, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55318109204.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55318109204/",
+          "remote": "https://live.staticflickr.com/65535/55318109204_2464a91c78_b.jpg",
+          "description": "SpiritZ1 (L) and vo0kashu of Dragon Ranger Gaming at VALORANT Masters London on set during Broll on June 05, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55318330108.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55318330108/",
+          "remote": "https://live.staticflickr.com/65535/55318330108_8abcfbeeaf_b.jpg",
+          "description": "Esports host Jennlee (L) interviews vo0kashu of Dragon Ranger Gaming at VALORANT Masters London held at the Copper Box Arena on June 06, 2026 in London, England (Photo by Liu Yicun/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55318390903.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55318390903/",
+          "remote": "https://live.staticflickr.com/65535/55318390903_fba5eec5bc_b.jpg",
+          "description": "vo0kashu of Dragon Ranger Gaming is seen onstage at VALORANT Masters London held at the Copper Box Arena on June 06, 2026 in London, England (Photo by Liu Yicun/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55318468010.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55318468010/",
+          "remote": "https://live.staticflickr.com/65535/55318468010_fbee40c9b0_b.jpg",
+          "description": "vo0kashu of Dragon Ranger Gaming is seen onstage at VALORANT Masters London held at the Copper Box Arena on June 06, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55318468155.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55318468155/",
+          "remote": "https://live.staticflickr.com/65535/55318468155_d5fc74aeda_b.jpg",
+          "description": "vo0kashu of Dragon Ranger Gaming walks onstage at VALORANT Masters London held at the Copper Box Arena on June 06, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55323472067.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55323472067/",
+          "remote": "https://live.staticflickr.com/65535/55323472067_8a9095a699_b.jpg",
+          "description": "vo0kashu of Dragon Ranger Gaming is seen arriving at VALORANT Masters London held at the Copper Box Arena on June 09, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55324382656.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55324382656/",
+          "remote": "https://live.staticflickr.com/65535/55324382656_fc7609cc6e_b.jpg",
+          "description": "vo0kashu of Dragon Ranger Gaming is seen meeting fans during VALORANT Masters London held at the Copper Box Arena on June 09, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         785,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "Flex1n",
@@ -17011,12 +18219,76 @@
       "kills": 4859,
       "deaths": 4810,
       "portrait": "assets/players/4705.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/55316971417.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55316971417/",
+          "remote": "https://live.staticflickr.com/65535/55316971417_5ba4b18423_b.jpg",
+          "description": "Flex1n of Dragon Ranger Gaming at VALORANT Masters London on set during Features Day on June 05, 2026 in London, England (Photo by Jianhua Chen/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55318105924.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55318105924/",
+          "remote": "https://live.staticflickr.com/65535/55318105924_9d233586ec_b.jpg",
+          "description": "Flex1n of Dragon Ranger Gaming at VALORANT Masters London on set during Features Day on June 05, 2026 in London, England (Photo by Jianhua Chen/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55324800958.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55324800958/",
+          "remote": "https://live.staticflickr.com/65535/55324800958_9c3189c637_b.jpg",
+          "description": "SpiritZ1 (L) and Flex1n of Dragon Ranger Gaming are seen on stage during VALORANT Masters London held at the Copper Box Arena on June 09, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55318295630.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55318295630/",
+          "remote": "https://live.staticflickr.com/65535/55318295630_4ab3b46fec_b.jpg",
+          "description": "Flex1n of Dragon Ranger Gaming at VALORANT Masters London on set during Broll on June 05, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54786435106.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54786435106/",
+          "remote": "https://live.staticflickr.com/65535/54786435106_28cac2f43b_b.jpg",
+          "description": "PARIS, FRANCE - SpiritZ1 (L) and Flex1n of Dragon Ranger Gaming are seen on stage during VALORANT Champions Paris Group Stage Day 3 at Les Arènes de Grand Paris Sud on September 14, 2025 in Paris, France (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54786645571.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54786645571/",
+          "remote": "https://live.staticflickr.com/65535/54786645571_db798d4025_b.jpg",
+          "description": "PARIS, FRANCE - Flex1n of Dragon Ranger Gaming is seen on stage during VALORANT Champions Paris Group Stage Day 3 at Les Arènes de Grand Paris Sud on September 14, 2025 in Paris, France (Photo by Adela Sznajder/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54799263247.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54799263247/",
+          "remote": "https://live.staticflickr.com/65535/54799263247_c0774eaf8d_b.jpg",
+          "description": "PARIS, FRANCE - Flex1n of Dragon Ranger Gaming is seen onstage at VALORANT Champions Paris Group Stage Day 8 at Les Arènes de Grand Paris Sud on September 20, 2025 in Paris, France (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54799503022.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54799503022/",
+          "remote": "https://live.staticflickr.com/65535/54799503022_6286d6d32f_b.jpg",
+          "description": "PARIS, FRANCE - Flex1n of Dragon Ranger Gaming is seen at VALORANT Champions Paris Group Stage Day 8 at Les Arènes de Grand Paris Sud on September 20, 2025 in Paris, France (Photo by Adela Sznajder/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         785,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "Verse",
@@ -18415,12 +19687,76 @@
       "kills": 5084,
       "deaths": 4856,
       "portrait": "assets/players/12365.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/54781056892.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54781056892/",
+          "remote": "https://live.staticflickr.com/65535/54781056892_fc4846c165_b.jpg",
+          "description": "PARIS, FRANCE - coconut of XLG Esports at VALORANT Champions Paris Tech Check at Les Arènes de Grand Paris Sud on September 11, 2025 in Paris, France (Photo by Colin Young Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54782137669.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54782137669/",
+          "remote": "https://live.staticflickr.com/65535/54782137669_5cb4a343b0_b.jpg",
+          "description": "PARIS, FRANCE - coconut of XLG Esports at VALORANT Champions Paris Tech Check at Les Arènes de Grand Paris Sud on September 11, 2025 in Paris, France (Photo by Colin Young Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54782213478.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54782213478/",
+          "remote": "https://live.staticflickr.com/65535/54782213478_610a06b2a3_b.jpg",
+          "description": "PARIS, FRANCE - coconut of XLG Esports arrives to compete  at VALORANT Champions Paris Group Stage Day 1 at Les Arènes de Grand Paris Sud on September 12, 2025 in Paris, France (Photo by Colin Young Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54782237185.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54782237185/",
+          "remote": "https://live.staticflickr.com/65535/54782237185_bb7873b125_b.jpg",
+          "description": "PARIS, FRANCE - NoMan (L) and coconut of XLG Esports at VALORANT Champions Paris Tech Check at Les Arènes de Grand Paris Sud on September 11, 2025 in Paris, France (Photo by Colin Young Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54782276634.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54782276634/",
+          "remote": "https://live.staticflickr.com/65535/54782276634_a2dcf257d0_b.jpg",
+          "description": "PARIS, FRANCE - coconut of XLG Esports is seen back stage at VALORANT Champions Paris Group Stage Day 1 at Les Arènes de Grand Paris Sud on September 12, 2025 in Paris, France (Photo by Colin Young Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54782375230.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54782375230/",
+          "remote": "https://live.staticflickr.com/65535/54782375230_3cfbf68de8_b.jpg",
+          "description": "PARIS, FRANCE - coconut of XLG Esports onstage at VALORANT Champions Paris Group Stage Day 1 at Les Arènes de Grand Paris Sud on September 12, 2025 in Paris, France (Photo by Colin Young Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54798492993.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54798492993/",
+          "remote": "https://live.staticflickr.com/65535/54798492993_60eb696ea3_b.jpg",
+          "description": "PARIS, FRANCE - coconut of XLG is seen on stage during VALORANT Champions Paris Group Stage Day 7 at Les Arènes de Grand Paris Sud on September 19, 2025 in Paris, France (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54798503576.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54798503576/",
+          "remote": "https://live.staticflickr.com/65535/54798503576_87cda38bf0_b.jpg",
+          "description": "PARIS, FRANCE - coconut of XLG is seen on stage during VALORANT Champions Paris Group Stage Day 7 at Les Arènes de Grand Paris Sud on September 19, 2025 in Paris, France (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         784,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "AAAAY",
@@ -22391,12 +23727,76 @@
       "kills": 8240,
       "deaths": 7786,
       "portrait": "assets/players/11218.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/55552770332.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55552770332/",
+          "remote": "https://live.staticflickr.com/65535/55552770332_cbe81f4277_b.jpg",
+          "description": "BerLIN, left, and Yuicaw of JD Gaming during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Lee Aiksoon/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55553795581.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55553795581/",
+          "remote": "https://live.staticflickr.com/65535/55553795581_bf03ecbbd2_b.jpg",
+          "description": "crownfisher, from left, BerLIN and Yuicaw of JD Gaming during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Lee Aiksoon/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55552937402.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55552937402/",
+          "remote": "https://live.staticflickr.com/65535/55552937402_e9e4fc8cf8_b.jpg",
+          "description": "Yuicaw of JD Gaming is seen onstage during VALORANT Champions Shanghai Group Stage Day 4 at Jing’an Sports Center on September 27, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55553026777.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55553026777/",
+          "remote": "https://live.staticflickr.com/65535/55553026777_abe5273853_b.jpg",
+          "description": "Yuicaw of JD Gaming reacts onstage during VALORANT Champions Shanghai Group Stage Day 4 at Jing’an Sports Center on September 27, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54588837206.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54588837206/",
+          "remote": "https://live.staticflickr.com/65535/54588837206_940d517372_b.jpg",
+          "description": "TORONTO, CANADA - JUNE 14: Yuicaw of Wolves Esports competes at VALORANT Masters Toronto Playoffs Stage on June 14, 2025 at the Enercare Centre in Toronto Canada. (Photo by Stefan Wisnoski/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54588885798.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54588885798/",
+          "remote": "https://live.staticflickr.com/65535/54588885798_9c965db187_b.jpg",
+          "description": "TORONTO, CANADA - JUNE 14: Yuicaw of Wolves Esports competes at VALORANT Masters Toronto Playoffs Stage on June 14, 2025 at the Enercare Centre in Toronto Canada. (Photo by Stefan Wisnoski/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54589145153.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54589145153/",
+          "remote": "https://live.staticflickr.com/65535/54589145153_6e16c1af7a_b.jpg",
+          "description": "TORONTO, CANADA - JUNE 14: SiuFatBB (L) and Yuicaw of Wolves Esports after victory at VALORANT Masters Toronto Playoffs Stage on June 14, 2025 at the Enercare Centre in Toronto Canada. (Photo by Stefan Wisnoski/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54593049807.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54593049807/",
+          "remote": "https://live.staticflickr.com/65535/54593049807_5806e348ba_b.jpg",
+          "description": "TORONTO, CANADA - JUNE 16: Yuicaw of Wolves Esports reacts onstage at VALORANT Masters Toronto Playoffs Stage on June 16, 2025 at the Enercare Centre in Toronto Canada. (Photo by Stefan Wisnoski/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         784,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "jkuro",
@@ -23368,12 +24768,76 @@
       "kills": 4876,
       "deaths": 4855,
       "portrait": "assets/players/3519.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/55553896943.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55553896943/",
+          "remote": "https://live.staticflickr.com/65535/55553896943_d79edd9fe2_b.jpg",
+          "description": "jkuro of JD Gaming during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Lee Aiksoon/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55553903358.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55553903358/",
+          "remote": "https://live.staticflickr.com/65535/55553903358_14755e4bfc_b.jpg",
+          "description": "jkuro of JD Gaming during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55564812973.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55564812973/",
+          "remote": "https://live.staticflickr.com/65535/55564812973_46eafc5743_b.jpg",
+          "description": "Yuicaw (L) and jkuro of JD Gaming react onstage during VALORANT Champions Shanghai Group Stage Day 8 at Jing’an Sports Center on October 02, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55553961451.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55553961451/",
+          "remote": "https://live.staticflickr.com/65535/55553961451_ec7615c36f_b.jpg",
+          "description": "jkuro of JD Gaming is seen onstage during VALORANT Champions Shanghai Group Stage Day 4 at Jing’an Sports Center on September 27, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55553959319.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55553959319/",
+          "remote": "https://live.staticflickr.com/65535/55553959319_c08f4ccd8b_b.jpg",
+          "description": "jkuro of JD Gaming during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Lee Aiksoon/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55554099808.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55554099808/",
+          "remote": "https://live.staticflickr.com/65535/55554099808_1574e50b0a_b.jpg",
+          "description": "jkuro of JD Gaming is seen onstage during VALORANT Champions Shanghai Group Stage Day 4 at Jing’an Sports Center on September 27, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55554106771.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55554106771/",
+          "remote": "https://live.staticflickr.com/65535/55554106771_e402589c35_b.jpg",
+          "description": "KROSTALY of FUT Esports and jkuro of JD Gaming are seen onstage during VALORANT Champions Shanghai Group Stage Day 4 at Jing’an Sports Center on September 27, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55554207063.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55554207063/",
+          "remote": "https://live.staticflickr.com/65535/55554207063_87a3783ea4_b.jpg",
+          "description": "xeus of FUT Esports and jkuro of JD Gaming are seen onstage during VALORANT Champions Shanghai Group Stage Day 4 at Jing’an Sports Center on September 27, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         784,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "zhe",
@@ -23949,12 +25413,60 @@
       "kills": 1976,
       "deaths": 1752,
       "portrait": "assets/players/49476.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/55553959674.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55553959674/",
+          "remote": "https://live.staticflickr.com/65535/55553959674_bff7eb2a1a_b.jpg",
+          "description": "Yuicaw, left, and zhe of JD Gaming during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Lee Aiksoon/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55552770657.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55552770657/",
+          "remote": "https://live.staticflickr.com/65535/55552770657_0b1d1e761f_b.jpg",
+          "description": "zhe of JD Gaming during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Lee Aiksoon/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55554192193.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55554192193/",
+          "remote": "https://live.staticflickr.com/65535/55554192193_d64f481e87_b.jpg",
+          "description": "Yuicaw and zhe of JD Gaming react onstage during VALORANT Champions Shanghai Group Stage Day 4 at Jing’an Sports Center on September 27, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55553026992.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55553026992/",
+          "remote": "https://live.staticflickr.com/65535/55553026992_b0627323fc_b.jpg",
+          "description": "zhe of JD Gaming reacts onstage during VALORANT Champions Shanghai Group Stage Day 4 at Jing’an Sports Center on September 27, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55553802726.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55553802726/",
+          "remote": "https://live.staticflickr.com/65535/55553802726_1b52a0be97_b.jpg",
+          "description": "zhe of JD Gaming during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55563679007.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55563679007/",
+          "remote": "https://live.staticflickr.com/65535/55563679007_93352b6e47_b.jpg",
+          "description": "zhe of JD Gaming reacts onstage during VALORANT Champions Shanghai Group Stage Day 8 at Jing’an Sports Center on October 02, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         784,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "crownfisher",
@@ -24365,12 +25877,76 @@
       "kills": 620,
       "deaths": 669,
       "portrait": "assets/players/64969.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/55552769922.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55552769922/",
+          "remote": "https://live.staticflickr.com/65535/55552769922_73276edfae_b.jpg",
+          "description": "zhe, left, and crownfisher of JD Gaming during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Lee Aiksoon/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55553795246.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55553795246/",
+          "remote": "https://live.staticflickr.com/65535/55553795246_05790fcef6_b.jpg",
+          "description": "crownfisher of JD Gaming during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Lee Aiksoon/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55553027137.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55553027137/",
+          "remote": "https://live.staticflickr.com/65535/55553027137_240d260ce2_b.jpg",
+          "description": "crownfisher of JD Gaming reacts onstage during VALORANT Champions Shanghai Group Stage Day 4 at Jing’an Sports Center on September 27, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55554060948.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55554060948/",
+          "remote": "https://live.staticflickr.com/65535/55554060948_49968bcd54_b.jpg",
+          "description": "crownfisher of JD Gaming is seen onstage during VALORANT Champions Shanghai Group Stage Day 4 at Jing’an Sports Center on September 27, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55553959824.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55553959824/",
+          "remote": "https://live.staticflickr.com/65535/55553959824_a56a148d6e_b.jpg",
+          "description": "crownfisher of JD Gaming during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Lee Aiksoon/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55553966609.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55553966609/",
+          "remote": "https://live.staticflickr.com/65535/55553966609_19bcab876a_b.jpg",
+          "description": "crownfisher of JD Gaming during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55554214484.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55554214484/",
+          "remote": "https://live.staticflickr.com/65535/55554214484_7228ff2204_b.jpg",
+          "description": "crownfisher of JD Gaming reacts onstage during VALORANT Champions Shanghai Group Stage Day 4 at Jing’an Sports Center on September 27, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55563582632.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55563582632/",
+          "remote": "https://live.staticflickr.com/65535/55563582632_6346240469_b.jpg",
+          "description": "crownfisher of JD Gaming is seen onstage during VALORANT Champions Shanghai Group Stage Day 8 at Jing’an Sports Center on October 02, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         631,
         500
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "BerLIN",
@@ -25144,12 +26720,76 @@
       "kills": 7517,
       "deaths": 7824,
       "portrait": "assets/players/7857.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/55553896168.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55553896168/",
+          "remote": "https://live.staticflickr.com/65535/55553896168_2294e892d6_b.jpg",
+          "description": "BerLIN of JD Gaming during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Lee Aiksoon/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55553959479.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55553959479/",
+          "remote": "https://live.staticflickr.com/65535/55553959479_50c4297222_b.jpg",
+          "description": "BerLIN of JD Gaming during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Lee Aiksoon/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55553890628.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55553890628/",
+          "remote": "https://live.staticflickr.com/65535/55553890628_8d2ffeecc3_b.jpg",
+          "description": "Esports caster Mikafabs interviews BerLIN of JD Gaming along side translator Lisa during VALORANT Champions Shanghai Group Stage Day 4 at Jing’an Sports Center on September 27, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55554050586.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55554050586/",
+          "remote": "https://live.staticflickr.com/65535/55554050586_e51e87b65c_b.jpg",
+          "description": "BerLIN of JD Gaming reacts onstage during VALORANT Champions Shanghai Group Stage Day 4 at Jing’an Sports Center on September 27, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55553966604.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55553966604/",
+          "remote": "https://live.staticflickr.com/65535/55553966604_a1796bb152_b.jpg",
+          "description": "BerLIN of JD Gaming during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55554060868.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55554060868/",
+          "remote": "https://live.staticflickr.com/65535/55554060868_f53ac4b36a_b.jpg",
+          "description": "BerLIN of JD Gaming is seen onstage during VALORANT Champions Shanghai Group Stage Day 4 at Jing’an Sports Center on September 27, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55554176695.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55554176695/",
+          "remote": "https://live.staticflickr.com/65535/55554176695_d02130b4f3_b.jpg",
+          "description": "BerLIN of JD Gaming arrives to compete during VALORANT Champions Shanghai Group Stage Day 4 at Jing’an Sports Center on September 27, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55554214219.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55554214219/",
+          "remote": "https://live.staticflickr.com/65535/55554214219_8f3be95860_b.jpg",
+          "description": "BerLIN of JD Gaming reacts onstage during VALORANT Champions Shanghai Group Stage Day 4 at Jing’an Sports Center on September 27, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         631,
         500
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "GREEN",
@@ -27075,12 +28715,76 @@
       "kills": 3071,
       "deaths": 3039,
       "portrait": "assets/players/39697.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/55121065251.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55121065251/",
+          "remote": "https://live.staticflickr.com/65535/55121065251_c12715a772_b.jpg",
+          "description": "CB of EDG is seen on stage during VALORANT Masters Santiago Swiss Stage Day 1 held at Espacio Riesco on February 28, 2026 in Santiago, Chile (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55121177573.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55121177573/",
+          "remote": "https://live.staticflickr.com/65535/55121177573_069deb4e6c_b.jpg",
+          "description": "cb of EDG is seen on stage during VALORANT Masters Santiago Swiss Stage Day 1 held at Espacio Riesco on February 28, 2026 in Santiago, Chile (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55119997202.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55119997202/",
+          "remote": "https://live.staticflickr.com/65535/55119997202_ddf04e6a98_b.jpg",
+          "description": "cb of EDward Gaming at VALORANT Masters Santiago on set during Features and B-roll in Santiago, Chile (Photo by Colin Young-Wolff/Riot Games)",
+          "year": null,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55120873576.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55120873576/",
+          "remote": "https://live.staticflickr.com/65535/55120873576_277577fee1_b.jpg",
+          "description": "cb of EDward Gaming at VALORANT Masters Santiago on set during Features and B-roll in Santiago, Chile (Photo by Colin Young-Wolff/Riot Games)",
+          "year": null,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55121212088.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55121212088/",
+          "remote": "https://live.staticflickr.com/65535/55121212088_0c3ce80219_b.jpg",
+          "description": "Smoggy (L), nobody, and CB of EDG are seen walking on stage during VALORANT Masters Santiago Swiss Stage Day 1 held at Espacio Riesco on February 28, 2026 in Santiago, Chile (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55121263985.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55121263985/",
+          "remote": "https://live.staticflickr.com/65535/55121263985_f5d2347565_b.jpg",
+          "description": "Smoggy and cb of EDward Gaming at VALORANT Masters Santiago on set during Features and B-roll in Santiago, Chile (Photo by Colin Young-Wolff/Riot Games)",
+          "year": null,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55121265963.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55121265963/",
+          "remote": "https://live.staticflickr.com/65535/55121265963_1bed99c5d4_b.jpg",
+          "description": "CB of EDG is seen on stage during VALORANT Masters Santiago Swiss Stage Day 1 held at Espacio Riesco on February 28, 2026 in Santiago, Chile (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55121308529.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55121308529/",
+          "remote": "https://live.staticflickr.com/65535/55121308529_bdde052821_b.jpg",
+          "description": "CB of EDG is seen on stage during VALORANT Masters Santiago Swiss Stage Day 1 held at Espacio Riesco on February 28, 2026 in Santiago, Chile (Photo by Liu YiCun/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         784,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "GuanG",
@@ -31815,12 +33519,76 @@
       "kills": 7665,
       "deaths": 8040,
       "portrait": "assets/players/4720.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/53759392081.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/53759392081/",
+          "remote": "https://live.staticflickr.com/65535/53759392081_e9d403862a_b.jpg",
+          "description": "SHANGHAI, CHINA - MAY 21: Guo \"Haodong\" Haodong of EDward Gaming at the VALORANT Masters Shanghai Features Day on May 21, 2024 in Shanghai, China. (Photo by Lee Aiksoon/Riot Games)",
+          "year": 2024,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/53759598028.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/53759598028/",
+          "remote": "https://live.staticflickr.com/65535/53759598028_188a8c0cd6_b.jpg",
+          "description": "SHANGHAI, CHINA - MAY 21: Guo \"Haodong\" Haodong of EDward Gaming at the VALORANT Masters Shanghai Features Day on May 21, 2024 in Shanghai, China. (Photo by Lee Aiksoon/Riot Games)",
+          "year": 2024,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/53591892111.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/53591892111/",
+          "remote": "https://live.staticflickr.com/65535/53591892111_c100e5556b_b.jpg",
+          "description": "MADRID, SPAIN - MARCH 16: Guo \"Haodong\" Haodong of EDward Gaming competes at VALORANT Masters Madrid Swiss Stage Day 3 at the Madrid Arena on March 16, 2024 in Madrid, Spain. (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2024,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/53591892946.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/53591892946/",
+          "remote": "https://live.staticflickr.com/65535/53591892946_4328687f97_b.jpg",
+          "description": "MADRID, SPAIN - MARCH 16: Guo \"Haodong\" Haodong of EDward Gaming competes at VALORANT Masters Madrid Swiss Stage Day 3 at the Madrid Arena on March 16, 2024 in Madrid, Spain. (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2024,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/53592098468.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/53592098468/",
+          "remote": "https://live.staticflickr.com/65535/53592098468_6188c74d76_b.jpg",
+          "description": "MADRID, SPAIN - MARCH 16: Guo \"Haodong\" Haodong of EDward Gaming competes at VALORANT Masters Madrid Swiss Stage Day 3 at the Madrid Arena on March 16, 2024 in Madrid, Spain. (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2024,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/53596239109.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/53596239109/",
+          "remote": "https://live.staticflickr.com/65535/53596239109_6eb1b48b9d_b.jpg",
+          "description": "MADRID, SPAIN - MARCH 18: Guo \"Haodong\" Haodong of EDward Gaming is seen onstage at VALORANT Masters Madrid Swiss Stage Day 5 at the Madrid Arena on March 18, 2024 in Madrid, Spain. (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2024,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/53759529843.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/53759529843/",
+          "remote": "https://live.staticflickr.com/65535/53759529843_d5e75f7111_b.jpg",
+          "description": "SHANGHAI, CHINA - MAY 31: Guo \"Haodong\" Haodong of EDward Gaming arrives to compete at the VALORANT Masters Shanghai Playoffs Stage Day 2 at the VCT CN Studio on May 31, 2024 in Shanghai, China. (Photo by Liu YiCun/Riot Games)",
+          "year": 2024,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/53759809380.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/53759809380/",
+          "remote": "https://live.staticflickr.com/65535/53759809380_9cc0b838b5_b.jpg",
+          "description": "SHANGHAI, CHINA - MAY 21: Guo \"Haodong\" Haodong of EDward Gaming at the VALORANT Masters Shanghai Features Day on May 21, 2024 in Shanghai, China. (Photo by Lee Aiksoon/Riot Games)",
+          "year": 2024,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         785,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "Coco",
@@ -35067,12 +36835,68 @@
       "kills": 6600,
       "deaths": 6630,
       "portrait": "assets/players/3045.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/54340355727.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54340355727/",
+          "remote": "https://live.staticflickr.com/65535/54340355727_13d53e0cd0_b.jpg",
+          "description": "Bangkok, Thailand - February 18 : LuoK1ng of Trace Esports at VALORANT Masters Bangkok Features Day on February 18, 2025 in Bangkok, Thailand. (Photo by Yicun Liu/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54341672665.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54341672665/",
+          "remote": "https://live.staticflickr.com/65535/54341672665_bf80d7ff30_b.jpg",
+          "description": "Bangkok, Thailand - February 18 : LuoK1ng of Trace Esports at VALORANT Masters Bangkok Features Day on February 18, 2025 in Bangkok, Thailand. (Photo by Yicun Liu/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54341593954.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54341593954/",
+          "remote": "https://live.staticflickr.com/65535/54341593954_75c7e029f4_b.jpg",
+          "description": "Bangkok, Thailand - February 21 : LuoK1ng of Trace Esports is seen  back stage at VALORANT Masters Bangkok Swiss Stage on February 21, 2025 at the UOB Live in Bangkok, Thailand. (Photo by Liu YiCun/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54341785800.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54341785800/",
+          "remote": "https://live.staticflickr.com/65535/54341785800_bb970d1f9f_b.jpg",
+          "description": "Bangkok, Thailand - February 21 : LuoK1ng of Trace Esports is seen onstage at VALORANT Masters Bangkok Swiss Stage on February 21, 2025 at the UOB Live in Bangkok, Thailand. (Photo by Liu YiCun/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54344192062.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54344192062/",
+          "remote": "https://live.staticflickr.com/65535/54344192062_99e0cda637_b.jpg",
+          "description": "Bangkok, Thailand - February 23 : FengF (L) and LuoK1ng of Trace Esports arrive to compete at VALORANT Masters Bangkok Swiss Stage on February 23, 2025 at the UOB Live in Bangkok, Thailand. (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54345108976.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54345108976/",
+          "remote": "https://live.staticflickr.com/65535/54345108976_b633c04950_b.jpg",
+          "description": "Bangkok, Thailand - February 23 : LuoK1ng of Trace Esports competes onstage at VALORANT Masters Bangkok Swiss Stage on February 23, 2025 at the UOB Live in Bangkok, Thailand. (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54345297129.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54345297129/",
+          "remote": "https://live.staticflickr.com/65535/54345297129_40f774c93d_b.jpg",
+          "description": "Bangkok, Thailand - February 23 : LuoK1ng of Trace Esports arrives to compete at VALORANT Masters Bangkok Swiss Stage on February 23, 2025 at the UOB Live in Bangkok, Thailand. (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         784,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "Kai",
@@ -35708,12 +37532,76 @@
       "kills": 5125,
       "deaths": 4719,
       "portrait": "assets/players/37494.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/54341253041.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54341253041/",
+          "remote": "https://live.staticflickr.com/65535/54341253041_00a9dd205d_b.jpg",
+          "description": "Bangkok, Thailand - February 18 : LuoK1ng (L) and Kai of Trace Esports at VALORANT Masters Bangkok Features Day on February 18, 2025 in Bangkok, Thailand. (Photo by Yicun Liu/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54341469234.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54341469234/",
+          "remote": "https://live.staticflickr.com/65535/54341469234_77c3988bfd_b.jpg",
+          "description": "Bangkok, Thailand - February 18 : Kai of Trace Esports at VALORANT Masters Bangkok Features Day on February 18, 2025 in Bangkok, Thailand. (Photo by Yicun Liu/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54340362272.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54340362272/",
+          "remote": "https://live.staticflickr.com/65535/54340362272_91fec5fd6b_b.jpg",
+          "description": "Bangkok, Thailand - February 19 : Kai of Trace Esports at VALORANT Masters Bangkok Rehearsal Day on February 19, 2025 at the UOB Live in Bangkok, Thailand. (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54340452862.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54340452862/",
+          "remote": "https://live.staticflickr.com/65535/54340452862_0593f09a3c_b.jpg",
+          "description": "Bangkok, Thailand - February 21 : leaf (L) of G2 Esports and Kai of Trace Esports walk onstage  at VALORANT Masters Bangkok Swiss Stage on February 21, 2025 at the UOB Live in Bangkok, Thailand. (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54341672635.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54341672635/",
+          "remote": "https://live.staticflickr.com/65535/54341672635_b9cedb27a3_b.jpg",
+          "description": "Bangkok, Thailand - February 18 : Kai of Trace Esports at VALORANT Masters Bangkok Features Day on February 18, 2025 in Bangkok, Thailand. (Photo by Yicun Liu/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54344191982.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54344191982/",
+          "remote": "https://live.staticflickr.com/65535/54344191982_5f4e3e18f2_b.jpg",
+          "description": "Bangkok, Thailand - February 23 : (L-R) Translator, esports host Mikafabs and Kai of Trace Esports speak at VALORANT Masters Bangkok Swiss Stage on February 23, 2025 at the UOB Live in Bangkok, Thailand. (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54345316653.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54345316653/",
+          "remote": "https://live.staticflickr.com/65535/54345316653_d131ca654d_b.jpg",
+          "description": "Bangkok, Thailand - February 23 : Coach Yiyee (L) and Kai of Trace Esports arrive to compete at VALORANT Masters Bangkok Swiss Stage on February 23, 2025 at the UOB Live in Bangkok, Thailand. (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54345504165.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54345504165/",
+          "remote": "https://live.staticflickr.com/65535/54345504165_4a93d3e8ab_b.jpg",
+          "description": "Bangkok, Thailand - February 23 : Kai of Trace Esports arrives to compete at VALORANT Masters Bangkok Swiss Stage on February 23, 2025 at the UOB Live in Bangkok, Thailand. (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         784,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "FengF",
@@ -36580,12 +38468,44 @@
       "kills": 7331,
       "deaths": 6992,
       "portrait": "assets/players/4770.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/54341593979.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54341593979/",
+          "remote": "https://live.staticflickr.com/65535/54341593979_21c1e25218_b.jpg",
+          "description": "Bangkok, Thailand - February 21 : LuoK1ng (L) and FengF of Trace Esports are seen onstage at VALORANT Masters Bangkok Swiss Stage on February 21, 2025 at the UOB Live in Bangkok, Thailand. (Photo by Liu YiCun/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54344191987.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54344191987/",
+          "remote": "https://live.staticflickr.com/65535/54344191987_880a88e03f_b.jpg",
+          "description": "Bangkok, Thailand - February 23 : FengF of Trace Esports arrives to compete at VALORANT Masters Bangkok Swiss Stage on February 23, 2025 at the UOB Live in Bangkok, Thailand. (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54345108826.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54345108826/",
+          "remote": "https://live.staticflickr.com/65535/54345108826_59116e7ba4_b.jpg",
+          "description": "Bangkok, Thailand - February 23 : FengF of Trace Esports competes onstage at VALORANT Masters Bangkok Swiss Stage on February 23, 2025 at the UOB Live in Bangkok, Thailand. (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54345536150.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54345536150/",
+          "remote": "https://live.staticflickr.com/65535/54345536150_29702301d5_b.jpg",
+          "description": "Bangkok, Thailand - February 23 : iZu (L) of T1 and FengF of Trace Esports walk onstage at VALORANT Masters Bangkok Swiss Stage on February 23, 2025 at the UOB Live in Bangkok, Thailand. (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         631,
         500
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "Abo",
@@ -38632,12 +40552,76 @@
       "kills": 4043,
       "deaths": 3301,
       "portrait": "assets/players/36685.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/55548154133.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55548154133/",
+          "remote": "https://live.staticflickr.com/65535/55548154133_9bcf965862_b.jpg",
+          "description": "Splash of TYLOO during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55548428815.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55548428815/",
+          "remote": "https://live.staticflickr.com/65535/55548428815_0c641de9c7_b.jpg",
+          "description": "slowly, left, and Splash of TYLOO during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55548368784.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55548368784/",
+          "remote": "https://live.staticflickr.com/65535/55548368784_4f94dd40c6_b.jpg",
+          "description": "Splash of TYLOO is seen on stage during VALORANT Champions Shanghai Group Stage Day 1 at Jing’an Sports Center on September 24, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55548423380.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55548423380/",
+          "remote": "https://live.staticflickr.com/65535/55548423380_37c12c3505_b.jpg",
+          "description": "Splash of TYLOO arrives to compete during VALORANT Champions Shanghai Group Stage Day 1 at Jing’an Sports Center on September 24, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55548428820.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55548428820/",
+          "remote": "https://live.staticflickr.com/65535/55548428820_885bfbd575_b.jpg",
+          "description": "Splash of TYLOO during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55548428915.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55548428915/",
+          "remote": "https://live.staticflickr.com/65535/55548428915_d2e12c4eb7_b.jpg",
+          "description": "Scales, left, and Splash of TYLOO during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55548501764.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55548501764/",
+          "remote": "https://live.staticflickr.com/65535/55548501764_a7ebcac049_b.jpg",
+          "description": "hypnotizing and Splash of TYLOO speak during press conference during VALORANT Champions Shanghai Group Stage Day 1 at Jing’an Sports Center on September 24, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55562513714.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55562513714/",
+          "remote": "https://live.staticflickr.com/65535/55562513714_9ef0b32d4c_b.jpg",
+          "description": "Splash of TYLOO is seen onstage during VALORANT Champions Shanghai Group Stage Day 7 at Jing’an Sports Center on October 01, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         784,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "Scales",
@@ -39345,12 +41329,68 @@
       "kills": 2003,
       "deaths": 2031,
       "portrait": "assets/players/39485.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/55547019817.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55547019817/",
+          "remote": "https://live.staticflickr.com/65535/55547019817_aea36d68b7_b.jpg",
+          "description": "Scales of TYLOO during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55548153848.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55548153848/",
+          "remote": "https://live.staticflickr.com/65535/55548153848_23079dd997_b.jpg",
+          "description": "Scales of TYLOO during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55548203541.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55548203541/",
+          "remote": "https://live.staticflickr.com/65535/55548203541_0d87bb7c94_b.jpg",
+          "description": "Scales of TYLOO is seen on stage during VALORANT Champions Shanghai Group Stage Day 1 at Jing’an Sports Center on September 24, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55561312982.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55561312982/",
+          "remote": "https://live.staticflickr.com/65535/55561312982_94469c3c16_b.jpg",
+          "description": "Scales of TYLOO is seen onstage during VALORANT Champions Shanghai Group Stage Day 7 at Jing’an Sports Center on October 01, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55562350321.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55562350321/",
+          "remote": "https://live.staticflickr.com/65535/55562350321_27df51777b_b.jpg",
+          "description": "Scales of TYLOO is seen onstage during VALORANT Champions Shanghai Group Stage Day 7 at Jing’an Sports Center on October 01, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55562775639.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55562775639/",
+          "remote": "https://live.staticflickr.com/65535/55562775639_801938a2e9_b.jpg",
+          "description": "nAts (L) of Team Liquid and Scales of TYLOO react onstage during VALORANT Champions Shanghai Group Stage Day 7 at Jing’an Sports Center on October 01, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55562775649.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55562775649/",
+          "remote": "https://live.staticflickr.com/65535/55562775649_211c62cc84_b.jpg",
+          "description": "Kicks (L) of Team Liquid and Scales of TYLOO react onstage during VALORANT Champions Shanghai Group Stage Day 7 at Jing’an Sports Center on October 01, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         784,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "slowly",
@@ -40157,12 +42197,76 @@
       "kills": 2856,
       "deaths": 2455,
       "portrait": "assets/players/41739.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/55548049541.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55548049541/",
+          "remote": "https://live.staticflickr.com/65535/55548049541_be11e37248_b.jpg",
+          "description": "slowly of TYLOO during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55562693474.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55562693474/",
+          "remote": "https://live.staticflickr.com/65535/55562693474_b2a38e2815_b.jpg",
+          "description": "Splash (L) and slowly of TYLOO react onstage during VALORANT Champions Shanghai Group Stage Day 7 at Jing’an Sports Center on October 01, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55562935545.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55562935545/",
+          "remote": "https://live.staticflickr.com/65535/55562935545_78935fc21b_b.jpg",
+          "description": "Splash (L) and slowly of TYLOO react onstage during VALORANT Champions Shanghai Group Stage Day 7 at Jing’an Sports Center on October 01, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55547014582.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55547014582/",
+          "remote": "https://live.staticflickr.com/65535/55547014582_f1fe390f8c_b.jpg",
+          "description": "slowly of TYLOO arrives to compete during VALORANT Champions Shanghai Group Stage Day 1 at Jing’an Sports Center on September 24, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55548583890.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55548583890/",
+          "remote": "https://live.staticflickr.com/65535/55548583890_13e8a05878_b.jpg",
+          "description": "slowly of TYLOO is seen on stage during VALORANT Champions Shanghai Group Stage Day 1 at Jing’an Sports Center on September 24, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55562384968.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55562384968/",
+          "remote": "https://live.staticflickr.com/65535/55562384968_774f6b15b1_b.jpg",
+          "description": "Esports host Mikafabs (L) interviews slowly of TYLOO during VALORANT Champions Shanghai Group Stage Day 7 at Jing’an Sports Center on October 01, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55562436123.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55562436123/",
+          "remote": "https://live.staticflickr.com/65535/55562436123_e2a4257f55_b.jpg",
+          "description": "slowly of TYLOO is seen onstage during VALORANT Champions Shanghai Group Stage Day 7 at Jing’an Sports Center on October 01, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55562436471.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55562436471/",
+          "remote": "https://live.staticflickr.com/65535/55562436471_feea03a25e_b.jpg",
+          "description": "slowly of TYLOO reacts onstage during VALORANT Champions Shanghai Group Stage Day 7 at Jing’an Sports Center on October 01, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         784,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "Erv",
@@ -40738,12 +42842,76 @@
       "kills": 1819,
       "deaths": 1729,
       "portrait": "assets/players/55085.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/55548214299.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55548214299/",
+          "remote": "https://live.staticflickr.com/65535/55548214299_4ac6816877_b.jpg",
+          "description": "Splash, left, and Erv of TYLOO during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55548154093.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55548154093/",
+          "remote": "https://live.staticflickr.com/65535/55548154093_e098022da7_b.jpg",
+          "description": "Erv of TYLOO during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55548336976.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55548336976/",
+          "remote": "https://live.staticflickr.com/65535/55548336976_07a49753e4_b.jpg",
+          "description": "Splash, SiuFatBB and Erv of TYLOO speak during press conference during VALORANT Champions Shanghai Group Stage Day 1 at Jing’an Sports Center on September 24, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55548420129.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55548420129/",
+          "remote": "https://live.staticflickr.com/65535/55548420129_c2e9a6b83f_b.jpg",
+          "description": "Erv of TYLOO is seen on stage during VALORANT Champions Shanghai Group Stage Day 1 at Jing’an Sports Center on September 24, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55548428940.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55548428940/",
+          "remote": "https://live.staticflickr.com/65535/55548428940_cdbccbaecf_b.jpg",
+          "description": "Erv of TYLOO during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55548635025.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55548635025/",
+          "remote": "https://live.staticflickr.com/65535/55548635025_d11fc102d1_b.jpg",
+          "description": "SiuFatBB (L) and Erv of TYLOO are seen on stage during VALORANT Champions Shanghai Group Stage Day 1 at Jing’an Sports Center on September 24, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55548715975.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55548715975/",
+          "remote": "https://live.staticflickr.com/65535/55548715975_973beea74e_b.jpg",
+          "description": "SiuFatBB (L) and Erv of TYLOO speak during press conference during VALORANT Champions Shanghai Group Stage Day 1 at Jing’an Sports Center on September 24, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55561261802.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55561261802/",
+          "remote": "https://live.staticflickr.com/65535/55561261802_495dac43dc_b.jpg",
+          "description": "GSR (L) of Team Liquid and Erv of TYLOO arrive to compete during VALORANT Champions Shanghai Group Stage Day 7 at Jing’an Sports Center on October 01, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         784,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "xihe",
@@ -42064,12 +44232,76 @@
       "kills": 6109,
       "deaths": 5833,
       "portrait": "assets/players/7849.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/55548154158.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55548154158/",
+          "remote": "https://live.staticflickr.com/65535/55548154158_1590a329de_b.jpg",
+          "description": "slowly, left, and SiuFatBB of TYLOO during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55548715990.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55548715990/",
+          "remote": "https://live.staticflickr.com/65535/55548715990_2ce7b94eac_b.jpg",
+          "description": "SiuFatBB of TYLOO speaks during press conference during VALORANT Champions Shanghai Group Stage Day 1 at Jing’an Sports Center on September 24, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55561485977.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55561485977/",
+          "remote": "https://live.staticflickr.com/65535/55561485977_7261b743c9_b.jpg",
+          "description": "Erv (L) and SiuFatBB of TYLOO react onstage during VALORANT Champions Shanghai Group Stage Day 7 at Jing’an Sports Center on October 01, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55562840635.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55562840635/",
+          "remote": "https://live.staticflickr.com/65535/55562840635_9944d910a5_b.jpg",
+          "description": "Erv (L) and SiuFatBB of TYLOO react onstage during VALORANT Champions Shanghai Group Stage Day 7 at Jing’an Sports Center on October 01, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55548148718.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55548148718/",
+          "remote": "https://live.staticflickr.com/65535/55548148718_25e968e3de_b.jpg",
+          "description": "Esports caster Mikafabs (L) interviews SiuFatBB of TYLOO during VALORANT Champions Shanghai Group Stage Day 1 at Jing’an Sports Center on September 24, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55548368919.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55548368919/",
+          "remote": "https://live.staticflickr.com/65535/55548368919_ec219d79cc_b.jpg",
+          "description": "SiuFatBB of TYLOO walks on stage during VALORANT Champions Shanghai Group Stage Day 1 at Jing’an Sports Center on September 24, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55548393054.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55548393054/",
+          "remote": "https://live.staticflickr.com/65535/55548393054_d31ce89c77_b.jpg",
+          "description": "SiuFatBB of TYLOO reacts on stage during VALORANT Champions Shanghai Group Stage Day 1 at Jing’an Sports Center on September 24, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55548419694.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55548419694/",
+          "remote": "https://live.staticflickr.com/65535/55548419694_a792d8ae08_b.jpg",
+          "description": "SiuFatBB of TYLOO is seen on stage during VALORANT Champions Shanghai Group Stage Day 1 at Jing’an Sports Center on September 24, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         631,
         500
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "Spring",
@@ -42891,7 +45123,16 @@
       "kills": 8212,
       "deaths": 7180,
       "portrait": "assets/players/14125.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/54602951080.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54602951080/",
+          "remote": "https://live.staticflickr.com/65535/54602951080_cf893c28e1_b.jpg",
+          "description": "TORONTO, CANADA - JUNE 20: Yuicaw (L) and Spring of Wolves Esports hug onstage at VALORANT Masters Toronto Playoffs Stage on JUNE 20, 2025 at the Enercare Centre in Toronto Canada. (Photo by Stefan Wisnoski/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         785,
         621
@@ -45711,12 +47952,76 @@
       "kills": 3614,
       "deaths": 3533,
       "portrait": "assets/players/11527.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/55548871132.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55548871132/",
+          "remote": "https://live.staticflickr.com/65535/55548871132_d2314c5b67_b.jpg",
+          "description": "NoMan of XLG Esports during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55548871212.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55548871212/",
+          "remote": "https://live.staticflickr.com/65535/55548871212_9fab28ea63_b.jpg",
+          "description": "NoMan of XLG Esports during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55339014581.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55339014581/",
+          "remote": "https://live.staticflickr.com/65535/55339014581_29cf8404d3_b.jpg",
+          "description": "NoMan of XLG Esports speaks during post conference after being eliminated at the VALORANT Masters London held at the Copper Box Arena on June 16, 2026 in London, England (Photo by Liu Yicun/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55339091663.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55339091663/",
+          "remote": "https://live.staticflickr.com/65535/55339091663_9e7299d9b4_b.jpg",
+          "description": "NoMan of XLG Esports reacts on stage at the VALORANT Masters London held at the Copper Box Arena on June 16, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54782237150.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54782237150/",
+          "remote": "https://live.staticflickr.com/65535/54782237150_e2c446c3d0_b.jpg",
+          "description": "PARIS, FRANCE - NoMan of XLG Esports at VALORANT Champions Paris Tech Check at Les Arènes de Grand Paris Sud on September 11, 2025 in Paris, France (Photo by Colin Young Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54797648172.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54797648172/",
+          "remote": "https://live.staticflickr.com/65535/54797648172_2bcf7f28d9_b.jpg",
+          "description": "PARIS, FRANCE - coconut (L) and NoMan of XLG are seen on stage during VALORANT Champions Paris Group Stage Day 7 at Les Arènes de Grand Paris Sud on September 19, 2025 in Paris, France (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54798306726.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54798306726/",
+          "remote": "https://live.staticflickr.com/65535/54798306726_c7a3b559ea_b.jpg",
+          "description": "PARIS, FRANCE - (L-R) happywei, Viva, coconut, and NoMan of XLG walk on stage during VALORANT Champions Paris Group Stage Day 7 at Les Arènes de Grand Paris Sud on September 19, 2025 in Paris, France (Photo by Adela Sznajder/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55339209184.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55339209184/",
+          "remote": "https://live.staticflickr.com/65535/55339209184_45e0130faa_b.jpg",
+          "description": "NoMan of XLG Esports is seen onstage at the VALORANT Masters London held at the Copper Box Arena on June 16, 2026 in London, England (Photo by Liu Yicun/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         785,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "Rarga",
@@ -46352,12 +48657,76 @@
       "kills": 5539,
       "deaths": 4969,
       "portrait": "assets/players/22047.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/55550005448.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55550005448/",
+          "remote": "https://live.staticflickr.com/65535/55550005448_4671ed4c51_b.jpg",
+          "description": "Rarga of XLG Esports during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55550065359.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55550065359/",
+          "remote": "https://live.staticflickr.com/65535/55550065359_eb972f777f_b.jpg",
+          "description": "Rarga of XLG Esports during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55332940463.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55332940463/",
+          "remote": "https://live.staticflickr.com/65535/55332940463_30fe913fbf_b.jpg",
+          "description": "Rarga of XLG Esports reacts onstage at the VALORANT Masters London held at the Copper Box Arena on June 13, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55333097868.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55333097868/",
+          "remote": "https://live.staticflickr.com/65535/55333097868_482fab93aa_b.jpg",
+          "description": "Rarga of XLG Esports speaks during post conference at the VALORANT Masters London held at the Copper Box Arena on June 13, 2026 in London, England (Photo by Liu Yicun/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54782149679.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54782149679/",
+          "remote": "https://live.staticflickr.com/65535/54782149679_dd5253e6ca_b.jpg",
+          "description": "PARIS, FRANCE - September 8, 2025: (L-R) coconut, NoMan, and Rarga of XLG at the VALORANT Champions Paris Features Day on September 8, 2025 in Paris, France. (Photo by Adela Sznajder/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55335470532.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55335470532/",
+          "remote": "https://live.staticflickr.com/65535/55335470532_675ae65607_b.jpg",
+          "description": "Rarga of XLG Esports arrives to compete at the VALORANT Masters London held at the Copper Box Arena on June 15, 2026 in London, England (Photo by Liu Yicun/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55335540657.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55335540657/",
+          "remote": "https://live.staticflickr.com/65535/55335540657_8c347caa3e_b.jpg",
+          "description": "Esports host (L) Jennlee interviews Rarga of XLG Esports at the VALORANT Masters London held at the Copper Box Arena on June 15, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55335584497.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55335584497/",
+          "remote": "https://live.staticflickr.com/65535/55335584497_7db0acf703_b.jpg",
+          "description": "Rarga of XLG Esports is seen onstage at the VALORANT Masters London held at the Copper Box Arena on June 15, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         785,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "WsLeo",
@@ -47026,12 +49395,76 @@
       "kills": 2437,
       "deaths": 2472,
       "portrait": "assets/players/24308.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/55549899986.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55549899986/",
+          "remote": "https://live.staticflickr.com/65535/55549899986_1675809a9f_b.jpg",
+          "description": "Lysoar, left, and WsLeo of XLG Esports during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55549901741.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55549901741/",
+          "remote": "https://live.staticflickr.com/65535/55549901741_ba53b7a28c_b.jpg",
+          "description": "WsLeo of XLG Esports during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55338996516.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55338996516/",
+          "remote": "https://live.staticflickr.com/65535/55338996516_bf37ccc13d_b.jpg",
+          "description": "NoMan and WsLeo of XLG Esports are seen onstage at the VALORANT Masters London held at the Copper Box Arena on June 16, 2026 in London, England (Photo by Liu Yicun/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55549102727.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55549102727/",
+          "remote": "https://live.staticflickr.com/65535/55549102727_5121850f0e_b.jpg",
+          "description": "NoMan (L) and WsLeo of XLG Esports react on stage during VALORANT Champions Shanghai Group Stage Day 2 at Jing’an Sports Center on September 25, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55550237968.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55550237968/",
+          "remote": "https://live.staticflickr.com/65535/55550237968_b0c9963192_b.jpg",
+          "description": "NoMan (L) and WsLeo of XLG Esports react on stage during VALORANT Champions Shanghai Group Stage Day 2 at Jing’an Sports Center on September 25, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55333138389.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55333138389/",
+          "remote": "https://live.staticflickr.com/65535/55333138389_a8e6b20486_b.jpg",
+          "description": "WsLeo of XLG Esports is seen onstage at the VALORANT Masters London held at the Copper Box Arena on June 13, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55338088767.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55338088767/",
+          "remote": "https://live.staticflickr.com/65535/55338088767_2a87558e73_b.jpg",
+          "description": "WsLeo of XLG Esports speaks during post conference after being eliminated at the VALORANT Masters London held at the Copper Box Arena on June 16, 2026 in London, England (Photo by Liu Yicun/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55338959383.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55338959383/",
+          "remote": "https://live.staticflickr.com/65535/55338959383_f21f81e1de_b.jpg",
+          "description": "WsLeo of XLG Esports is seen onstage at the VALORANT Masters London held at the Copper Box Arena on June 16, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         785,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "Lysoar",
@@ -47601,12 +50034,76 @@
       "kills": 5776,
       "deaths": 5590,
       "portrait": "assets/players/37489.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/55549901811.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55549901811/",
+          "remote": "https://live.staticflickr.com/65535/55549901811_a70dfe9c20_b.jpg",
+          "description": "Lysoar of XLG Esports during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55550005548.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55550005548/",
+          "remote": "https://live.staticflickr.com/65535/55550005548_a2efdd52a0_b.jpg",
+          "description": "Lysoar of XLG Esports during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55562689406.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55562689406/",
+          "remote": "https://live.staticflickr.com/65535/55562689406_c9668c28d5_b.jpg",
+          "description": "NoMan (L) and Lysoar of XLG Esports react onstage during VALORANT Champions Shanghai Group Stage Day 7 at Jing’an Sports Center on October 01, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55339167698.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55339167698/",
+          "remote": "https://live.staticflickr.com/65535/55339167698_f2ce7b0331_b.jpg",
+          "description": "WsLeo and Lysoar of XLG Esports speak during post conference after being eliminated at the VALORANT Masters London held at the Copper Box Arena on June 16, 2026 in London, England (Photo by Liu Yicun/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55550302324.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55550302324/",
+          "remote": "https://live.staticflickr.com/65535/55550302324_9ea24e9517_b.jpg",
+          "description": "WsLeo (L) and Lysoar of XLG Esports react on stage during VALORANT Champions Shanghai Group Stage Day 2 at Jing’an Sports Center on September 25, 2026 in Shanghai, China (Photo by Yicun Liu/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55338070507.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55338070507/",
+          "remote": "https://live.staticflickr.com/65535/55338070507_11c5950004_b.jpg",
+          "description": "Lysoar of XLG Esports reacts onstage at the VALORANT Masters London held at the Copper Box Arena on June 16, 2026 in London, England (Photo by Liu Yicun/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55339184476.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55339184476/",
+          "remote": "https://live.staticflickr.com/65535/55339184476_a90b1e5c0f_b.jpg",
+          "description": "Lysoar of XLG Esports reacts onstage at the VALORANT Masters London held at the Copper Box Arena on June 16, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55339395739.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55339395739/",
+          "remote": "https://live.staticflickr.com/65535/55339395739_8933af79f9_b.jpg",
+          "description": "Lysoar of XLG Esports is seen onstage at the VALORANT Masters London held at the Copper Box Arena on June 16, 2026 in London, England (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         785,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "happywei",
@@ -48341,12 +50838,76 @@
       "kills": 4865,
       "deaths": 4334,
       "portrait": "assets/players/37927.webp",
-      "photos": [],
+      "photos": [
+        {
+          "file": "assets/photos/55548869267.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55548869267/",
+          "remote": "https://live.staticflickr.com/65535/55548869267_ab297937d4_b.jpg",
+          "description": "happywei of XLG Esports during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55550065434.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55550065434/",
+          "remote": "https://live.staticflickr.com/65535/55550065434_f4e9b4664a_b.jpg",
+          "description": "happywei of XLG Esports during VALORANT Champions Shanghai Features Day on September 20, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55562959493.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55562959493/",
+          "remote": "https://live.staticflickr.com/65535/55562959493_bee4d2ec22_b.jpg",
+          "description": "WsLeo (L) and happywei of XLG Esports react onstage during VALORANT Champions Shanghai Group Stage Day 7 at Jing’an Sports Center on October 01, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/55562807644.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/55562807644/",
+          "remote": "https://live.staticflickr.com/65535/55562807644_14cf2fd58f_b.jpg",
+          "description": "Lysoar (L) and happywei of XLG Esports walk onstage during VALORANT Champions Shanghai Group Stage Day 7 at Jing’an Sports Center on October 01, 2026 in Shanghai, China (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2026,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54782213573.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54782213573/",
+          "remote": "https://live.staticflickr.com/65535/54782213573_d8bc56ddce_b.jpg",
+          "description": "PARIS, FRANCE - coconut (L) and happywei of XLG Esports arrive to compete  at VALORANT Champions Paris Group Stage Day 1 at Les Arènes de Grand Paris Sud on September 12, 2025 in Paris, France (Photo by Colin Young Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54798473799.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54798473799/",
+          "remote": "https://live.staticflickr.com/65535/54798473799_e78a720f8b_b.jpg",
+          "description": "PARIS, FRANCE - (L-R) Rarga, Coach hvoya, Viva, NoMan, coconut, and happywei of XLG walk on stage during VALORANT Champions Paris Group Stage Day 7 at Les Arènes de Grand Paris Sud on September 19, 2025 in Paris, France (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54798838508.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54798838508/",
+          "remote": "https://live.staticflickr.com/65535/54798838508_9899375964_b.jpg",
+          "description": "PARIS, FRANCE - coconut (L) and happywei of XLG are seen on stage during VALORANT Champions Paris Group Stage Day 7 at Les Arènes de Grand Paris Sud on September 19, 2025 in Paris, France (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        },
+        {
+          "file": "assets/photos/54801260287.webp",
+          "source": "https://www.flickr.com/photos/valorantesports/54801260287/",
+          "remote": "https://live.staticflickr.com/65535/54801260287_1df3d2f867_b.jpg",
+          "description": "PARIS, FRANCE - coconut (L) and happywei of XLG Esports arrive to compete at VALORANT Champions Paris Group Stage Day 9 at Les Arènes de Grand Paris Sud on September 21, 2025 in Paris, France (Photo by Colin Young-Wolff/Riot Games)",
+          "year": 2025,
+          "credit": "Riot Games / VALORANT Champions Tour Photos"
+        }
+      ],
       "portraitSize": [
         785,
         621
-      ],
-      "photoNote": "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "handle": "Sharks",

@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "roster": {
     "teams": 12,
     "players": 73,
@@ -19,16 +19,22 @@
     "missingAgentStats": [
       "nothing"
     ],
-    "newFlickrPhotoDownloads": "HTTP 403; match-data posters used instead"
+    "newFlickrPhotoDownloads": {
+      "photos": 320,
+      "players": 42,
+      "delivery": "local WebP",
+      "captionMatching": "exact player handle followed by of",
+      "remainingProfiles": 31
+    }
   },
   "staticValidation": "73 generated player pages; local links, image assets, source numeric cells and derived totals verified",
   "browserSamples": [
     "CHICHOO",
     "whzy",
     "Rarga",
-    "Life",
+    "nothing",
     "Toosy",
-    "nothing"
+    "original ZmjjKK"
   ],
   "desktop": {
     "viewport": [
@@ -36,12 +42,12 @@
       900
     ],
     "hoverHashes": [
-      19936269,
-      16074654,
-      15693825,
-      19936269
+      22976501,
+      22305549,
+      22407443,
+      22976501
     ],
-    "heroScale": 0.37,
+    "heroScale": 0.34,
     "agentMaps": [
       172,
       125,
@@ -68,7 +74,11 @@
     "caseInsensitiveSearch": "WhZy -> whzy",
     "activeOnly": 62,
     "emptyAndReset": true,
-    "sortAndViewAndShareableFilter": true
+    "sortAndViewAndShareableFilter": true,
+    "wordmarkFitsViewport": true,
+    "photoViewerSources": true,
+    "galleryLayerParallax": true,
+    "mobileDesktopResize": true
   },
   "mobile": {
     "viewport": [
@@ -84,20 +94,31 @@
     ],
     "toggleBottom": 787,
     "resume": true,
-    "overflow": 0
+    "overflow": 0,
+    "heroScale": 0.7,
+    "nativeGalleryScroll": true
   },
   "offline": {
-    "profile": "Life",
-    "directoryFilter": "EDG -> 7 players",
-    "fonts": "loaded",
-    "externalRequests": 0,
-    "consoleErrors": 0,
-    "consoleWarnings": 0
+    "fileProtocol": true,
+    "network": "Offline",
+    "sample": "Toosy",
+    "canvasReady": true,
+    "reducedTriggers": 0,
+    "toggleWorks": true,
+    "horizontalOverflow": 0,
+    "imageErrors": []
   },
   "limitations": [
     "Source snapshot is not a live transfer feed",
-    "Flickr photo CDN denied new downloads",
     "Three missing portraits and one missing agent/match dataset are labelled",
-    "No low-end device FPS measurement"
-  ]
+    "No low-end device FPS measurement",
+    "31 players have no verified event photographs and use labelled editorial chapters"
+  ],
+  "previousValidationDate": "2026-11-02",
+  "visualRevision": 2,
+  "directoryOriginalKangkangLink": true,
+  "directKangkangAliasRedirectsToOriginal": true,
+  "deterministicBuild": true,
+  "consoleErrors": 0,
+  "consoleWarnings": 0
 }
